@@ -374,4 +374,12 @@
 	"city": "Tegucigalpa, Honduras",
 	"urls": {
 	}
-}]
+}, 
+   {
++  	"name": "Paulette Talavera",
++	"role": "Business Analyst",
++	"email": "paulette@acklenavenue.com",
++	"city": "Tegucigalpa, Fco Morazan",
++	"urls": {
++	}
++	}]
