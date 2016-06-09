@@ -22,6 +22,22 @@ $(function() {
           $(this).addClass("active");
      })
 
+var previousScroll = 0;
+$(window).bind('scroll', function () {
+    var currentScroll = $(this).scrollTop();
+    if(currentScroll > 50) {
+        if (currentScroll > previousScroll) {
+            $('#fixednavbar').fadeOut();
+        } else {
+            $('#fixednavbar').fadeIn();
+            $('#fixednavbar').addClass('fixed-nav');
+        }
+    } else {
+         $('#fixednavbar').removeClass('fixed-nav');   
+    }
+    previousScroll = currentScroll;
+});
+
 //team gravatar
 $("#team .team-member .rouded-img").each(function(){
     $(this).attr("src", "http://www.gravatar.com/avatar/" + md5($(this).attr("alt")) + "?s=335");
@@ -64,7 +80,7 @@ $("#contact-form").submit(function(e) {
       $("#sending-message").hide();
       $("#success-message").show();
     },
-    error : function(error) {      
+    error : function(error) {
       $("#sending-message").hide();
       $("#contact-form").show();
     }
@@ -74,7 +90,7 @@ $("#contact-form").submit(function(e) {
   $("#client-project").val("");
   $("#client-message").val("");
   return false;
-}); 
+});
 
 });
 
