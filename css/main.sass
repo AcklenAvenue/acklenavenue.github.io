@@ -40,6 +40,11 @@ $screen-lg-min: 1200px
 @import _client-item
 @import _slider2
 
+@mixin prefix($property, $value, $prefixes: ()) 
+  @each $prefix in $prefixes
+    #{'-' + $prefix + '-' + $property}: $value
+  #{$property}: $value
+
 =border-radius($radius)
   -webkit-border-radius: $radius
   -moz-border-radius:    $radius
@@ -386,12 +391,22 @@ nav
         color: $light-green
         border-bottom: 3px solid $light-green
 
+.nav
+  @include prefix(transition, opacity .4s ease, webkit ms moz o)
+
 .fixed-nav
   position: fixed
   top: 0
   left: 0
   z-index: 9999
   width: 100%
+  opacity: 0
+
+.fixed-nav-show
+  opacity: 1
+
+.fixed-nav-hide
+  opacity: 0
 
 #contact-us,
 #services,
