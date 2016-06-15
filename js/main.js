@@ -89,6 +89,8 @@ function hideNav() {
 
   // mail service
 
+// mail service
+
   $("#contact-form").submit(function(e) {
     e.preventDefault();
 
@@ -104,21 +106,24 @@ function hideNav() {
     $.ajax({
       type: "POST",
       url: "http://emailer-3.apphb.com/Mail",
-      data: mailModel,
+    data : JSON.stringify(mailModel),
+    contentType: "application/json; charset=utf-8",
       success: function(msg) {
         $("#sending-message").hide();
         $("#success-message").show();
       },
-      error: function(error) {
+    error : function(error) {
         $("#sending-message").hide();
         $("#contact-form").show();
+      console.log(error);
       }
     });
-    $("#client-name").val("");
-    $("#client-email").val("");
-    $("#client-project").val("");
-    $("#client-message").val("");
+
+  $("#contact-name").val("");
+  $("#contact-email").val("");
+  $("#contact-project").val("");
+  $("#contact-message").val("");
     return false;
-  });
+});
 
 });

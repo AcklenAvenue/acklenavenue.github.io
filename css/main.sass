@@ -320,7 +320,7 @@ h3
     margin-top: 150px
 
   .wrapper
-    overflow: auto
+    overflow: hidden
     max-width: 710px
     margin: 0 auto
     margin-top: 75px
@@ -328,8 +328,7 @@ h3
 
   form > *
     display: block
-    max-width: 300px
-    width: 300px
+    width: 100%
     margin-bottom: 20px
     padding: 15px
     font-size: $type-14
@@ -352,9 +351,8 @@ h3
 
   .contact-form, .contact-info
     float: left
-
-  .contact-form
     width: 300px
+
 
   .contact-info
     width: 350px
@@ -675,7 +673,7 @@ main
 .video-header
   position: relative
   min-height: auto
-  height: 70vh
+  height: 55vh
   width: 100%
   display: flex
   float: none
@@ -1167,7 +1165,7 @@ a.post-author-link:hover
 
 
 
-@media (min-width: 320px) and (max-width: 760px)
+@media (min-width: 200px) and (max-width: 760px)
 
   #clients
     .casestudy
@@ -1191,7 +1189,7 @@ a.post-author-link:hover
       font-size: 0.8em
 
   .video-header
-    height: 80vh
+    height: 60vh
 
   #video-bg
     display: none
@@ -1221,6 +1219,7 @@ a.post-author-link:hover
     .contact-form
       margin: 10px auto
       float: none
+      width: 100%
 
   #contact-us
     .contact-info
