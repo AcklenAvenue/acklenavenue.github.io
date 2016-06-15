@@ -89,7 +89,7 @@ function hideNav() {
 
   // mail service
 
-// mail service
+  // mail service
 
   $("#contact-form").submit(function(e) {
     e.preventDefault();
@@ -106,24 +106,69 @@ function hideNav() {
     $.ajax({
       type: "POST",
       url: "http://emailer-3.apphb.com/Mail",
-    data : JSON.stringify(mailModel),
-    contentType: "application/json; charset=utf-8",
+      data: JSON.stringify(mailModel),
+      contentType: "application/json; charset=utf-8",
       success: function(msg) {
         $("#sending-message").hide();
         $("#success-message").show();
       },
-    error : function(error) {
+      error: function(error) {
         $("#sending-message").hide();
         $("#contact-form").show();
-      console.log(error);
+        console.log(error);
       }
     });
 
-  $("#contact-name").val("");
-  $("#contact-email").val("");
-  $("#contact-project").val("");
-  $("#contact-message").val("");
+    $("#contact-name").val("");
+    $("#contact-email").val("");
+    $("#contact-project").val("");
+    $("#contact-message").val("");
     return false;
-});
+  });
 
+  $("form#contact-form").each(function() {
+    var jqForm = $(this);
+    var jsForm = this;
+    var action = jqForm.attr("action");
+    jqForm.submit(function(event) { // when someone submits the form(s)
+      event.preventDefault(); // don't submit the form yet
+      ga('send', {
+          hitType: 'event',
+          eventCategory: 'Forms',
+          eventAction: 'Message Sent',
+          transport: 'beacon'
+        });
+      setTimeout(function() { // now wait 300 milliseconds...
+        jsForm.submit(); // ... and continue with the form submission
+      }, 300);
+    });
+  });
+  $("a").each(function() {
+    var href = $(this).attr("href");
+    var target = $(this).attr("target");
+    var text = $(this).text();
+    $(this).click(function(event) { // when someone clicks these links
+      event.preventDefault(); // don't open the link yet
+      if (event.currentTarget.host != window.location.host) {
+        ga('send', {
+          hitType: 'event',
+          eventCategory: 'Outbound Link',
+          eventAction: 'link',
+          eventLabel: href,
+          transport: 'beacon'
+        });
+      } else {
+        ga('send', {
+          hitType: 'event',
+          eventCategory: 'Link',
+          eventAction: 'link',
+          eventLabel: text,
+          transport: 'beacon'
+        });
+      }
+      setTimeout(function() { // now wait 300 milliseconds...
+        window.open(href, (!target ? "_self" : target)); // ...and open the link as usual
+      }, 300);
+    });
+  });
 });
