@@ -4,7 +4,7 @@ title:  5 Secrets to Quality Software Delivery
 date:   2015-09-01
 categories: software
 author: Byron Sommardahl
-image: /assets/img/posts/bullseye.jpg
+image: /assets/img/posts/QualitySoftware.jpg
 excerpt: Quality Software works as expected today and can be easily modified 6 months later. How can a team consistently produce software with a high level of quality?
 ---
 
@@ -37,6 +37,6 @@ A distant, massive goal is harder to attain than a close and clearly defined goa
     	</span>
     </div>
     <div class="col-md-4">
-        <p><a class="btn-u btn-u-lg btn-u-red" href="/contact.html"><i class="fa fa-life-ring"></i>&nbsp;Contact Us</a></p>
+        <p><a class="btn-u btn-u-lg btn-u-red" href="#contact-us"><i class="fa fa-life-ring"></i>&nbsp;Contact Us</a></p>
     </div>
 </div>

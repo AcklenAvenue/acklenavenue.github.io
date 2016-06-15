@@ -5,10 +5,8 @@ date:   2014-01-19 10:52:48
 categories: software
 author: Byron Sommardahl
 excerpt: I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler “Do to others as you would have them do to you.”...
-image: http://awkwardcoder.com/wp-content/uploads/2014/01/Preach_it.jpg
+image: /assets/img/posts/SteveJobs.jpg
 ---
-<img style="float: left; padding: 10px;" src="http://awkwardcoder.com/wp-content/uploads/2014/01/Preach_it.jpg" />
-
 I’ve gone to church all my life and “The Golden Rule” has been pound into my head since I was a toddler: “Do to others as you would have them do to you.” That’s Jesus talking in Matthew 7:12, by the way. Now, I’m not going to preach, so don’t navigate away too quickly… Well, I’m not going to preach about the Bible anyhow. I guess I am going to preach a little about how I think software developers should change their evil ways. 
 
 It doesn’t matter if you believe in God or follow the Bible, anyone can probably admit that Jesus was teaching something pretty important. Common human decency. An expectation that, if you treat folks badly, you’ll probably get the same in return. Love people so you will be loved. Open the door for someone and smile, because that’s what you want people to do for you. This blog article is my attempt to live out “The Golden Rule” amongst my fellow developers. I am chewing you all out because I would want you to chew me out if I did this crap to you all. 

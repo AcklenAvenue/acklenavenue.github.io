@@ -5,11 +5,9 @@ date:   2014-06-19
 categories: agile
 author: Byron Sommardahl
 excerpt: Your company is getting ready to make a major investment in custom software that might take you to the next level. How exciting and nerve-racking at the same time!
-image: /assets/img/posts/down_the_drain.jpg
+image: /assets/img/posts/ROI.jpg
 imageCredit: image from https://c2.staticflickr.com/4/3001/5857968442_2909c971f2_z.jpg (public domain)
 ---
-<img style="float: right; padding: 10px; width: 400px;" src="/assets/img/posts/down_the_drain.jpg" alt="Money down the drain." />
-
 Your company is getting ready to make a major investment in custom software that might take you to the next level. How exciting and nerve-racking at the same time! You stand to benefit in huge ways by this software. As long as you've done your homework and have a good team, you'll probably accomplish what you set out to do. However, if you don't avoid some typical "time sucks", **you're killing your ROI!!**
 
 #Software Development ROI Killers
@@ -46,4 +44,4 @@ Now, I don't know if you are the owner of your company or a director of a depart
 
 It's time to look for a development team that knows how to avoid these ROI killers. If you have your own development team, it's time to get them trained! Consider these 5 ROI killers that I've mentioned and get ready to shine.
 
-**If you need a team of developers who are well-trained in avoiding these ROI killers, [let us know](/contact.html)!**
+**If you need a team of developers who are well-trained in avoiding these ROI killers, [let us know](#contact-us)!**

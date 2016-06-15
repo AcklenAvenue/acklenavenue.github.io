@@ -5,7 +5,7 @@ date:   2014-07-07
 categories: agile
 author: Byron Sommardahl
 excerpt: I just bought some brakes for my car the other day. When I was at the auto parts store, the guy asked me which brakes I wanted. You've been there, I'm sure...
-image: /assets/img/posts/hot-air-balloons.jpg
+image: /assets/img/posts/Globes.jpg
 imageCredit: http://creativecommons.org/weblog/entry/18364, http://commons.wikimedia.org/wiki/File:Henry_ford_1919.jpg, http://commons.wikimedia.org/wiki/File:%22YOUR_BATTLESHIP_AND_HER_REQUIREMENTS%22_-_NARA_-_516243.jpg, https://www.flickr.com/photos/jurvetson/156830367/, https://www.flickr.com/photos/autohistorian/4410527136/ (creative commons)
 ---
 
@@ -76,6 +76,6 @@ There are good and bad consequences, and every decision carries one or the other
     	</span>
     </div>
     <div class="col-md-4">
-        <p><a class="btn-u btn-u-lg btn-u-red" href="/contact.html"><i class="fa fa-life-ring"></i>&nbsp;Contact Us</a></p>
+        <p><a class="btn-u btn-u-lg btn-u-red" href="#contact-us"><i class="fa fa-life-ring"></i>&nbsp;Contact Us</a></p>
     </div>
 </div>

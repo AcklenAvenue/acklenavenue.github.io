@@ -4,11 +4,9 @@ title:  An Experiment Gone Very Right
 date:   2016-01-29
 categories: greatness
 author: Byron Sommardahl
-image: http://acklenavenue.com/assets/img/shots/IMG_0886.jpg
+image: /assets/img/posts/Camilo.jpg
 excerpt: Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment.
 ---
-<img style="float: left; padding: 10px; width: 400px;" src="http://acklenavenue.com/assets/img/shots/IMG_0886.jpg" alt="Camilo Aguilar" />
-
 Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment. You see, I had recently sold everything and moved to Honduras after marrying the girl of my dreams. After finding the quiet tech community in Honduras and getting as involved as they would allow, I started to realize just how much incredible talent there is in Central America. My eyes were also opened to how many english speakers there are in the tech community. WOW! Then I started to notice certain characteristics of the culture in Honduras that seemed to lend itself to a strong work ethic and a healthy respect for learning and growing. I don’t know about you, but all that sounded to me like a recipe for success! Our risky experiment was to hire a few Honduran developers and build some software together.
 
 It took me a few days to convince my partners to go with me on this. In those days there was plenty of negative stigma around “outsourcing” and “offshore workers”. Too many nightmarish stories involving time-zone woes, miscommunication, poor quality, and wasted money. But Honduras (and Central America in general) was largely untapped and untested in those days. Well, my partners finally let me have my experiment. 

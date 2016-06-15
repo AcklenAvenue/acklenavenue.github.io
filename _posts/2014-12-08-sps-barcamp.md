@@ -4,11 +4,9 @@ title:  Acklen Avenue Represents at the SPS BarCamp
 date:   2014-12-08
 categories: community
 author: Richard Siwady
-image: https://farm8.staticflickr.com/7567/15631306317_12522cb90a.jpg
+image: /assets/img/posts/BarCampSps.jpg
 excerpt: Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting...
 ---
-<img src='https://farm8.staticflickr.com/7567/15631306317_12522cb90a.jpg' style="float: right; padding: 10px;" width="500" height="334" />
-
 Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting. But first things first, let’s talk a little about the city. San Pedro Sula is located in the northwest corner of Honduras, it is the second largest, population wise, city in the country. In the last couple of years the city has experienced a lot of changes in the technology area and its tech community is getting really active. Just in the last year, San Pedro Sula has hosted more than 5 big tech events including Startup Weekend, global hackathons, tech talks, and of course Barcamps.  
 
 So, everything started around 10:00am; people started arriving and registering themselves and started talking with new people. By 10:30 I gave the opening keynote, explained to newcomers what to expect with Barcamp and encouraged them to learn and share as much as possible. This year we included some coding and design challenges to keep attendees entertained. Not a lot of folks participated but it was a cool thing to do. I also took the time to thank the sponsors because without their support BarcampSPS wouldn’t be a reality.  

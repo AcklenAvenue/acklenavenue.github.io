@@ -5,7 +5,7 @@ date:   2014-06-26
 categories: agile
 author: Byron Sommardahl
 excerpt: Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs...
-image: /assets/img/posts/carrot.jpg
+image: /assets/img/posts/ATDD.jpg
 imageCredit: http://edwinandrewlove.blogspot.com/2012/10/cash-aint-carrots-and-i-aint-your-donkey.html (public domain)
 ---
 Custom software is pretty expensive! Unnoticed system bugs, misunderstood requirements, and lack of developer focus can prolong a project and inflate costs. So when we find a way to reduce the cost of software development, we’re about as excited as a pardoned Thanksgiving turkey! And naturally, our excitement makes us want to share! 
@@ -14,7 +14,6 @@ Today, you need to check out “Acceptance Test-Driven Development” (ATDD). It
 
 ##Maximize Developer Focus
 
-<img style="float: right; padding: 10px; width: 350px;" src="/assets/img/posts/carrot.jpg" alt="Carrot on a Stick" />
 Software developers are some of most focused people I know on earth. They are incredibly detail oriented and love to get into the dirty details. But, without a “carrot on the stick” to remind them what the nearest goal is, time can be lost refocusing, correcting course, and sometimes going too far down a path. 
 
 The best “carrot“ I know is a well-defined “user story”, complete with a list of “acceptance criteria”. But, ATDD takes it to a whole new level by integrating business-generated acceptance criteria into automated, repeatable tests! The basic premise is this: 1) A developer starts with one or more failing “acceptance tests”, each that explains in plain english the expected behavior. 2) While the developer is working on a feature, the acceptance test remains in a failure state, constantly calling the developers attention to the goal (the ultimate “carrot”). 3) Then, when the developer has finished writing the feature, he will know that he is done when the acceptance test starts to pass. 
@@ -37,7 +36,7 @@ Nothing invigorates a software developer than the feeling of accomplishment.  Wi
 
 Custom software might be one of the biggest investments your business will ever make. And you might not mind so much, because you know that software will help your business rise to the next level. But it would be even better if software didn’t have to cost so much. Well, it doesn’t. Encourage your development team to look into ATDD. When your team starts to use ATDD, expect to see more complete features, fewer bugs, lower QA costs, and happier, more productive developers.
 
-If you’d like more information on how to get moving with ATDD or if you need an experienced ATDD team, [contact us today!](/contact.html).
+If you’d like more information on how to get moving with ATDD or if you need an experienced ATDD team, [contact us today!](#contact-us).
 
 
 

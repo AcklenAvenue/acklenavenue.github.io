@@ -4,11 +4,9 @@ title:  Acklen Avenue Summit 2015
 date:   2015-4-10
 categories: community
 author: Richard Siwady, Byron Sommardahl
-image: https://farm8.staticflickr.com/7632/16910739168_b698dc9bd9_z_d.jpg
+image: /assets/img/posts/Summit2015.jpg
 excerpt: Next week Acklen Avenue is hosting it’s annual Summit. We’ve hosted several summits in the past 2 years in locations like beautiful Lake Yojoa and peaceful Santa Ana...
 ---
-<img src='https://farm9.staticflickr.com/8652/16135206135_df5c1509ab_z_d.jpg' style="float: right; padding: 10px;" width="500" height="334" />
-
 Next week Acklen Avenue is hosting it’s annual Summit. We’ve hosted several summits in the past 2 years in locations like beautiful Lake Yojoa and peaceful Santa Ana. This year we’re coming back to charming Santa Ana, because we can’t get enough! Santa Ana is a small town located 30 minutes south of Honduras’ capital, Tegucigalpa. Most of the team members are joining, including some from our main office in Nashville, Tennessee, for a week packed of fun activities and valuable training.
 
 This summit promises to be the best yet. What better way to kick off a summit than to have a team building activity? The first day (Tuesday) we get to watch a soccer game and catch up with fellow team members. After that we start with our first training sessions. This year, we are proudly publishing all our training sessions to youtube, free to the public! For a complete list of the training sessions planned for this year’s summit you can check our [Google+ page](https://www.google.com/+Acklenavenue). 

@@ -4,12 +4,9 @@ title:  Agile Software Estimation &#58; Stop Scaring Clients Away!
 date:   2014-05-21
 categories: agile
 author: Colin Callahan
-image: http://acklenavenue.com/assets/img/posts/scared.JPG
+image: /assets/img/posts/AgileEstimation.jpg
 excerpt: A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants to have a beer with you. He wants to know how soon you could get there...
 ---
-
-<img style="float: left; padding: 10px;" src="http://acklenavenue.com/assets/img/posts/scared.JPG" />
-
 A friend you haven’t seen in a while says that he will be in Chattanooga for the day and wants to have a beer with you. He wants to know how soon you could get there from Nashville to see if he should wait for you or not.
 
 You start thinking about the trip and come up with this: 
@@ -51,4 +48,4 @@ Lessons Learned
 
 2. Don’t pad User Stories that you’ve built many times before or are clear and not risky. That way you can manage customer expectations without scaring them away.
 
-Remember, estimates are never perfect. They are meant to help you plan. In Agile Software Estimation, they are also meant to be flexible. However, your experiences can guide you toward more reliable estimates. If you’d like to learn more about Agile Software Estimation, <a href="/contact.html">contact us today.</a>
+Remember, estimates are never perfect. They are meant to help you plan. In Agile Software Estimation, they are also meant to be flexible. However, your experiences can guide you toward more reliable estimates. If you’d like to learn more about Agile Software Estimation, <a href="#contact-us">contact us today.</a>

@@ -5,10 +5,8 @@ date:   2014-06-04
 categories: agile
 author: Byron Sommardahl
 excerpt: People who complain about paying $149 for a shrink wrapped copy of Quickbooks Pro have obviously never been in charge of a custom software development project...
-image: http://acklenavenue.com/assets/img/posts/iStock_000001389194_Small.jpg
+image: /assets/img/posts/WillProgramForFood.jpg
 ---
-<img style="float: left; padding: 10px; width: 400px;" src="http://acklenavenue.com/assets/img/posts/iStock_000001389194_Small.jpg" alt="Will Code For Food" />
-
 People who complain about paying $149 for a shrink wrapped copy of Quickbooks Pro have obviously never been in charge of a custom software development project. Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. But why so expensive? Well, for one thing, custom software doesn't build itself. Software developers are some of the highest paid folks in the workforce. For another thing, those highly-paid software developers don't just create software. They create bugs.
 
 Bugs account for 80% of nationwide software costs according to [Initial State](https://initialstate.com), a company that specializes in providing log analysis tools to debug products. They also claim that development teams DELIVER, on average, 15 bugs per 1000 lines of code. To give you some perspective, a medium sized software project might be around 50,000 lines of code. So, on delivery day, when everyone feels really good about the software going live, there are somewhere around 750 unknown bugs hidden in those 50,000 lines. Those bugs will present themselves slowly, over time.
@@ -33,7 +31,7 @@ What's better than fixing bugs as soon as they are created? Never creating them 
 
 Are software bugs expensive? You bet they are. Five minutes [googling that question](https://www.google.com/search?btnG=1&pws=0&q=are+software+bugs+expensive%3F&gws_rd=ssl) will reveal pages and pages of horror stories, statistics, white papers, and university studies.  The verdict is that bugs are a reality and an expected part of software development. But, if you are embarking on a new custom software development project, you really should consider what it takes to reduce the impact of bugs on your budget. My team has discovered that bugs, though ever present, don't have to be so numerous and destructive. Focus your team on delivery, embed QA testers alongside your developers, use techniques like TDD and Pair Programming, and get your team educated in the "art" of clean code... And you'll be well on your way to software success.
 
-If you’d like to learn more about how Acklen Avenue can help you reduce bugs in your software projects, <a href="/contact.html">contact us today.</a>
+If you’d like to learn more about how Acklen Avenue can help you reduce bugs in your software projects, <a href="#contact-us">contact us today.</a>
 
 ###Sources:
 - Initial State Info Graphic - [https://initialstate.com/info](https://initialstate.com/info)

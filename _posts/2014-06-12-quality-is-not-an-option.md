@@ -5,11 +5,9 @@ date:   2014-06-12
 categories: agile
 author: Byron Sommardahl
 excerpt: This article is about some lessons that my team has learned about developing custom software and making clients happy. We'll get to the lessons learned in a second...
-image: http://acklenavenue.com/assets/img/posts/climbing-15774_640.jpg
+image: /assets/img/posts/CustomSoftwareNotAnOption.jpg
 imageCredit: http://pixabay.com/p-15774/?no_redirect (public domain)
 ---
-<img style="float: left; padding: 10px; width: 400px;" src="http://acklenavenue.com/assets/img/posts/climbing-15774_640.jpg" alt="Climbing Gear" />
-
 This article is about some lessons that my team has learned about developing custom software and making clients happy. We'll get to the lessons learned in a second, but I wanted to first emphasize the biggest and most important lesson of all. **Customer satisfaction is dependent on the quality of the product.** Any custom software development company depends on happy clients to survive. And if time has taught me anything, it's that clients deserve and expect quality. So, it is super important to do what it takes to ensure quality. The keys to quality is great developers (check) and great QA engineers (uh oh)! 
 
 I have seen QA done really poorly in the past. Power trippy QA managers, ignorant QA testers, attention to the wrong details, and an overall adversarial feel dominate my memories of QA while I was still working in a cubicle. So, when I started forming a team of developers a few years ago, there were several things I wanted to do better. Of course, mistakes have been made. I made the mistake of believing that we could save our clients money by asking them to do all the QA. I made a big mistake by saving all the feature testing until the end of the sprint, just before the demo. I even leaned too hard on automated testing, letting it give me a false sense of security. From years of successes and failures, I have learned a few valuable lessons. I hope my experiences can help you succeed in your next project!

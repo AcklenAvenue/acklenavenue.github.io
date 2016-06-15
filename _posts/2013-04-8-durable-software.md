@@ -4,10 +4,8 @@ title:  Durable Software
 date:   2013-04-08
 categories: software
 author: Byron Sommardahl
-image: http://awkwardcoder.com/wp-content/uploads/2013/04/7th_Penn_Parking_Lot-300x200.jpg
+image: /assets/img/posts/DurableSoftware.jpg
 ---
-<img src='http://awkwardcoder.com/wp-content/uploads/2013/04/7th_Penn_Parking_Lot-300x200.jpg' style="float: right; padding: 10px;"/>
-
 "Downtown Parking", an imaginary start-up, plans to build parking garages in large cities around the world. However, their leaders are a little short sighted and are hurrying through the construction process. Without truly understanding the ramifications, they are encouraging their construction workers to take shortcuts in order to finish faster. Meanwhile, the company leaders are keeping a close watch on the books. They are ensuring that their accounting staff are following best practices and never have errors.
 
 **Fast forward three years.** The company's bookkeeping records are still perfect after years of close attention to best practices. Well, almost perfect. You see, the quality of their parking garage structures was not a priority and now they are almost unusable. Entire sections of the parking garages cannot even be repaired and have closed. So the company is spending more than it is taking in, and the books are red hot.
