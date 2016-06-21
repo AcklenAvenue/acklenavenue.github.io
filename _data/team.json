@@ -371,6 +371,11 @@
 	"role": "Quality Assurance",
 	"city": "Tegucigalpa, Honduras",
 	"email": "walter@acklenavenue.com",
-	"urls": {
-	}
+	"urls": {}
+},{
+ 	"name": "Dale Lyon",
+	"role": "Security Tester",
+	"city": "Fayetville, Tennessee",
+	"email": "dale@acklenavenue.com",
+	"urls": {}
 }]
