@@ -1,0 +1,98 @@
+.carrousel
+  background: #ffffff
+  text-align: center
+  max-width: 100%
+  margin: auto
+  position: relative
+  overflow: hidden
+
+.carrousel .slides
+  width: 400%
+  padding-left: 0
+  overflow: hidden
+  list-style: none
+  position: relative
+
+  -webkit-transition: left .75s ease-out
+  -moz-transition: left .75s ease-out
+  -o-transition: left .75s ease-out
+  transition: left .75s ease-out
+
+.carrousel .slides li
+  width: 25%
+  position: relative
+  float: left
+
+.carrousel li img
+  width: 100%
+  vertical-align: middle
+
+.carrousel .slidesNavigation
+  display: block
+  list-style: none
+  text-align: center
+   
+
+.carrousel input
+  display: none
+
+.carrousel .slidesNavigation label
+  float: left
+  margin: 6px
+  display: block
+  height: 10px
+  width: 10px
+  -webkit-border-radius: 50%
+  border-radius: 50%
+  border: solid 2px $light-green
+  font-size: 0
+
+/* You have to repeat this with each slide */
+#radio-1:checked ~ .slides
+  left: 0
+
+#radio-2:checked ~ .slides
+  left: -100%
+
+#radio-3:checked ~ .slides
+  left: -200%
+
+#radio-4:checked ~ .slides
+  left: -300%
+
+
+
+.carrousel .slidesNavigation label:hover
+  cursor: pointer
+
+
+/* You have to repeat this with each slide/dot */
+.carrousel #radio-1:checked ~ .slidesNavigation label#dotForRadio-1,
+.carrousel #radio-2:checked ~ .slidesNavigation label#dotForRadio-2,
+.carrousel #radio-3:checked ~ .slidesNavigation label#dotForRadio-3,
+.carrousel #radio-4:checked ~ .slidesNavigation label#dotForRadio-4
+  background: $light-green
+
+
+@media  (max-width: 796px) 
+  .carrousel
+    height: 8.5em
+    height: 100%
+  
+
+@media  (max-width: 480px)
+  .carrousel
+    height: 100%
+
+  .carrousel li p
+    padding-left: 0.5em
+    padding-right: 0.5em
+  
+  .carrousel li q
+    font-size: 1em
+  
+  .carrousel li img
+    width: 2em
+    margin-left: -1em
+    margin-right: 0.25em
+ 
