@@ -4,7 +4,7 @@ title:  10 Ways to Kill Pair Programming
 date:   2016-09-01
 categories: agile
 author: Byron Sommardahl
-excerpt: I just bought some brakes for my car the other day. When I was at the auto parts store, the guy asked me which brakes I wanted. You've been there, I'm sure...
+excerpt: If you have a hard time working with other humans or find that other humans have a hard time working with you, you may want to continue reading...
 image: /assets/img/posts/10-Ways-to-Kill-Pair-Programming.jpeg
 imageCredit: By Kabren (Own work) [CC BY-SA 3.0 (http://creativecommons.org/licenses/by-sa/3.0)], via Wikimedia Commons
 ---
