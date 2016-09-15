@@ -89,6 +89,30 @@ $(document).ready(function() {
 
   // mail service
 
+  $(".leads-form").submit(function(e) {
+    e.preventDefault();
+
+    $("#sending-message").show();
+    var mailModel = {
+      Name: $("#leads-name").val(),
+      Company: $("#leads-company").val(),
+      Email: $("#leads-email").val()
+    };
+
+    $.ajax({
+      type: "POST",
+      url: "http://emailer-3.apphb.com/Mail",
+      data: JSON.stringify(mailModel),
+      contentType: "application/json; charset=utf-8",
+      success: function(msg) {
+        $("#sending-message").hide();
+        $("#success-message").show();
+      },
+      error: function(error) {
+        $("#sending-message").hide();
+      }
+  });
+
   $("#contact-form").submit(function(e) {
     e.preventDefault();
 
