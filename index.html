@@ -97,6 +97,91 @@ title: Acklen Avenue
     </div>
   </div>
 </section>
+
+<section class="quiz-wrapper">
+	<form action="" id="leads-quiz" method="post" novalidate="">
+           
+    <h2 class="quiz-title">Does this sound familiar?</h2>
+               
+	<div class="quiz-blocks-wrapper">
+		<div class="quiz-block">
+			<img src="img/quiz-computer.svg" alt="" class="quiz-icon" />
+			<div class="label-flex">
+				<div class="custom-checkbox">
+					<input type="checkbox" name="quiz" id="check-1" value="Technology is an essential component in my company.">
+					<label for="check-1">
+					</label>
+					
+				</div><!-- CUSTOM CHECKBOX -->
+				<span class="option-title">Technology is an essential component in my company.</span>
+			</div><!-- LABEL FLEX -->
+		</div><!-- QUIZ BLOCK 1 -->
+                     
+                
+        <div class="quiz-block">
+            <img src="img/quiz-rocket.svg" alt="" class="quiz-icon" />       
+          	
+          	<div class="label-flex">
+          		<div class="custom-checkbox">
+          			<input type="checkbox" name="quiz" id="check-2" value="My product has a growing customer base and/or funding.">
+          			<label for="check-2">
+          			</label>
+          			
+          		</div><!-- CUSTOM CHECKBOX -->
+          		<span class="option-title">My product has a growing customer base and/or funding.</span>
+          	</div><!-- LABEL FLEX -->
+        </div><!-- QUIZ BLOCK 2 -->
+               
+
+               
+	<div class="quiz-block">
+		<img src="img/quiz-ideas.svg" alt="" class="quiz-icon" />       
+		<div class="label-flex">
+			<div class="custom-checkbox">
+				<input type="checkbox" name="quiz" id="check-3" value="My team is innovating.">
+
+			    <label for="check-3">
+			    
+				</label>
+			</div><!-- CUSTOM CHECKBOX -->
+			<span class="option-title">My team is innovating.</span>
+		</div><!-- LABEL FLEX -->
+	</div><!-- QUIZ BLOCK 3 -->
+		
+		</div><!-- QUIZ BLOCKS WRAPPER -->
+     </form>
+     
+     
+     
+     <div class="md-modal md-effect-3" id="modal-1">
+			<div class="md-content">
+				
+				<div>
+					<img class="fireworks" src="img/quiz-fireworks.svg" alt="" />
+					<h3>Awesome!</h3>
+					<p class="quiz-congratulations">You sound a lot like our ideal client and we can't wait to learn more!</p>
+					
+					<form id="leads-form">
+                <input type="text" id="leads-name" placeholder="Name" />
+                <input type="text" id="leads-company" placeholder="Company" />
+                <input type="email" id="leads-email" placeholder="E-mail" required />
+                <input type="submit" value="Send" />
+            </form>
+            <div id="sending-message" class="hidden">
+                <h4>Your message is being sent...</h2>
+            </div>
+            <div id="success-message" class="hidden">
+                <h4>Thank you! We will reach out shortly.</h2>
+            </div>
+					
+					<button class="md-close">X</button>
+				</div><!-- INNER -->
+			</div><!-- MODAL CONTENT -->
+		</div><!-- MODAL -->
+		
+		<div class="md-overlay"></div>
+</section>
+
 {% include Team.html %}
 <section id="blog">
   <h3 class="invert">/BLOG/</h3>
