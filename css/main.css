@@ -644,7 +644,7 @@ footer {
   padding-top: 30px;
   width: 250px;
   margin: 0 auto;
-  margin-top: 60px; }
+  margin-top: 25px; }
   .social-links h4 {
     font-weight: 400;
     font-size: 22px;
@@ -682,7 +682,7 @@ h3 {
     margin-top: 150px; }
   #contact-us .wrapper {
     overflow: hidden;
-    max-width: 710px;
+    max-width: 1120px;
     margin: 0 auto;
     margin-top: 75px;
     margin-bottom: 50px; }
@@ -713,6 +713,8 @@ h3 {
     margin-left: 60px; }
     #contact-us .contact-info img {
       margin-right: 10px; }
+    #contact-us .contact-info span {
+      padding-left: 34px; }
 
 nav {
   background-color: #f2f2f2;
@@ -1493,7 +1495,23 @@ a.post-author-link:hover {
 
   #clients ul li {
     width: 100%;
-    text-align: center; } }
+    text-align: center; }
+
+  #contact-us .wrapper {
+    display: flex;
+    flex-direction: column-reverse; }
+
+  #contact-us .contact-form {
+    margin: 10px auto;
+    float: none;
+    width: 100%; }
+
+  #contact-us .contact-info {
+    margin: 10px auto;
+    text-align: center;
+    margin: 40px auto;
+    float: none;
+    width: 100%; } }
 @media (min-width: 200px) and (max-width: 760px) {
   #clients .casestudy .casetudy-text {
     width: 100%;
