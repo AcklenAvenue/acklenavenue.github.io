@@ -407,4 +407,13 @@
 	"city": "Tegucigalpa, Honduras",
 	"email": "mario@acklenavenue.com",
 	"urls": {}
-}]
+ }, {
+ 	"name": "Julio Seaman",
+	"role": "Developer",
+	"city": "Tegucigalpa, Honduras",
+	"email": "julio@acklenavenue.com",
+	"urls": {
+		"linkedIn": "https://www.linkedin.com/in/jseaman76"
+	}
+ }
+]
