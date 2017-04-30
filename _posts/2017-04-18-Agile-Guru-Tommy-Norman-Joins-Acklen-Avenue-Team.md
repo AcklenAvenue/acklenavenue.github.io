@@ -10,7 +10,7 @@ image: /assets/img/Tommy-Norman.jpg
 ---
 It's a beautiful day at Acklen Avenue. We are incredibly excited to announce that Tommy Norman, Mr. Agile Nashville himself, is officially joining the Acklen Avenue team... And not just to shred on the guitar at the Nashville Geek Jam. As Director of Agile Operations, he will serve as the team-wide coach on continuous improvement, a central principle for Acklen Avenue.
 
-The Nashville technology community would not be where it is today without Tommy. He has played a significant role in shaping Nashville’s technology community as a past president of the Nashville .NET User Group, co-founder of the DevLink technical conference, and currently as coordinator for both the Agile Nashville User Group and Music City Agile conference. 
+The Nashville technology community would not be where it is today without Tommy. He has played a significant role in shaping Nashville’s technology community as president of the Nashville .NET User Group, co-founder of the DevLink technical conference, and currently as coordinator for both the Agile Nashville User Group and Music City Agile conference. 
 
 As one of Nashville’s first Certified Enterprise Coaches, Tommy has been helping local companies build great solutions for almost 20 years, and we are pleased to bring his vast experience to bear for our clients.
 <div class="shadow-wrapper">
