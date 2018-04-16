@@ -163,5 +163,18 @@
     "github": "https://github.com/hellenfc",
     "linkedin": "https://www.linkedin.com/in/hellenfiallos/",
     "quote": "Acklen Avenue rocks!"
+}, 
+{
+	 "name": "Camilo",
+	 "lastName": "Rivera",
+	 "gravatarEmail": "crivera@acklenavenue.com",
+	 "position": "DevOps Guild Master",
+	 "location": "San Pedro Sula, Honduras",
+	 "department": ["All Ackleners", "DevOps"],
+	 "facebook": "https://www.facebook.com/camilo.ripi",
+	 "twitter": "https://twitter.com/VikingCamilo",
+	 "github": "https://github.com/camilorivera",
+	 "linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
+	 "quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
 }]
 
