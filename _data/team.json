@@ -241,6 +241,16 @@
 		"department": ["All Ackleners", "Developers"],
 		"linkedin": "https://www.linkedin.com/in/bily-fern%C3%A1ndez-52355656/",
 		"quote": "Let's make it happen!"
+	},
+	{
+		"name": "Sonia",
+		"lastName": "Sappenfield",
+		"gravatarEmail": "sonia.sappenfield@acklenavenue.com",
+		"position": "Engagement Manager",
+		"location": "Nashville, Tennessee, United States",
+		"department": ["All Ackleners", "Engagement Managers"],
+		"linkedin": "https://www.linkedin.com/in/soniasappenfield",
+		"quote": "Opportunities don't happen. You create themface!"
 	}
 ]
 
