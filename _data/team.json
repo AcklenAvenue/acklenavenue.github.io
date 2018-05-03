@@ -62,19 +62,6 @@
 		"quote": "Acklen Avenue Rocks!"
 	},
 	{
-		"name": "Alexa",
-		"lastName": "Nuñez",
-		"gravatarEmail": "alexa.n@acklenavenue.com",
-		"position": "Product Owner",
-		"location": "San Pedro Sula, Honduras",
-		"department": [
-			"All Ackleners",
-			"Product Owners"
-		],
-		"linkedin": "https://www.linkedin.com/in/alexa-nuñez",
-		"quote": "Keep it simple!"
-	},
-	{
 		"name": "Ronald",
 		"lastName": "Doblado",
 		"gravatarEmail": "ronald@acklenavenue.com",
@@ -116,21 +103,6 @@
 		"quote": "Ackleners assemble!"
 	},
 	{
-		"name": "Luis",
-		"lastName": "Isaula",
-		"gravatarEmail": "luis.isaula@acklenavenue.com",
-		"position": "DevOps",
-		"location": "Olanchito, Yoro, Honduras",
-		"department": [
-			"All Ackleners",
-			"DevOps"
-		],
-		"facebook": "https://www.facebook.com/lisaulacruz",
-		"twitter": "https://twitter.com/IsaulaC",
-		"github": "https://github.com/lisaula",
-		"quote": "Everything you can imagine is real."
-	},
-	{
 		"name": "Elder",
 		"lastName": "Cerrato",
 		"gravatarEmail": "elder@acklenavenue.com",
@@ -147,22 +119,6 @@
 		"quote": "The Enthusiasm moves the world!"
 	},
 	{
-		"name": "Krista",
-		"lastName": "David",
-		"gravatarEmail": "krista@acklenavenue.com",
-		"position": "Junior Designer",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Designers"
-		],
-		"facebook": "https://www.facebook.com/Kris2david",
-		"twitter": "https://twitter.com/KrisstaDavid",
-		"github": "https://github.com/krisstad2",
-		"linkedin": "https://www.linkedin.com/in/krista-david-85349070/",
-		"quote": "May the Force be with you, Acklen Avenue!"
-	},
-	{
 		"name": "Christian",
 		"lastName": "Garcia",
 		"gravatarEmail": "cristian.g@acklenavenue.com",
@@ -174,35 +130,6 @@
 		],
 		"github": "https://github.com/Cristian1977",
 		"quote": "Live what you haven't!"
-	},
-	{
-		"name": "Hellen",
-		"lastName": "Fiallos",
-		"gravatarEmail": "hellenfiallos@acklenavenue.com",
-		"position": "Developer",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Developers"
-		],
-		"facebook": "https://www.facebook.com/hellenfc",
-		"twitter": "https://twitter.com/hellenfc15",
-		"github": "https://github.com/hellenfc",
-		"linkedin": "https://www.linkedin.com/in/hellenfiallos/",
-		"quote": "Acklen Avenue rocks!"
-	},
-	{
-		"name": "Dennis",
-		"lastName": "Cheong",
-		"gravatarEmail": "dennis.cheong@acklenavenue.com",
-		"position": "Developer",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Developers"
-		],
-		"linkedin": "https://www.linkedin.com/in/dennis-cheong-376b23141/",
-		"quote": "Fall once, get up twice."
 	},
 	{
 		"name": "Kelvin",
@@ -218,21 +145,6 @@
 		"github": "https://github.com/KelviNosse",
 		"linkedin": "https://www.linkedin.com/in/kelvin-chinchilla-a9a441131/",
 		"quote": "I like to code with pancakes"
-	},
-	{
-		"name": "Donald",
-		"lastName": "Guevara",
-		"gravatarEmail": "donald@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Berlin, Germany",
-		"department": [
-			"All Ackleners",
-			"Quality Assurance"
-		],
-		"facebook": "https://www.facebook.com/donald.guevara",
-		"github": "https://github.com/dagiguevara",
-		"linkedin": "https://www.linkedin.com/in/donaldo-guevara-b110b8118/",
-		"quote": "Sometimes our best decisions are the ones that don't make sense at all"
 	},
 	{
 		"name": "Sharon",
@@ -279,17 +191,6 @@
 		"github": "https://github.com/camilorivera",
 		"linkedin": "https://www.linkedin.com/in/camiloriverapineda/",
 		"quote": "Devs are from Venus, Ops are from Mars - Steven Haines"
-	},
-	{
-	    	"name": "Dale",
-		"lastName": "Lyon",
-		"gravatarEmail": "dale@acklenavenue.com",
-		"position": "Security Tester",
-		"location": "Chattanooga, Tennessee",
-		"department": ["All Ackleners", "Security"],
-		"github": "https://github.com/DaleLyon",
-		"linkedin": "https://www.linkedin.com/in/dale-lyon-829b61128/",
-		"quote": "I see now that the circumstances of one's birth are irrelevant. It is what you do with the gift of life that determines who you are. - MewTwo"
 	},
 	{
 		"name": "Carlos",
@@ -494,19 +395,6 @@
 		"linkedin": "https://www.linkedin.com/in/dennis-cheong-376b23141/",
 		"quote": "There is always a solution to every problem"
  },
- 	{
- 	  	"name": "Douglas",
- 		"lastName": "Guerrero",
- 		"gravatarEmail": "dguerrero@acklenavenue.com",
- 		"position": "Developer",
- 		"location": "San Pedro Sula, Honduras",
- 		"department": [
- 			"All Ackleners",
- 			"Developers"
- 		],
- 		"github": "https://github.com/douglasguerrero",
- 		"quote": "Stay Hungry. Stay Foolish."
- 	},
   {
 		"name": "Eliseo",
 		"lastName": "García",
@@ -517,35 +405,6 @@
 		"facebook": "https://www.facebook.com/eyasmeth",
 		"github": "https://github.com/eliyasmeth",
 		"quote": "Acklen Avenue Rocks!"
-	},
-  {
-		"name": "Osman",
-		"lastName": "Hernandez",
-		"gravatarEmail": "osman@acklenavenue.com",
-		"position": "Senior Developer",
-		"location": "Barcelona, Spain",
-		"department": [
-			"All Ackleners",
-			"Developers"
-		],
-		"github": "https://github.com/justrdk",
-		"quote": "If we don't study the mistakes of the future, we're doomed to repeat them for the first time. -KenM"
-  },
-  {
-		"name": "Oscar",
-		"lastName": "Soriano",
-		"gravatarEmail": "oscar@acklenavenue.com",
-		"position": "DevOps",
-		"location": "Choloma, Cortés, Honduras",
-		"department": [
-			"All Ackleners",
-			"DevOps"
-		],
-		"facebook": "https://www.facebook.com/sorioinc",
-		"twitter": "https://twitter.com/sorioinc",
-		"github": "https://github.com/sorioinc",
-		"linkedin": "https://www.linkedin.com/in/oscar-soriano-31950225/",
-		"quote": "Software moves the world!"
 	},
 	{
 		"name": "Josh",
@@ -558,17 +417,6 @@
 		"linkedin": "https://www.linkedin.com/in/joshua-chappell-b585034/",
 		"quote": "Improve everything, all the time; including yourself."
 	},
-	{
-		"name": "Rafael",
-		"lastName": "Sequeiros",
-		"gravatarEmail": "rafael.s@acklenavenue.com",
-		"position": "Developer",
-		"location": "Cortes, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"twitter": "https://twitter.com/rafanetow",
-		"linkedin": "https://www.linkedin.com/in/rafael-sequeiros-6668a4ba/",
-		"quote": "“Curiosity is the wick in the candle of learning.” ―William A"
-	}, 
  	{
 		"name": "Ferenck",
 		"lastName": "Vargas",
@@ -581,19 +429,6 @@
 		"github": "https://github.com/ferenckv",
 		"linkedin": "https://www.linkedin.com/in/ferenckv",
 		"quote": "How can we get to the stars?. - Lisa Hayes"
-	},
-	{
-		"name": "Kehimer",
-		"lastName": "Sagastume",
-		"gravatarEmail": "kehimer@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Quality Assurance"],
-		"facebook": "https://www.facebook.com/kehimer.sagastume",
-		"twitter": "",
-		"github": "https://github.com/kehimer",
-		"linkedin": "https://www.linkedin.com/in/kehimer-sagastume-a21ab0146/",
-		"quote": "Progression, not perfection."
 	},
 	{
 		"name": "Wendy",
@@ -617,17 +452,6 @@
 		  "github": "https://github.com/isaacmtz90",
 		  "linkedin": "https://www.linkedin.com/in/isaacmtz90",
 		  "quote": "Code is just a means to an end"
-  },
-  {
-		"name": "Tere",
-		"lastName": "Bárcenas",
-		"gravatarEmail": "teresabarcenas@acklenavenue.com",
-		"position": "Junior Designer",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Designers"],
-		"facebook": "https://www.facebook.com/TwaffleB",
-		"github": "https://github.com/Twaffleb",
-		"quote": "“Get rid of everything that is not essential to making a point.” –Christoph Niemann"
   },
   {
 		"name": "Daniel",
@@ -717,19 +541,6 @@
 		"quote": "Just better than I was yesterday."
   },
   {
-		"name": "Arturo",
-		"lastName": "Caceres",
-		"gravatarEmail": "arturo@acklenavenue.com",
-		"position": "Scrum Master",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Scrum Masters"],
-		"facebook": "",
-		"twitter": "",
-		"github": "",
-		"linkedin": "www.linkedin.com/in/arturo-caceres-153998151",
-		"quote": "The road to success is always under construction."
-	},
-  {
 		"name": "Rene",
 		"lastName": "Rosa",
 		"gravatarEmail": "rene@acklenavenue.com",
@@ -756,18 +567,6 @@
 		"quote": "It is better to know how to learn than to know. - Dr Seuss"
 	},
   {
-		"name": "Douglas",
-		"lastName": "Ponce",
-		"gravatarEmail": "douglas@acklenavenue.com",
-		"position": "Developer",
-		"location": "San Pedro Sula, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"facebook": "https://www.facebook.com/ponce.acevedo.75",
-		"github": "https://github.com/DouglasPonce85",
-		"linkedin": "https://www.linkedin.com/in/douglas-ponce-73b217ab/",
-		"quote": "“Christ in you, the hope of glory”"
-  },
-  {
 		"name": "Fernanda",
 		"lastName": "Mezquita",
 		"gravatarEmail": "fernanda.mezquita@acklenavenue.com",
@@ -791,30 +590,6 @@
 		"linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
 		"quote": "“That's what I do, I drink and I know things.” - Tyrion Lannister"
   }, 
-  {
-		"name": "Angel",
-		"lastName": "Zelaya",
-		"gravatarEmail": "angel.z@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location":"San Pedro Sula, Honduras",
-		"department": ["All Ackleners", "Quality Assurance"],
-		"facebook": "https://www.facebook.com/angelzelaya1974",
-		"github": "https://github.com/AngelZel",
-		"linkedin": "https://www.linkedin.com/in/%C3%A1ngel-josue-zelaya-032b9371/",
-		"quote": "“Do, or do not, there is no try -- Yoda"
-  },
-	{
-		"name": "Andrea",
-		"lastName": "Medina",
-		"gravatarEmail": "andrea.m@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners",	"Quality Assurance"],
-		"github": "https://github.com/armn27",
-		"twitter": "https://twitter.com/andy_rbk",
-		"linkedin": "https://www.linkedin.com/in/armn27",
-		"quote": "Blessed are the forgetful, for they get the better even of their blunders.― Friedrich Nietzsche" 
-	},
   	{
 		"name": "Nadia",
 		"lastName": "Aguilar",
@@ -823,15 +598,6 @@
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"quote": "Graphic design will save the world right after rock and roll does. David Carson"
-  	},
-	{
-		"name": "Luis",
-		"lastName": "Araya",
-		"gravatarEmail": "luis.araya@acklenavenue.com",
-		"position": "DevOps",
-		"location": "Copán, Honduras",
-		"department": ["All Ackleners", "DevOps"],
-		"quote": "The biggest problem with technology is the people."
   	},
   	{
 		"name": "Pamela",
