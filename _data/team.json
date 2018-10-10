@@ -705,5 +705,17 @@
 		"linkedin": "https://www.linkedin.com/in/diego-turcios-lara-b9a9448/",
 		"twitter": "https://twitter.com/diegotc",
 		"quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you"
+	},{
+		"name": "Walther",
+  		"lastName": "Carrasco",
+  		"gravatarEmail": "walther.carrasco@acklenavenue.com",
+  		"position": "Developer",
+  		"location": "Tegucigalpa, Honduras",
+  		"department": ["All Ackleners", "Developers"],
+  		"facebook": "https://www.facebook.com/walecarrascom",
+  		"twitter": "https://twitter.com/wecarrasco",
+  		"github": "https://github.com/wecarrasco",
+  		"linkedin": "https://www.linkedin.com/in/walthercarrasco/",
+  		"quote": "The obstacle is the path."
 	}
 ]
