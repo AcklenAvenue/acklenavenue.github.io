@@ -643,5 +643,16 @@
 		"linkedin": "https://www.linkedin.com/in/diego-turcios-lara-b9a9448/",
 		"twitter": "https://twitter.com/diegotc",
 		"quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you"
+	},
+	{
+		"name": "Alejandro",
+		"lastName": "Ferrera",
+		"gravatarEmail": "alejandro.ferrera@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Cortés Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/AleKiller21",
+		"linkedin": "https://www.linkedin.com/in/alejandro-ferrera-b35167145/",
+		"quote": "When a man is faced with his own death, he finds the impossible less of a barrier.<br> — Prince of Persia"
 	}
 ]
