@@ -30,7 +30,7 @@
 		"name": "Tommy",
         "lastName": "Norman",
         "gravatarEmail": "tommy@acklenavenue.com",
-        "position": "Director of Agile Operations",
+        "position": "VP of Agile Operations",
         "location": "Nashville, United States",
         "department": ["All Ackleners", "Leadership & Operations"],
         "facebook": "https://www.facebook.com/tommynorman",
@@ -48,16 +48,6 @@
         "twitter": "@whatupcolleen",
         "linkedin": "https://www.linkedin.com/in/colleenreidelbach/",
         "quote": "What would you do if you knew you couldn't fail?"
-	},
-	{
-		"name": "Cecil",
-		"lastName": "Fuller",
-		"gravatarEmail": "cecil@acklenavenue.com",
-		"position": "Strategic Growth <br> & Development",
-		"location": "Nashville, United States",
-		"department": ["All Ackleners", "Leadership & Operations"],
-		"linkedin": "https://www.linkedin.com/in/cecilfuller/",
-		"quote": "Paralyze resistance with persistence.<br> — Woody Hayes"
 	},
 	{
 		"name": "Fernanda",
@@ -135,6 +125,19 @@
 		"github": "https://github.com/AlfredoDDV",
 		"linkedin": "https://www.linkedin.com/in/dennis-cheong-376b23141/",
 		"quote": "There is always a solution to every problem"
+	},
+	{
+		"name": "Carlos",
+		"lastname": "Solorzano",
+		"gravatarEmail": "carlos.solorzano@acklenavenue.com",
+		"position": "Senior Developer",
+		"location": "Tegucigalpa, Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"facebook": "https://www.facebook.com/illgamer",
+		"twitter": "https://twitter.com/illgamer",
+		"github": "https://github.com/csolorzanof",
+		"linkedin": "https://www.linkedin.com/in/csolorzanof/",
+		"quote": "Insanity is doing the same thing over and over again and expecting a different result"
 	},
 	{
 		"name": "Paulette",
@@ -353,17 +356,6 @@
     	"quote": "Write your code like you are writing a story for kids."
 	},
 	{
-		"name": "Katy",
-		"lastName": "Lion",
-		"gravatarEmail": "katy.lion@acklenavenue.com",
-		"position": "Developer",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"github": "https://github.com/lnyntng",
-		"linkedin": "https://www.linkedin.com/in/lnyntng/",
-		"quote": "If I respect myself and believe in what I'm doing, no one can touch me.<br> — Fiona Apple"
-	},
-	{
 		"name": "Kelvin",
 		"lastName": "Chinchilla",
 		"gravatarEmail": "kelvin.c@acklenavenue.com",
@@ -378,19 +370,7 @@
 		"linkedin": "https://www.linkedin.com/in/kelvin-chinchilla-a9a441131/",
 		"quote": "I like to code with pancakes"
 	},
-	{
-		"name": "Rene",
-		"lastName": "Rosa",
-		"gravatarEmail": "rene@acklenavenue.com",
-		"position": "Senior Developer",
-		"location": "San Pedro Sula, Honduras",
-		"department": ["All Ackleners", "Developers"],
-		"facebook": "https://www.facebook.com/rene.rosapastrana",
-		"github": "https://github.com/realpasro09",
-		"linkedin": "https://www.linkedin.com/in/renerosapastrana/",
-		"quote": "Whoever does not live to serve, does not serve to live"
-	},
-  	{
+  {
 		"name": "Ricardo",
 		"lastName": "Zelaya",
 		"gravatarEmail": "ricardo.zelaya@acklenavenue.com",
@@ -424,35 +404,6 @@
 		"twitter": "https://twitter.com/dante_dubon",
 		"github": "https://github.com/dantedubon",
 		"quote": "My treasure is my gallant bark, my only god is liberty; my law is might, the wind my mark, my country is the sea."
-	},
-	{
-		"name": "Gazy",
-		"lastName": "Mahomar",
-		"gravatarEmail": "gazy@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Architects"
-		],
-		"github": "https://github.com/gmahomarf",
-		"quote": "I forgot my line."
-	},
-	{
-		"name": "Viktor",
-		"lastName": "Zavala",
-		"gravatarEmail": "viktor@acklenavenue.com",
-		"position": "Software Architect",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Architects"
-		],
-		"facebook": "https://www.facebook.com/viktor.zavala",
-		"twitter": "https://twitter.com/zsnake123",
-		"github": "https://github.com/zsnake",
-		"linkedin": "https://www.linkedin.com/in/vkzavala",
-		"quote": "There is no such thing as a lousy job; only lousy men who don't care to do it."
 	},
 	{
 		"name": "Camilo",
@@ -499,7 +450,7 @@
 		"name":"Angela",
 		"lastName":"Velasquez",
 		"gravatarEmail": "angela.v@acklenavenue.com",
-		"position":"Junior Designer",
+		"position":"Senior Designer",
 		"location":"Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"twitter": "https://twitter.com/AngelaVelasquez",
@@ -539,7 +490,7 @@
 		"name": "Wendy",
 		"lastName": "Vargas",
 		"gravatarEmail": "wendy.vargas@acklenavenue.com",
-		"position": "Junior Designer",
+		"position": "Senior Designer",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"github": "https://github.com/wenvees",
@@ -550,7 +501,7 @@
 		"name": "Wilmer",
 		"lastName": "Murillo",
 		"gravatarEmail": "wilmermurillo@acklenavenue.com",
-		"position": "Junior Designer",
+		"position": "Senior Designer",
 		"location": "Tegucigalpa, Honduras",
 		"department": ["All Ackleners", "Designers"],
 		"facebook": "https://facebook.com/wilmermurillo",
@@ -653,21 +604,6 @@
 		"quote": "The more that you read, the more things you will know. The more that you learn, the more places you'll go.<br> — Dr. Seuss"
 	},
 	{
-		"name": "Ricky",
-		"lastName": "Casco",
-		"gravatarEmail": "ricardo@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": [
-			"All Ackleners",
-			"Quality Assurance"
-		],
-		"facebook": "https://www.facebook.com/ricky.casco.3",
-		"github": "https://github.com/ricasco1989",
-		"linkedin": "https://www.linkedin.com/in/ricardo-casco-434a1990/",
-		"quote": "Quality is never an accident; It is always the result of intelligent effort."
-	},
-	{
 		"name": "Sharon",
 		"lastName": "Montenegro",
 		"gravatarEmail": "sharon@acklenavenue.com",
@@ -684,16 +620,6 @@
 		"quote": "Ex nihilo nihil fit"
 	},
 	{
-		"name": "Walter",
-		"lastName": "Nolasco",
-		"gravatarEmail": "walter@acklenavenue.com",
-		"position": "Quality Assurance",
-		"location": "Tegucigalpa, Honduras",
-		"department": ["All Ackleners", "Quality Assurance"],
-		"linkedin": "www.linkedin.com/in/walter-nolasco-4a3b9234",
-		"quote": "Judge us on the quality of our products, and not the quantity of our paperwork."
-	},
-	{
 		"name": "Diego",
 		"lastName": "Turcios",
 		"gravatarEmail": "diego.turcios@acklenavenue.com",
@@ -705,7 +631,8 @@
 		"linkedin": "https://www.linkedin.com/in/diego-turcios-lara-b9a9448/",
 		"twitter": "https://twitter.com/diegotc",
 		"quote": "Ask, and it shall be given you; seek, and ye shall find; knock, and it shall be opened unto you"
-	},{
+	},
+  {
 		"name": "Walther",
   		"lastName": "Carrasco",
   		"gravatarEmail": "walther.carrasco@acklenavenue.com",
@@ -717,5 +644,16 @@
   		"github": "https://github.com/wecarrasco",
   		"linkedin": "https://www.linkedin.com/in/walthercarrasco/",
   		"quote": "The obstacle is the path."
+	},
+	{
+		"name": "Alejandro",
+		"lastName": "Ferrera",
+		"gravatarEmail": "alejandro.ferrera@acklenavenue.com",
+		"position": "Developer",
+		"location": "San Pedro Sula, Cortés Honduras",
+		"department": ["All Ackleners", "Developers"],
+		"github": "https://github.com/AleKiller21",
+		"linkedin": "https://www.linkedin.com/in/alejandro-ferrera-b35167145/",
+		"quote": "When a man is faced with his own death, he finds the impossible less of a barrier.<br> — Prince of Persia"
 	}
 ]
