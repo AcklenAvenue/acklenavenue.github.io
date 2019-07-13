@@ -782,6 +782,22 @@
       "location": "San Pedro Sula, Honduras",
       "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/",
       "quote": "Happiness depends upon ourselves.<br> — Aristotle"
+    },
+    {
+      "name": "Carlos",
+      "lastName": "Velásquez",
+      "gravatarEmail": "carlos.velasquez@acklenavenue.com",
+      "position": "Quality Assurance",
+      "location": "San Pedro Sula, Honduras",
+      "department": [
+        "All Ackleners",
+        "Quality Assurance"
+      ],
+      "facebook": "https://www.facebook.com/cfvelasquez",
+      "twitter": "https://twitter.com/cfvelasquez95",
+      "github": "https://github.com/cfvelasquez095",
+      "linkedin": "https://www.linkedin.com/in/cfvelasquez/",
+      "quote": "Once we accept our limits, we go beyond them.<br> — Albert Einstein"
     }
   ]
 }
