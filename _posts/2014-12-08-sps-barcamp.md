@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Acklen Avenue Represents at the SPS BarCamp
+title: Acklen Avenue Represents at the SPS BarCamp 
 date: 2014-12-08
 description: Last November 9th, San Pedro Sula (Honduras) hosted it’s annual Barcamp, this is the second time the city hosted the event and this time things got really exciting...
 author: Richard Siwady 

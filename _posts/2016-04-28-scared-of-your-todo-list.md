@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Scared of Your Todo List?
+title: Few Ideas to Make Your To-Do Lists More Effective
 date: 2016-04-28
 description: Keeping your life in balance is key to keeping your mind and health in balance. Here are a few ideas to help you achieve a little "To-Do Bliss."
 author: Deanna Vickers

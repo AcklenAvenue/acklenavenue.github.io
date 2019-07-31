@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 9 Ways to Unstump a Developer
+title: 9 Ways to Unstump a Software Developer
 date: 2018-02-21
 description: When Is a Developer Actually Stumped? Software development is predictable at times, and many times it is definitely not. Knowing when and how to get on track is a fundamental key to success. 
 author: Byron Sommardahl 

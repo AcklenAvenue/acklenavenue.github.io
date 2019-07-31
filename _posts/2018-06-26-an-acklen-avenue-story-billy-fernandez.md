@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Acklen Avenue Story by Billy Fernandez
+title: How I started to work with Acklen Avenue by Billy Fernandez
 date: 2018-06-26
 description: I remember the day I noticed a post notification from a group of developers on Facebook.
 author: Billy Fernandez 

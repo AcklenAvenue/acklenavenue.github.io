@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  What Defines Acklen Avenue?
+title:  What defines us - Acklen Avenue,software development company
 date:   2018-3-26
 description: Five words that influence our decisions and lead us to where we want to go.
 author: Fernanda Mezquita 

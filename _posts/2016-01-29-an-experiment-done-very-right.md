@@ -1,6 +1,6 @@
 ---
 layout: post
-title: An Experiment Gone Very Right
+title: What we learned about hiring a few Honduran developers
 date: 2016-01-29
 description: Years ago, when Acklen Avenue was still very young and trying to find its place in the world, we decided to try a risky experiment.
 author: Byron Sommardahl

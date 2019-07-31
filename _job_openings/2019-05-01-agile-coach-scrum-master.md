@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Agile Coach (Scrum Master)
+title: Agile Coach (Scrum Master) | Acklen Avenue
 location: Remote - Honduras
 time: Full Time
 description: >-
