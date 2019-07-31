@@ -3,8 +3,8 @@ github: [metadata]
 title: AcklenAvenue-Website
 email: info@acklenavenue.com
 description: >
-  Acklen Avenue is a team of agile software development professionals who are passionate about clean code and simple user experiences.
-  Thanks to our team's heroic efforts and our clients' amazing ideas, Acklen Avenue lovingly delivers software daily from Nashville and around the world.
+  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
+  Our talented team is passionate about clean code and simple user experience.
 
 url: "http://acklenavenue.com"
 twitter_username: acklenavenue
@@ -12,8 +12,9 @@ exclude: ['README.md']
 
 # Build settings
 environment: production
-gems:
+plugins:
   - jekyll-gist
+  - jekyll-redirect-from
 markdown: kramdown
 permalink: /articles/:title
 source: .

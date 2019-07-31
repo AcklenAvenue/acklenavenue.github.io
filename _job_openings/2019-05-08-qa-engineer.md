@@ -4,17 +4,11 @@ title: QA Engineer
 location: Remote - Honduras
 time: Full Time
 description: >
-  We are looking for a Quality Assurance (QA) engineer who will manage
-  exploratory and automated tests to ensure product quality. You will design and
-  implement test cases, debug and define corrective actions, review system
-  requirements and track quality assurance metrics (e.g. defect densities and
-  open defect counts). Besides, you should monitor all stages of software
-  development to identify and resolve system malfunctions to meet quality
-  standards.
+  We are looking for a Quality Assurance (QA) engineer who will manage 
+  exploratory and automated tests to ensure product quality. 
+  
+  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
 
-  We expect you to be able to build consistent and efficient tests delivering
-  them in-time. You should also hold an engineering background and enjoy
-  providing end-to-end solutions to software quality problems.
 responsibilities:
   - >-
     Prepare detailed, comprehensive and well-structured test plans and test

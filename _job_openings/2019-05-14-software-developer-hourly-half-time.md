@@ -4,11 +4,11 @@ title: 'Software Developer '
 location: Remote - Honduras
 time: Half-Time / Hourly
 description: >-
-  We are looking for a Software Developer who will assist us with design,
-  development, and implementation of software solutions. Your duties will
-  include planning, writing code, testing, and documenting functionality. You
-  should be able to build high-quality, innovative and fully performing software
-  in compliance with Acklen Avenue's coding standards and development practices.
+  We are looking hire Software developers to work half time and who will 
+  assist us with design, development, and implementation of software solutions. 
+  
+  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
+
 responsibilities:
   - 'Organize full lifecycle software development '
   - 'Prepare specifications and determine operational feasibility '

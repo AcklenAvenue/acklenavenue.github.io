@@ -2,9 +2,9 @@
 layout: post
 title: 5 Secrets to Quality Software Delivery
 date: 2015-09-01
-description: How to consistently produce high quality software.
+description: As software development professionals, how can we fulfill requirements through working software and ensure that our code is maintainable by others late on? Hera are our 5 Secrets to quality software delivery.
 author: Byron Sommardahl
-excerpt: How to consistently produce high quality software.
+excerpt: As software development professionals, how can we fulfill requirements through working software and ensure that our code is maintainable by others late on? Hera are our 5 Secrets to quality software delivery.
 image: https://acklenavenue.com/img/posts/quality-software-secrets.png
 thumbnail: https://acklenavenue.com/img/posts/quality-software-secrets.png
 ImageCredits: Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)

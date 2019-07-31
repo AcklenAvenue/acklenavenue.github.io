@@ -2,9 +2,9 @@
 layout: post
 title: Why Agile Adoption Fails So Often
 date: 2017-06-28
-description: Misunderstanding what agile really is.
+description: Why does agile adoption fail so often? Why is there so much pushback? Because there is a fundamental misunderstanding of what “agile” actually is.
 author: Matthew Phillip 
-excerpt:  Misunderstanding what agile really is.
+excerpt:  Why does agile adoption fail so often? Why is there so much pushback? Because there is a fundamental misunderstanding of what “agile” actually is.
 image: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
 thumbnail: https://acklenavenue.com/img/posts/agile-adoption-failure-1.jpg
 type: article

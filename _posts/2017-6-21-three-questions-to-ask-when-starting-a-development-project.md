@@ -2,9 +2,9 @@
 layout: post
 title: 3 questions to ask when starting a development project.
 date: 2017-06-21
-description: Time to bring your game changing idea to life.
+description: Choosing a software developer company can be difficult. Here are 3 important questions that you should be asking before starting your software development project.
 author: Byron Sommardahl 
-excerpt: Time to bring your game changing idea to life.
+excerpt: Choosing a software developer company can be difficult. Here are 3 important questions that you should be asking before starting your software development project.
 image: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
 thumbnail: https://acklenavenue.com/img/posts/3-questions-to-ask.jpg
 type: article

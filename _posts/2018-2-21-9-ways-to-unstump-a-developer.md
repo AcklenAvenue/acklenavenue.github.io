@@ -2,9 +2,9 @@
 layout: post
 title: 9 Ways to Unstump a Developer
 date: 2018-02-21
-description: Give your stumped developer a helping hand. 
+description: When Is a Developer Actually Stumped? Software development is predictable at times, and many times it is definitely not. Knowing when and how to get on track is a fundamental key to success. 
 author: Byron Sommardahl 
-excerpt: Give your stumped developer a helping hand. 
+excerpt: When Is a Developer Actually Stumped? Software development is predictable at times, and many times it is definitely not. Knowing when and how to get on track is a fundamental key to success. 
 image: https://acklenavenue.com/img/posts/stumped-dev.png
 thumbnail: https://acklenavenue.com/img/posts/stumped-dev.png
 ImageCredits: Photo by Jack Daniel Ocampo Palacios on Unsplash

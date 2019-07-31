@@ -1,7 +1,7 @@
 <head>
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=Edge;chrome=1" />
-    <title>{% if page.title %}{{ page.title }} |{% endif %} Acklen Avenue - Custom software development</title>
+    <title>{% if page.title %}{{ page.title }}{% else %}{{ 'Acklen Avenue - Custom software development' }}{% endif %} </title>
     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
     <meta name="description" content="{{ page.description }}" /> 
     <meta name="keywords" content="{{ page.keywords }}" /> 
@@ -18,7 +18,8 @@
     {% if page.is_post %}
     <meta property="og:site_name" content="{{ site.title }}" />
     {% endif %}
-    
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
+
     <!-- Twitter -->
     <meta name="twitter:card"         content="summary" />
     <meta name="twitter:site"         content="@acklenavenue" />
@@ -30,5 +31,4 @@
     <!-- CSS -->
     <link rel="stylesheet" type="text/css" href="{{ "css/main.css" | prepend: full_base_url }}">
 	<link rel="stylesheet" type="text/css" href="{{ "css/modal.css" | prepend: full_base_url }}" />
-
 </head>

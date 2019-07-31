@@ -782,20 +782,6 @@
       "location": "San Pedro Sula, Honduras",
       "linkedin": "https://www.linkedin.com/in/jonathansalazarvivas/",
       "quote": "Happiness depends upon ourselves.<br> — Aristotle"
-    },
-    {
-      "name": "Inti",
-      "lastName": "Velásquez",
-      "github": "https://github.com/intiv",
-      "gravatarEmail": "inti.velasquez@acklenavenue.com",
-      "position": "Developer",
-      "department": [
-        "All Ackleners",
-        "Developers"
-      ],
-      "location": "Tegucigalpa, Honduras",
-      "linkedin": "https://www.linkedin.com/in/inti-velasquez-9b0116187/",
-      "quote": "The cosmos is within us, we are made of star stuff — Carl Sagan"
     }
   ]
 }

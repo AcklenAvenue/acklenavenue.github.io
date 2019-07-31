@@ -2,9 +2,9 @@
 layout: post
 title: 4 Ways to Stop Bugs from Eating Your Software Budget
 date: 2014-06-04
-description: Bugs account for 80% of nationwide software costs.
+description: Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. Bugs account for 80% of nationwide software costs and those bugs will present themselves slowly, over time.
 author: Byron Sommardahl 
-excerpt: Bugs account for 80% of nationwide software costs.
+excerpt: Developing custom software is expensive and risky. In fact, 60% of all software projects end in failure. Bugs account for 80% of nationwide software costs and those bugs will present themselves slowly, over time.
 image: https://acklenavenue.com/img/posts/bugs-eating-software.png
 thumbnail: https://acklenavenue.com/img/posts/bugs-eating-software.png
 ImageCredit: Thumbnail Photo by [Parvana Praveen](https://unsplash.com/@parvana_praveen) on [Unsplash](https://unsplash.com/)

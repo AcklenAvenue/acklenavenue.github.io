@@ -18,7 +18,7 @@
     {% if page.is_post %}
     <meta property="og:site_name" content="{{ site.title }}" />
     {% endif %}
-
+    <link rel="canonical" href="{{ site.url }}{{ page.url | replace:'index.html',''}}">
     <!-- Twitter -->
     <meta name="twitter:card"         content="summary" />
     <meta name="twitter:site"         content="@acklenavenue" />

@@ -4,13 +4,12 @@ title: Product Owner
 location: Remote-Honduras
 time: Full Time
 description: >
-  We are looking for a responsible Product Manager who will. You will work with
-  our cross-functional teams to help them design, build and roll-out products
-  that deliver the company’s vision and strategy.
+  We are looking for a Product Manager who will work with our cross-functional 
+  teams to help them design, build and roll-out products that deliver the 
+  company’s vision and strategy. 
+  
+  Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
 
-  We expect you to be passionate about building products that customers love.
-  You also should be comfortable working in a dynamic and fast-paced
-  environment.
 responsibilities:
   - Participates in discovery sessions to gain an understanding of client needs.
   - >-
