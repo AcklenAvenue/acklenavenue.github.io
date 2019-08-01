@@ -2,7 +2,7 @@
 layout: post
 title: 4 Components of Durable Software
 date: 2013-04-08
-description: Durable software is like a well-built, high-quality parking garage. It is built with care, not hurried.
+description: To be able to develop durable software cost-effectively is important to understand the following 4 components.
 author: Byron Sommardahl 
 excerpt: Durable software is like a well-built, high-quality parking garage. It is built with care, not hurried.
 image: https://acklenavenue.com/img/posts/durable-software.png

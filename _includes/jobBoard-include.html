@@ -16,7 +16,7 @@
             <div class="jobPost">
                 <div class="jobPost__content flex-75">
                     <a href="{{ job_opening.url | prepend: base_url }}">
-                        <h3>{{ job_opening.title }}</h3>
+                        <h3>{{ job_opening.title | replace: "| Acklen Avenue", "" }}</h3>
                     </a>
                     <div class="jobPost__description">
                         <div class="flex-25 jobPost__description__column">
