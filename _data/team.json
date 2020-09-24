@@ -718,6 +718,21 @@
       "gravatarEmail": "carlos.solorzano@acklenavenue.com",
       "quote": "Insanity is doing the same thing over and over again and expecting a different result",
       "linkedin": "https://www.linkedin.com/in/csolorzanof/"
+    },
+    {
+      "name": "Maai",
+      "lastName": "Ham",
+      "gravatarEmail": "maai.ham@acklenavenue.com",
+      "position": "Developer",
+      "location": "San Pedro Sula, Honduras",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "github": "https://github.com/mahamtr",
+      "facebook": "https://www.facebook.com/maai.ham",
+      "linkedin": "https://www.linkedin.com/in/maaiham/"
+      "quote": "Time and chance happen to them all!",
     }
   ]
 }
