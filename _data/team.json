@@ -759,6 +759,19 @@
       ],
       "linkedin": "https://www.linkedin.com/in/angelavelasquez/",
       "quote": "Prepare for trouble! And make it double!",
+    },
+    {
+      "name": "Everson",
+      "lastName": "Zelaya Sanchez",
+      "gravatarEmail": "everson.zelaya@acklenavenue.com",
+      "position": "Software Developer",
+      "location": "Tegucigalpa, Honduras",
+      "department": ["All Ackleners", "Developers"],
+      "facebook": "https://www.facebook.com/eversonzs",
+      "twitter": "https://twitter.com/EversonZS",
+      "github": "https://github.com/eversonzs",
+      "linkedin": "https://www.linkedin.com/in/eversonzs/",
+      "quote": "If you do something, do it great!"
     }
   ]
 }
