@@ -718,6 +718,20 @@
       "github": "https://github.com/eversonzs",
       "linkedin": "https://www.linkedin.com/in/eversonzs/",
       "quote": "If you do something, do it great!"
-    }
+    },
+    {
+      "lastName": "Rodríguez",
+      "github": "https://github.com/Josue-Rodriguez-98",
+      "position": "Software Developer",
+      "name": "Josué",
+      "department": [
+        "All Ackleners",
+        "Developers"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "gravatarEmail": "david.rodriguez@acklenavenue.com",
+      "quote": "Keep moving forward! - Walt Disney",
+      "linkedin": "https://www.linkedin.com/in/josu%C3%A9-rodr%C3%ADguez-088691205/"
+    },
   ]
 }
