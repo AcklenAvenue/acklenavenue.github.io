@@ -718,6 +718,20 @@
       "github": "https://github.com/eversonzs",
       "linkedin": "https://www.linkedin.com/in/eversonzs/",
       "quote": "If you do something, do it great!"
-    }
+    },
+    {
+      "name":"Ricardo",
+      "lastName":"Galdámez",
+      "position":"Quality Assurance",
+      "department":[
+         "All Ackleners",
+         "Quality Assurance"
+      ],
+      "location":"Tegucigalpa, Honduras",
+      "gravatarEmail":"ricardo.galdamez@acklenavenue.com",
+      "linkedin":"https://www.linkedin.com/in/ricardo-galdámez-6889a3191",
+      "github":"https://github.com/RGaldamez",
+      "quote":"Associate with people who are likely to improve you.<br> — Seneca"
+   }
   ]
 }
