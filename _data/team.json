@@ -845,6 +845,21 @@
       "github": "https://github.com/ilich-garcia",
       "linkedin": "https://www.linkedin.com/in/ilich-garcia/",
       "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble."
+    },
+    {
+      "name": "Sarthak",
+      "lastName": "Dhingra",
+      "gravatarEmail": "sarthak@herounit.io",
+      "position": "Quality Assurance",
+      "location": "Pune, India",
+      "department": [
+        "All Ackleners",
+        "Quality Assurances"
+      ],
+      "facebook": "https://www.facebook.com/sarthakmay31/",
+      "github": "https://github.com/sarthakmay31",
+      "linkedin": "https://www.linkedin.com/in/sarthakdhingra31/",
+      "quote": "The purpose of our life is to be happy ."
     }
   ]
 }
