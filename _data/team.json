@@ -796,6 +796,19 @@
       "gravatarEmail": "ilich.garcia@acklenavenue.com",
       "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
       "linkedin": "https://www.linkedin.com/in/ilich-garcia/"
+    },
+    {
+      "name": "Eugenia",
+      "lastName": "Fonseca",
+      "gravatarEmail": "eugenia.fonseca@acklenavenue.com",
+      "position": "Talent Acquisition Associate",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "Next to trying and winning, the best thing is trying and failing.<br/> - L.M. Montgomery",
+      "linkedin": "https://www.linkedin.com/in/eugenia-fonseca-160121164"
     }
   ]
 }
