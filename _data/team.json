@@ -756,6 +756,20 @@
       "gravatarEmail": "ilich.garcia@acklenavenue.com",
       "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
       "linkedin": "https://www.linkedin.com/in/ilich-garcia/"
+    },
+    {
+      "lastName": "Comprés",
+      "github": "https://github.com/omar-compres",
+      "position": "Quality Assurance",
+      "name": "Omar",
+      "department": [
+        "All Ackleners",
+        "Quality Assurances"
+      ],
+      "location": "Moca, Dominican Republic",
+      "gravatarEmail": "omar.compres@acklenavenue.com",
+      "quote": "The best way to predict the future is to create it. ~Peter Drucker",
+      "linkedin": "https://www.linkedin.com/in/omar-compres/"
     }
   ]
 }
