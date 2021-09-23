@@ -757,7 +757,7 @@
       "quote": "Therefore do not be anxious about tomorrow, for tomorrow will be anxious for itself. Sufficient for the day is its own trouble.",
       "linkedin": "https://www.linkedin.com/in/ilich-garcia/"
     },
-     {
+    {
       "lastName": "Nuñez",
       "github": "https://github.com/emilynunezc23",
       "position": "UX/UI Designer",
@@ -770,6 +770,57 @@
       "gravatarEmail": "emily.nunez@acklenavenue.com",
       "quote": "You are the best version of yourself.",
       "linkedin": "https://www.linkedin.com/in/emily-nuñez-1081ba1a9/"
+    },
+    {
+      "name": "Eugenia",
+      "lastName": "Fonseca",
+      "gravatarEmail": "eugenia.fonseca@acklenavenue.com",
+      "position": "Talent Acquisition Associate",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "Next to trying and winning, the best thing is trying and failing.<br/> - L.M. Montgomery",
+      "linkedin": "https://www.linkedin.com/in/eugenia-fonseca-160121164"
+    },
+    {
+      "name": "Gisselle",
+      "lastName": "Carranza",
+      "gravatarEmail": "gisselle.carranza@acklenavenue.com",
+      "position": "Employee Success",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "Be who you are and say how you feel cause those who mind don't matter and those who matter don't mind. - Dr. Seuss",
+      "linkedin": "https://www.linkedin.com/in/fernanda-carranza-3b64751b5"
+    },
+    {
+      "name": "Marcelo",
+      "lastName": "Ortega",
+      "gravatarEmail": "marcelo.ortega@acklenavenue.com",
+      "position": "Candidate Relations Specialist",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "San Pedro Sula, Honduras",
+      "quote": "He who is brave, is free. - Seneca"
+    },
+    {
+      "name": "Jose",
+      "lastName": "Flores",
+      "gravatarEmail": "edgar.flores@acklenavenue.com",
+      "position": "Vetting and Recruitment Officer",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "All our dreams can come true, if we have the courage to pursue them. - Walt Disney",
+      "linkedin": "https://www.linkedin.com/in/jose-edgardo-flores-815916137"
     }
   ]
 }
