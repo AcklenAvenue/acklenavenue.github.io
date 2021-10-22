@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Development Guild Master
-location: Remote
+location: Remote / Based in LATAM only.
 time: Full Time
 description: The Development Guild Master oversees the professional development
   of our developers and ensures that our delivery teams are staffed with the
