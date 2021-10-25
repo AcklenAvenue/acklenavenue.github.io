@@ -3,14 +3,14 @@ layout: job-opening
 title: "UX / UI Designer Guild Master "
 location: Remote / Based in AMER/LATAM only.
 time: Full Time
-description: The Development Guild Master oversees the professional development
-  of our developers and ensures that our delivery teams are staffed with the
-  appropriate level of professionalism and mastery needed to meet their client’s
-  needs. They assist in recruiting, vetting, and hiring developers to meet our
-  client's various needs and provide those developers with ongoing support and
-  mentoring to help them flourish. They work with leadership to ensure our
-  organization is implementing industry best practices and achieving our
-  business goals.
+description: The UX/UI Designer Guild Master oversees the professional
+  development of our user experience designers and ensures that our delivery
+  teams are staffed with the appropriate level of professionalism and mastery
+  needed to meet their client’s needs. They assist in recruiting, vetting, and
+  hiring designers to meet our client's various needs and provide those
+  designers with ongoing support and mentoring to help them flourish. They work
+  with leadership to ensure our organization is implementing industry best
+  practices and achieving our business goals.
 responsibilities:
   - "Career Development: Develop career paths for the UX guild and help guide
     each designer with their professional growth. Help determine and collect Key
