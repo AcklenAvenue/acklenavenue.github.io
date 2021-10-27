@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: QA Software Engineer
-location: Remote - Honduras
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: >
   We are looking for a Quality Assurance (QA) software engineer, who will manage
@@ -37,23 +37,29 @@ responsibilities:
   - Motivate the development process for efficiency and performance.
   - Work with cross-functional teams to ensure quality throughout the software
     development lifecycle.
-  - Continuous communication with all team members (e.g developers /designers/BA).
+  - Continuous communication with all team members (e.g developers
+    /designers/BA).
   - Collaborate daily with Designers, Developers, Product owner, Ops to test and
     deliver an intuitive, highly visible web/mobile app.
   - Participates in feature card showcases to the client if needed.
-  - Track quality assurance metrics, like defect densities and open defect counts.
+  - Track quality assurance metrics, like defect densities and open defect
+    counts.
   - Maintain relevant knowledge about new testing tools and test strategies.
   - Join team and guild meetings and collaborate daily with an agile remote team.
   - Conduct post-release/ post-implementation testing.
   - Train clients on new tools and the system if needed.
 requirements:
-  - BS or MS degree in Computer Science, Engineering or other related areas (Tech-based career).
+  - BS or MS degree in Computer Science, Engineering or other related areas
+    (Tech-based career).
   - Knowledge of Agile/Scrum development principles.
   - Solid experience in manual testing software techniques.
   - Solid experience in creation and maintenance of automated test.
-  - Solid experience in writing clear, concise, and comprehensive test plans and test cases.
-  - Management of open source automation tools, such as Selenium and its variables (WebDriverIO, Mocha and Chai).
-  - Preferred knowledge in CucumberStudio, Cypress and Appium (mobile automation tool).
+  - Solid experience in writing clear, concise, and comprehensive test plans and
+    test cases.
+  - Management of open source automation tools, such as Selenium and its
+    variables (WebDriverIO, Mocha and Chai).
+  - Preferred knowledge in CucumberStudio, Cypress and Appium (mobile automation
+    tool).
   - Must know Software Development, Bug Tracking and Test Case cycles.
   - Must know Structured Query Language (SQL).
   - Must know what an API is.
