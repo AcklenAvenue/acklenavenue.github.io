@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Business Analyst
-location: Remote-Honduras
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: >
   We are looking for a Business Analyst who will work with our cross-functional
