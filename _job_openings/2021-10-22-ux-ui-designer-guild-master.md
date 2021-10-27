@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: "UX / UI Designer Guild Master "
-location: Remote / Based in AMER/LATAM only.
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: The UX/UI Designer Guild Master oversees the professional
   development of our user experience designers and ensures that our delivery
