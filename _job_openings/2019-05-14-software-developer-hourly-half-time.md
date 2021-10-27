@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Full-Stack Developer
-location: Remote - Honduras
+location: Remote - Based in AMER/LATAM
 time: Half-Time / Hourly
 description: >-
   We are looking to hire software developers to work half-time and who will
