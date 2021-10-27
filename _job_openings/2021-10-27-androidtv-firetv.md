@@ -3,7 +3,7 @@ layout: job-opening
 title: AndroidTv/FireTv
 location: Remote - Based in AMER/LATAM
 time: Full Time
-description: Senior Level AndroidTv/FireTv Developer
+description: Senior Level AndroidTv/FireTv Developer.
 salaryRange: Negotiable.
 requirements:
   - "Required Technologies: Android Tv with knowledge of Fire Tv development. "
