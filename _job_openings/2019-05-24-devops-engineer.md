@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: DevOps Engineer
-location: Remote-Honduras
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: As a DevOps Engineer, you will be responsible for the availability,
   scalability, and health of our systems. You’re part of a team that is
