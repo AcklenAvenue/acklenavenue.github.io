@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: AndroidTv/FireTv
+title: AndroidTv/FireTv Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: Senior Level AndroidTv/FireTv Developer.
