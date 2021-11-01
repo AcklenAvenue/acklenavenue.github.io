@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: AndroidTv/FireTv Developer
-location: Remote - Based in AMER/LATAM
+location: "Remote "
 time: Full Time
 description: Senior Level AndroidTv/FireTv Developer.
 salaryRange: Negotiable.
