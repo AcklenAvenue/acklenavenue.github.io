@@ -11,6 +11,7 @@ description: The UX/UI Designer Guild Master oversees the professional
   designers with ongoing support and mentoring to help them flourish. They work
   with leadership to ensure our organization is implementing industry best
   practices and achieving our business goals.
+salaryRange: Negotiable.
 responsibilities:
   - "Career Development: Develop career paths for the UX guild and help guide
     each designer with their professional growth. Help determine and collect Key
