@@ -11,6 +11,7 @@ description: The Development Guild Master oversees the professional development
   mentoring to help them flourish. They work with leadership to ensure our
   organization is implementing industry best practices and achieving our
   business goals.
+salaryRange: Negotiable.
 responsibilities:
   - "Career Development: Make sure the development guild members have the
     required skills or a roadmap to acquire them for their current title and
