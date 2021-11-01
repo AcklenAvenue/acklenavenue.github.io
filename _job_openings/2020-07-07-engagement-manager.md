@@ -11,6 +11,7 @@ description: >
   Your challenge is to have a vision of what the client wishes to build and convey that vision to the development team. You explore business value with clients, understand users, prioritize features and clearly document and communicate the details.
    
   You have a strong understanding of the principles and benefits of Agile development and uphold a collaborative, Agile mindset in your work and your interactions with the team. You support clients to appreciate the advantages and maximize their results.
+salaryRange: Negotiable.
 responsibilities:
   - Leads discovery sessions to uncover the client’s business goals, personas
     and needs.
