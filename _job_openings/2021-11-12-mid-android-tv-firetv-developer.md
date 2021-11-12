@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: "Mid Android Tv/FireTv Developer "
-location: Remote - AMER/LATAM based preferred.
+location: Remote - Based in AMER/LATAM preferred.
 time: Full Time
 description: For more information, please contact recruiting@acklenavenue.com.
 salaryRange: Negotiable
