@@ -1,7 +1,7 @@
 ---
 layout: job-opening
-title: Lead Android Tv/FireTv Developer AA
-location: Remote - Based in AMER/LATAM
+title: Lead Android Tv/FireTv Developer
+location: Remote - Based in AMER/LATAM preferred
 time: Full Time
 description: For more information, please contact recruiting@acklenavenue.com.
 salaryRange: Negotiable
