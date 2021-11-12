@@ -5,6 +5,8 @@ location: Remote - Based in AMER/LATAM preferred
 time: Full Time
 description: For more information, please contact recruiting@acklenavenue.com.
 salaryRange: Negotiable
+responsibilities:
+  - Create custom Android Tv/Fire Tv App for content streaming.
 requirements:
   - "Required Technologies: Android Tv with knowledge of Fire Tv development,
     experience with Kotlin."
