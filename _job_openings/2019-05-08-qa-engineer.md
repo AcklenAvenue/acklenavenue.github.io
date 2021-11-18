@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: QA Software Engineer
+title: Software QA Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: >
