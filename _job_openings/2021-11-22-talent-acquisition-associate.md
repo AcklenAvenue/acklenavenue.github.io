@@ -27,6 +27,8 @@ requirements:
   - Bachelor’s degree in psychology, human resources, administration, or other
     related fields plus at least two years of relevant administrative and
     recruitment experience.
+  - Sourcing talents through digital platforms experience preferred.
+  - Experience with recruiting, community, and networking events.
   - Demonstrated knowledge of basic recruiting and/or HR principles.
   - Strong organizational skills with a focus on details and accuracy.
   - Excellent interpersonal skills and demonstrated ability to work with
