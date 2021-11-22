@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: "Mid Android Tv / Fire Tv Developer "
+title: "Mid Android Tv Developer "
 location: Remote - Based in AMER/LATAM preferred.
 time: Full Time
 description: For more information, please contact recruiting@acklenavenue.com.
