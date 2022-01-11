@@ -3,7 +3,8 @@ layout: post
 title: "Acklen Avenue Brings on Stephanie Johnson as COO and Manuel Calderon as
   Chief Business Officer "
 date: 2022-01-11
-description: Stephanie Johnson and Manuel Calderon join Acklen Avenue.
+description: Stephanie Johnson and Manuel Calderon join Acklen Avenue as
+  executive team members.
 author: Colleen Reidelbach
 excerpt: Stephanie Johnson and Manuel Calderon join Acklen Avenue.
 image: /img/posts/linkedin-1-.jpg
