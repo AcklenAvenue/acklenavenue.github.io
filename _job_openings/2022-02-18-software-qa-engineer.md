@@ -14,6 +14,8 @@ salaryRange: Negotiable
 requirements:
   - "Required Technologies: Selenium WebdriverIO, Cypress and Postman, Selenium,
     Cypress, Cucumber, CucumberStudio, Postman and JMeter."
+  - "Preferred Technologies: Selenium, Cypress, Cucumber, CucumberStudio,
+    Postman and JMeter."
   - Strongly preferred Communication and Leadership Skills.
   - Senior Level.
   - Full time job (40 hours weekly).
