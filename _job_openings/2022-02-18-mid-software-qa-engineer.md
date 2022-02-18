@@ -15,6 +15,8 @@ responsibilities: []
 requirements:
   - "Required Technologies: Selenium WebdriverIO, Cypress and Postman, Selenium,
     Cypress, Cucumber, CucumberStudio, Postman and JMeter."
+  - "Preferred Technologies: Selenium, Cypress, Cucumber, CucumberStudio,
+    Postman and JMeter."
   - Mid Level.
   - Full time job (40 hours weekly).
   - Permanent Contract.
