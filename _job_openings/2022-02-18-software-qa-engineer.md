@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Software QA Engineer
+title: Senior Software QA Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: Software QA Engineer with experience in both Manual and Automation
