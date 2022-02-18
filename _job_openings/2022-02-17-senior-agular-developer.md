@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Senior Agular Developer
+title: Senior Angular Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: Lead development team on Angular best practices and actively
