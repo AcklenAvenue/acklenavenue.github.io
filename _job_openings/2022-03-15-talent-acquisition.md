@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: "Talent Acquisition "
+title: Talent Acquisition Director
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: For more information, contact recruiting@acklenavenue.com
