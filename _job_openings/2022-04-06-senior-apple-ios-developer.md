@@ -3,7 +3,9 @@ layout: job-opening
 title: Senior Apple / iOS Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
-description: For more information, contact recruiting@acklenavenue.com
+description: Seeking someone with experience that can be a quick resource for
+  our leads to answer best practices and proven development strategies on Apple
+  TV.
 salaryRange: Negotiable.
 requirements:
   - "Required Technologies: Swift 5.0+."
