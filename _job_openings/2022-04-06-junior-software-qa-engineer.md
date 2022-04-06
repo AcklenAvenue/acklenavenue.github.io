@@ -3,7 +3,8 @@ layout: job-opening
 title: Junior Software QA Engineer
 location: Remote - Based in AMER
 time: Full Time
-description: For more information, contact recruiting@acklenavenue.com
+description: We're looking for someone who has a proper understanding of the
+  main concepts of quality assurance and its processes.
 salaryRange: Negotiable
 responsibilities:
   - "Preferred experience with Manual testing, Automation QA, any framework
