@@ -13,7 +13,7 @@ requirements:
   - Understanding of SDLC and Agile development methodologies.
   - Strong written and verbal communication skills.
   - Senior Level.
-  - Full-time job (40 hours weekly).
+  - Full time job (40 hours weekly).
   - "Permanent Contract. "
   - C1 Advanced English Level.
   - Availability in CST time zone.
