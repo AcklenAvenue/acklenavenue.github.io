@@ -22,7 +22,7 @@ requirements:
   - Excellent relationship builder, able to successfully influence at all levels
     while driving change and building consensus to achieve results.
   - Senior Level.
-  - Full-time Job (40 hours weekly).
+  - Full time Job (40 hours weekly).
   - Permanent Contract.
   - C1 Advanced English Level.
   - Availability from 8am to 5pm in the CST time zone.
