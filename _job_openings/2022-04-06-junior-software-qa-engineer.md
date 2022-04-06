@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Junior Software QA Engineer
-location: Remote - Based in AMER
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: We're looking for someone who has a proper understanding of the
   main concepts of quality assurance and its processes.
