@@ -6,7 +6,8 @@ time: Full Time
 description: We're looking for someone who has a proper understanding of the
   main concepts of quality assurance and its processes.
 salaryRange: Negotiable
-responsibilities:
+responsibilities: []
+requirements:
   - "Preferred experience with Manual testing, Automation QA, any framework
     based in Selenium and Test case documentation. \t"
   - Strongly preferred Communication, Detail-oriented and User experience skills.
