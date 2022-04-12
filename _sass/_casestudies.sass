@@ -1,4 +1,6 @@
 header.page-header
+  &--freeman-capital
+    background: $slate-purple url(../img/bg-freeman-capital-case-study.png) no-repeat center center
   &--hurdl
     background: $slate-purple url(../img/bg-hurdl-case-study.png) no-repeat center bottom
   &--tafs
@@ -26,7 +28,6 @@ header.page-header
     width: 250px
     text-align: center
 
-
 .text-block
   max-width: 1100px
   margin: 0 auto
@@ -36,6 +37,8 @@ header.page-header
   & h2
     padding: 30px
     text-align: center
+  & h3
+    font-size: 22px
   & p
     line-height: 40px
     padding: 0px 0px 15px
@@ -46,6 +49,18 @@ header.page-header
   &--two-columns
     column-count: 2
     column-gap: 65px
+  &--fc
+    padding: 25px 25px
+
+.about
+  display: flex
+  flex-direction: row
+  & h3
+    font-size: 22px
+    margin: 16px 0
+  &--img
+    display: flex
+    align-items: center
 
 .showcase
   max-width: 900px
@@ -245,6 +260,11 @@ header.page-header
       padding: 25px
       width: 300px
       height: 365px
+  &--fc
+    padding: 0 20px
+
+.card-fc
+  height: auto !important
  
 .theEvolution--hurdl
   text-align: center
@@ -445,12 +465,16 @@ header.page-header
     background: white
     border-radius: $radius
 
-
 @media (min-width: $screen-xm-min) and (max-width: $screen-sm-min)
   .text-block
     &--two-columns
       column-count: 1
       column-gap: 0
+
+  .about
+    display: flex
+    flex-direction: column
+
   .showcase
     max-width: 900px
     margin: 0 auto

@@ -1,19 +1,40 @@
 <section class="text-block">
 	<h2>Project Summary</h2>
-	<h3>About Freeman Capital</h3>
-	<p class="text-block--two-columns" >
-		Freeman Capital was founded with the mission to create generational wealth within underserved communities, especially among people of color, and ultimately closing the wealth gap. 
-		It does this by providing highly customized financial advisory services to individuals who may have historically had less access to personalized insights and counsel. Leveraging technology to improve access to excellent financial advice and insight, Freeman Capital forges a consistent relationship with their clients to help them meet their financial goals.
-	</p>
+	<div class="about">
+		<div>
+			<h3>About Freeman Capital</h3>
+			<p class="text-block" >
+				Freeman Capital was founded with the mission to create generational wealth within underserved communities, especially among people of color, and ultimately closing the wealth gap. 
+				It does this by providing highly customized financial advisory services to individuals who may have historically had less access to personalized insights and counsel. Leveraging technology to improve access to excellent financial advice and insight, Freeman Capital forges a consistent relationship with their clients to help them meet their financial goals.
+			</p>
+		</div>
+		<div class="about--img">
+			<img src="{{ "/img/freeman-dashboard.png" | prepend: base_url }}" alt="dashboard">
+		</div>
+	</div>
 </section>
-<section class="showcase">
-	<img src="{{ "/img/tafs-app.png" | prepend: base_url }}" alt="pixl device">
-	<p>Tafs Mobile App</p>
-</section>
-<section class="text-block text-block--small">
+
+<section class="text-block text-block--fc text-block--small">
 	<h2>The Challenge</h2>
 	<p class="text-block--centered">
-		TAFS manages upwards of 10,000 invoices a month and they were attempting to manage that workflow via email. This was challenging and time consuming because a lot of the documents weren’t legible causing tons of back and forth and, in some cases, requests were lost altogether. We needed to build a new platform to help their clients submit documents in a legible format and automatically put requests into a workflow tool without any information loss.</p>
+		When Freeman Capital’s CEO Calvin Williams, Jr., approached Acklen Avenue through a referral, the company needed to build a unified digital solution that supported the thriving existing business. 
+	</p>
+</section>
+<section class="approach approach--fc">
+	<div class="approach__card-container">
+			<div class="approach__card-container__card card-fc">
+					<img class="iconHurdl" src="{{ "/img/iconFC-input.svg" | prepend: base_url }}" alt="input">
+					<p>Services were administered using highly manual processes on the backend, lacking automation and limiting the company’s capacity to scale and serve a large volume of clients.</p>
+			</div>
+			<div class="approach__card-container__card card-fc">
+					<img class="iconHurdl" src="{{ "/img/iconFC-access.svg" | prepend: base_url }}" alt="access">
+					<p>Clients had to access each of a set of third-party tools separately, limiting the visibility of the complete financial picture and creating a clunky user experience.</p>
+			</div>
+			<div class="approach__card-container__card card-fc">
+					<img class="iconHurdl" src="{{ "/img/iconFC-third-party.svg" | prepend: base_url }}" alt="third party">
+					<p>Finally and crucially, sending clients to various third parties also missed an opportunity to build a more comprehensive relationship with them and serve them as a “one-stop shop”. </p>
+			</div>
+	</div>
 </section>
 <section class="text-block">
 	<h2>The Approach</h2>
