@@ -1,5 +1,4 @@
 GEM
-  remote: https://rubygems.org/
   specs:
     addressable (2.6.0)
       public_suffix (>= 2.0.2, < 4.0)
@@ -101,7 +100,6 @@ GEM
     webrick (1.7.0)
 
 PLATFORMS
-  universal-darwin-21
   x86_64-darwin-18
 
 DEPENDENCIES
@@ -112,4 +110,4 @@ DEPENDENCIES
   webrick
 
 BUNDLED WITH
-   2.3.11
+   2.2.31
