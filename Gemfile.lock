@@ -85,7 +85,7 @@ GEM
     rb-fsevent (0.10.3)
     rb-inotify (0.10.0)
       ffi (~> 1.0)
-    rexml (3.1.9)
+    rexml (3.2.5)
     rouge (3.3.0)
     safe_yaml (1.0.5)
     sassc (2.4.0)
@@ -103,6 +103,7 @@ GEM
 PLATFORMS
   universal-darwin-21
   x86_64-darwin-18
+  x86_64-linux
 
 DEPENDENCIES
   guard
