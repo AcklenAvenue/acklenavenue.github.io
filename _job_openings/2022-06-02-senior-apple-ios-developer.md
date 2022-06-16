@@ -1,12 +1,12 @@
 ---
 layout: job-opening
 title: Senior Apple / iOS Developer
-location: Remote
+location: " Remote - Based in AMER/LATAM"
 time: Full Time
 description: Seeking someone with experience that can be a quick resource for
   our leads to answer best practices and proven development strategies on Apple
   TV.
-salaryRange: " Remote - Based in AMER/LATAM"
+salaryRange: Negotiable
 requirements:
   - "Required Technologies: Swift 5.0+."
   - "Preferred Technologies: Domain of Xcode 10.2+ IDE, Knowledge of RESTful
