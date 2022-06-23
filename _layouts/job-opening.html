@@ -9,25 +9,22 @@ layout: acklen-subfolder
 </header>
 <div id="job-description">
     <section class="text-block">
-        <div class="jobPost__description flex-25">
-            <div class="flex-25 jobPost__description__column">
-                <span><img alt="" class="jobPost__description__icon" src="/img/remote-job.svg"/></span>
+        <div class="jobPost__description jobPost__description__opening">
+            <div class="jobPost__description__column">
                 <span>{{ page.location }}</span>
             </div>
-            <div class="flex-25 jobPost__description__column">
-                <span>
-                    <img alt="" class="jobPost__description__icon" src="/img/{% if page.time == 'Full Time' %}full{% else %}half{% endif %}-time-job.svg"/>
-                </span>
+            <div class="jobPost__description__column">
                 <span>{{ page.time }}</span>
             </div>
             {% if salaryRange != '' %}
-              <div class="flex-25 jobPost__description__column">
-                  <span>
-                      <img alt="" class="jobPost__description__icon" src="/img/salary-range.svg"/>
-                  </span>
+              <div class="jobPost__description__column">
                   <span>{{salaryRange}}</span>
               </div>
-              <div class="flex-25"></div>
+            {% endif %}
+            {% if staffAugmentation != '' %}
+                <div class="jobPost__description__column">       
+                    <div>{{ staffAugmentation }}</div>
+                </div>
             {% endif %}
         </div>
     </section>
