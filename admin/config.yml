@@ -60,6 +60,7 @@ collections:
         }
       - { label: 'Description', name: 'description', widget: 'text' }
       - { label: 'Salary range', name: 'salaryRange', widget: 'string', required: false }
+      - { label: 'Staff augmentation', name: 'staffAugmentation', widget: 'string', required: false }
       - label: 'Responsibilities'
         name: 'responsibilities'
         widget: 'list'
