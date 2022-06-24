@@ -6,6 +6,7 @@ time: Full Time
 description: "We are looking for a Software Developer who will assist us with
   the design, development, and implementation of software solutions. "
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 responsibilities:
   - Write out the solution to the project’s requirements in an agile manner
     while guiding the junior developer in the process, hold technical meetings
