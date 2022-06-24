@@ -6,6 +6,7 @@ time: Full Time
 description: "We are looking for a Software Developer who will assist us with
   the design, development, and implementation of software solutions. "
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 requirements:
   - "Required Technologies: .NET, C#, React, Node.Js, SQL"
   - "Preferred Technologies: React Native."
