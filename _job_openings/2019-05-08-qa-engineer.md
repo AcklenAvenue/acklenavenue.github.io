@@ -11,6 +11,7 @@ description: >
   launch. Your duties will include but are not limited to, identifying and
   analyzing any bugs and errors found during the test phase.
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 responsibilities:
   - Perform manual testing by using functional testing techniques.
   - Perform Cross-browser and mobile testing.
