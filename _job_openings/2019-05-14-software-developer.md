@@ -8,7 +8,7 @@ description: >-
   design,  development, and implementation of software solutions. 
 
   Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
-salaryRange: Negotiable.
+salaryRange: Negotiable
 responsibilities:
   - "Organize full lifecycle software development "
   - "Prepare specifications and determine operational feasibility "
