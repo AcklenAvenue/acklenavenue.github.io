@@ -11,7 +11,7 @@ description: As a DevOps Engineer, you will be responsible for the availability,
   Pipeline, and squash performance issues. You are able to devise proactive
   solutions to project-related issues and inspire trust in all stakeholders.
   You’re a team player who is ready to work with your team to find solutions.
-salaryRange: Negotiable.
+salaryRange: Negotiable
 responsibilities:
   - Manage our (AWS) cloud infrastructure using IaC. (We love Terraform)
   - Manage and evolve our continuous deployment pipeline
