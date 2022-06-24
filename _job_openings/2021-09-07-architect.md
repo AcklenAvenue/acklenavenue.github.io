@@ -5,6 +5,7 @@ location: Remote
 time: Full Time
 description: For more information contact us via recruiting@acklenavenue.com
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 requirements:
   - "5+ years of experience .NET Core 5.0+ and ASP.NET Core / React, TypeScript,
     RDBMS (Postgresql, MySQL, SQL Server, Oracle, etc...), Redux Toolkit,
