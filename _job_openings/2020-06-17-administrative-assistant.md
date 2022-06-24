@@ -7,6 +7,7 @@ description: We are looking for a master multi-tasker with excellent
   communication skills and an upbeat attitude. Candidates should be able to
   assist management providing polite and professional assistance generally being
   a helpful and positive presence in the workplace.
+salaryRange: Negotiable
 responsibilities:
   - Handling office tasks, such as filing, generating reports and presentations,
     setting up for meetings.
