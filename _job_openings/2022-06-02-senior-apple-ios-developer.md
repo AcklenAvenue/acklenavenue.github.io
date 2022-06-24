@@ -7,6 +7,7 @@ description: Seeking someone with experience that can be a quick resource for
   our leads to answer best practices and proven development strategies on Apple
   TV.
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 requirements:
   - "Required Technologies: Swift 5.0+."
   - "Preferred Technologies: Domain of Xcode 10.2+ IDE, Knowledge of RESTful
