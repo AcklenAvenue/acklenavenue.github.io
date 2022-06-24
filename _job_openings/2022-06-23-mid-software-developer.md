@@ -5,6 +5,7 @@ location: Remote - Based in AMER/LATAM
 time: Full Time
 description: For more information, contact recruiting@acklenavenue.com
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 requirements:
   - "Required Technologies: .NET, C#, React, Node.js, SQL."
   - "Preferred Technologies: React Native, Angular"
