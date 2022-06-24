@@ -8,7 +8,7 @@ description: We are looking for an Agile Coach (aka Scrum Master) to coach and
   together. You will collaborate with cross-functional, highly skilled
   engineering teams to help them craft an Agile process that maximizes delivery
   and learning.
-salaryRange: Negotiable.
+salaryRange: Negotiable
 responsibilities:
   - Foster an environment of successful delivery and continuous improvement
   - Help teams with challenges related to how they work and interact together
