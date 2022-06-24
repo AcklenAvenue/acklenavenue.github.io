@@ -5,6 +5,7 @@ location: Remote - Based in AMER/LATAM
 time: Full Time
 description: For more information, contact recruiting@acklenavenue.com
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 requirements:
   - "Required Technologies: PHP, Laravel, Vue.js."
   - Highly required leadership and communication skills.
