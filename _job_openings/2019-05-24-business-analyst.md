@@ -10,6 +10,7 @@ description: >
 
   Acklen Avenue is a leading custom software development in Nashville, Tennessee. 
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 responsibilities:
   - Participates in discovery sessions to gain an understanding of client needs.
   - Writes and slices user stories, scenarios and acceptance criteria for
