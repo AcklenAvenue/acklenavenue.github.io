@@ -11,6 +11,7 @@ description: As a Senior Technical Recruiter, you will be responsible for
   Recruiter will play a critical role in ensuring we are finding and selecting
   the best possible talent.
 salaryRange: Negotiable
+staffAugmentation: Agile Teams
 responsibilities:
   - Source, screen and submit candidates to hiring mangers
   - Support a group of hiring mangers
