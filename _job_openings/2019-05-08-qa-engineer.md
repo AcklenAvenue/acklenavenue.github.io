@@ -10,7 +10,7 @@ description: >
   maintenance of test cases to prevent bugs with software before the product
   launch. Your duties will include but are not limited to, identifying and
   analyzing any bugs and errors found during the test phase.
-salaryRange: Negotiable.
+salaryRange: Negotiable
 responsibilities:
   - Perform manual testing by using functional testing techniques.
   - Perform Cross-browser and mobile testing.
