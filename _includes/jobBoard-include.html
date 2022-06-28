@@ -31,11 +31,9 @@
                               <span>{{ salaryRange }}</span>
                           </div>
                         {% endif %}
-                        {% if staffAugmentation != '' %}
-                            <div class="jobPost__description__column">       
-                                <span>{{ staffAugmentation }}</span>
-                            </div>
-                        {% endif %}
+                        <div class="jobPost__description__column">       
+                            <span>{{ job_opening.staffAugmentation }}</span>
+                        </div>
                     </div>
                 </div>
                 <div class="jobPost__content flex-25 jobPost__description__column">
