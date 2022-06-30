@@ -24,13 +24,13 @@ responsibilities:
 requirements:
   - 5-7 years full life cycle recruiting experience
   - Demonstrated success in innovative sourcing strategies related to Social
-    Networks, AI, IT events, etc.
+    Networks, AI, IT events, etc
   - Experience recruiting Software Related positions in LATAM
   - Software Communities Network
   - Obsession with superior customer service
   - Creative
   - Strong ability to prioritize
-  - Familiarity with ATS, Linkedin Recruiting, Fetcher, Virtual Assessments, etc.
+  - Familiarity with ATS, Linkedin Recruiting, Fetcher, Virtual Assessments, etc
   - Strong communication skills
   - Bachelors degree in Human Resources I/O Psychology or related field preferred
 hidden: false
