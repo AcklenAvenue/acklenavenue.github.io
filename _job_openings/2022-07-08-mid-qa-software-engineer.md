@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Mid-QA Software Engineer
+title: Mid QA Software Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: "-"
