@@ -58,13 +58,13 @@ collections:
           widget: 'select',
           options: ['Full Time', 'Half-Time / Hourly'],
         }
-      - { label: 'Description', name: 'description', widget: 'text' }
+      - { label: 'Description', name: 'description', widget: 'text', required: false }
       - { label: 'Salary range', name: 'salaryRange', widget: 'string', required: false }
       - { label: 'Staff augmentation', name: 'staffAugmentation', widget: 'string', required: false }
       - label: 'Responsibilities'
         name: 'responsibilities'
         widget: 'list'
-        field: {label: 'Responsibility', name: 'responsibility', widget: 'string'}
+        field: {label: 'Responsibility', name: 'responsibility', widget: 'string', required: false}
       - label: 'Requirements'
         name: 'requirements'
         widget: 'list'
