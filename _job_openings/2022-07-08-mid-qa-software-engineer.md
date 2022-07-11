@@ -3,7 +3,7 @@ layout: job-opening
 title: Mid QA Software Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
-description: "-"
+description: ""
 responsibilities: []
 requirements:
   - Experience with Manual testing
