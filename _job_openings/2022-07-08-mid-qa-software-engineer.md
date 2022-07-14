@@ -4,6 +4,8 @@ title: Mid QA Software Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: ""
+salaryRange: Negotiable
+staffAugmentation: Staff Augmentation
 responsibilities: []
 requirements:
   - Experience with Manual testing
