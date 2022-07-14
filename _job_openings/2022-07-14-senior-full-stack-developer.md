@@ -27,6 +27,5 @@ requirements:
   - 1-year contract (contract extension)
   - C1 Advanced English Level
   - Availability from 8-5 pm in the CST/PST/EST time zone
-  - Remote Work
 hidden: false
 ---
