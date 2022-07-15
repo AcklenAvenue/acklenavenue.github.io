@@ -2,6 +2,7 @@
 layout: acklen-subfolder
 ---
 {% assign salaryRange = page.salaryRange | strip %}
+{% assign staffAugmentation = page.staffAugmentation | strip %}
 
 <header class="page-header">
     {% include menu.html %}
@@ -22,7 +23,7 @@ layout: acklen-subfolder
               </div>
             {% endif %}
             <div class="jobPost__description__column">       
-                <span>{{ page.time }}</span>
+                <span>{{ staffAugmentation }}</span>
             </div>
         </div>
     </section>
