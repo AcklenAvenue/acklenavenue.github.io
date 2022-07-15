@@ -5,7 +5,7 @@ location: Remote - Based in AMER/LATAM
 time: Full Time
 description: ""
 salaryRange: Negotiable
-staffAugmentation: Staff Augmentation
+staffAugmentation: Agile Teams
 responsibilities: []
 requirements:
   - Experience with Manual testing
