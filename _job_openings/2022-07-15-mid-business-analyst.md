@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Mid Business Analyst
+title: Business Analyst
 location: Remote - Based in AMER/LATAM
 time: Full Time
 salaryRange: Negotiable
