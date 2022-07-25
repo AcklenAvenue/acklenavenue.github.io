@@ -3,7 +3,7 @@ layout: job-opening
 title: Mid Software Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
-description: For more information, contact recruiting@acklenavenue.com
+description: ""
 salaryRange: Negotiable
 staffAugmentation: Agile Teams
 requirements:
