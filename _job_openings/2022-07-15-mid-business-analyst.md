@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Business Analyst
+title: Mid-Senior Business Analyst
 location: Remote - Based in AMER/LATAM
 time: Full Time
 salaryRange: Negotiable
