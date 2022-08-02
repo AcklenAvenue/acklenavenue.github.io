@@ -6,9 +6,10 @@ time: Full Time
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 requirements:
-  - "Required Technologies: Node js/Python, or Python Engineer Technologies"
-  - "Preferred Technologies: AWS, Node Js Sr. experience, Agile Methodology /
-    Scrum"
+  - "Required Technologies: Node.js, TypeScript, MongoDB, Express.js, and AWS
+    Experience (SQS, SNS, Lambda, API Gateway)"
+  - "Preferred Technologies: Experience with payment processing and/or consumer
+    banking"
   - Strong communication skills, team player, results-oriented, autonomy
   - Senior Level
   - Full-time job (40 hours weekly)
