@@ -13,7 +13,7 @@ requirements:
     to help clients make the best decisions
   - Collaboration and Leadership skills
   - Highly preferred CSPO Accreditation
-  - Mid Level
+  - Mid-Senior Level
   - Full-time job (40 hours weekly)
   - Permanent Contract
   - C1 Advanced English Level
