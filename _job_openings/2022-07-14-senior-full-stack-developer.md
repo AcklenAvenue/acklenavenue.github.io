@@ -3,8 +3,18 @@ layout: job-opening
 title: Senior Full-Stack Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
+description: "The work will be spread across two teams: the factoring team and
+  the trucking system team. The “factoring” team creates a client portal where
+  paperwork is uploaded and funding is managed. The team is converting a legacy
+  client-server application to a Saas platform, focusing on scalability and
+  stability changes"
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
+responsibilities:
+  - " Developing node components using AWS lambda"
+  - Creating a robust enterprise-scale React application
+  - Managing and extending a robust unit and peer testing approach
+  - Participating in code reviews
 requirements:
   - "Required Technologies: JavaScript, React, Node.js, Jest, HTML5, CSS3, AWS
     Lambda, No SQL Databases"
