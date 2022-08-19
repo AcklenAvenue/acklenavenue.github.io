@@ -28,8 +28,6 @@ The Agile teams at Acklen Avenue have found that understanding our client’s pr
 \
 Working this way allows you to aggressively trim your user stories to be laser-focused so that each release solves a customer’s specific problem completely and efficiently. Then when your teams understand the business context and specific user problems, they can create a streamlined product roadmap to work from that will maximize value. 
 
-
-
 ## **Ruthlessly Prioritize**
 
 ![](/img/posts/ruthlessly-prioritize.png)
@@ -41,8 +39,6 @@ Acklen teams leverage Personas and techniques like Visual Story Slicing to zero 
 “Your teams need to understand how each feature contributes to one of the four types of business value to prioritize their work better.” (site [BlackSwanFarming](https://blackswanfarming.com/))
 
 When it gets hard to figure out just what to leave out, we recommend you go back to the business value of each feature. If we successfully solve a user problem, it should do at least one of four things for the company: [increase revenue, protect revenue, avoid costs, or decrease costs](https://blackswanfarming.com/understanding-value/). Add [cost of delay urgency models](http://blackswanfarming.com/urgency-profiles/) into the mix, and your organization will start to make better choices for your customers and the business.
-
-
 
 ## **Learn Fast**
 
@@ -56,8 +52,6 @@ Acklen recommends that along with outlining the underlying business value of you
 \
 The key is to be engaged with your customers and learn from them. All of this learning helps inform how to make subsequent product releases more valuable for everyone.
 
- 
-
 ## **Fail Quickly**
 
 ![](/img/posts/fail-fast.png)
@@ -67,8 +61,6 @@ Of course, no one sets out to fail, but it is an inevitable part of learning. No
 This does require you to be highly collaborative with your customers and open to the feedback you receive. No one likes to hear their baby is ugly, but if your product is not connecting with the market the way you thought, you need to take a hard look at why and adapt. You may even need to decide to drop a feature or service if it is not having an appropriate return on investment.\
 \
 By releasing small increments of value to your customers quickly, you mitigate a significant amount of the impact of these failures by finding them early and being able to recover from them swiftly. In addition, business agility like this can free you up to experiment a bit more, fostering a culture of learning in your organization. 
-
-
 
 ## **Invest in Your Teams**
 
