@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "5 KEY FACTOR TO DELIVERY VALUABLE SOFTWARE QUICKLY "
+title: 5 Key Factors to Delivering Valuable Software Quickly
 date: 2022-04-04
 description: Let’s say you want to go to market quickly with your next great
   software idea but are struggling with narrowing your focus.
