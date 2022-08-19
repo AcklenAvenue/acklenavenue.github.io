@@ -11,7 +11,7 @@ image: /img/posts/5-key-factors-to-delivering-valuable-software-quickly-blog.jpg
 thumbnail: /img/posts/5-key-factors-to-delivering-valuable-software-quickly-blog.jpg
 type: article
 keywords: Software Development, Agile, product vision, MVP
-tags: Software Development
+tags: Tips,_Tricks_&_Secrets
 hidden: false
 ---
 Let’s say you want to go to market quickly with your next great software idea but are struggling with narrowing your focus. You’ve used the term “Minimal Viable Product” (MVP), so many times it has lost its meaning. It’s hard to balance getting enough information to identify the most valuable things to focus on with delivering iterative product increments as fast as possible. You also want to respond to your market as you get feedback from your customers.\
