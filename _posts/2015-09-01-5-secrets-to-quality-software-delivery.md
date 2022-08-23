@@ -2,16 +2,22 @@
 layout: post
 title: 5 Secrets to Quality Software Delivery
 date: 2015-09-01
-description: As software development professionals, how can we fulfill requirements through working software and ensure that our code is maintainable by others late on? Hera are our 5 Secrets to quality software delivery.
+description: As software development professionals, how can we fulfill
+  requirements through working software and ensure that our code is maintainable
+  by others late on? Hera are our 5 Secrets to quality software delivery.
 author: Byron Sommardahl
-excerpt: As software development professionals, how can we fulfill requirements through working software and ensure that our code is maintainable by others late on? Hera are our 5 Secrets to quality software delivery.
+excerpt: As software development professionals, how can we fulfill requirements
+  through working software and ensure that our code is maintainable by others
+  late on? Hera are our 5 Secrets to quality software delivery.
 image: https://acklenavenue.com/img/posts/quality-software-secrets.png
 thumbnail: https://acklenavenue.com/img/posts/quality-software-secrets.png
-ImageCredits: Photo by [rawpixel](https://unsplash.com/@rawpixel) on [Unsplash](https://unsplash.com/)
 type: article
-keywords: client expectations, architecture, Quality Software, Scrum, Agile, Clean Code, Acklen Avenue, Nashville    
-tags: tips_,_tricks_&_secrets
+keywords: client expectations, architecture, Quality Software, Scrum, Agile,
+  Clean Code, Acklen Avenue, Nashville
+tags: Tips,_Tricks_&_Secrets
 hidden: false
+ImageCredits: Photo by [rawpixel](https://unsplash.com/@rawpixel) on
+  [Unsplash](https://unsplash.com/)
 ---
 
 Quality Software works as expected today and can be easily modified 6 months later. How can a team consistently produce software with a high level of quality? In other words, how can we as software development professionals 1) fulfill requirements through working software and 2) ensure that our code is maintainable by others late on? Acklen Avenue does this on a daily basis and has, over the years, discovered some repeatable “secrets”.
