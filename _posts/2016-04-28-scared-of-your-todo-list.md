@@ -2,14 +2,18 @@
 layout: post
 title: Few Ideas to Make Your To-Do Lists More Effective
 date: 2016-04-28
-description: Keeping your life in balance is key to keeping your mind and health in balance. Here are a few ideas to help you achieve a little "To-Do Bliss."
+description: Keeping your life in balance is key to keeping your mind and health
+  in balance. Here are a few ideas to help you achieve a little "To-Do Bliss."
 author: Deanna Vickers
-excerpt: I have 23 year old daughters (twins) who have been living on their own for a few years now. They pay most of their bills and day to day expenses themselves and handle all of their personal business (doctor, dental, whatever appointments)...
+excerpt: I have 23 year old daughters (twins) who have been living on their own
+  for a few years now. They pay most of their bills and day to day expenses
+  themselves and handle all of their personal business (doctor, dental, whatever
+  appointments)...
 image: https://acklenavenue.com/img/posts/to-do-list.jpg
 thumbnail: https://acklenavenue.com/img/posts/to-do-list.jpg
 type: article
 keywords: Acklen Avenue, Google Calendar, Trello, custom software development, to-do list
-tags: tips_,_tricks_&_secrets
+tags: Tips,_Tricks_&_Secrets
 hidden: false
 ---
 
