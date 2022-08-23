@@ -14,7 +14,7 @@ thumbnail: https://acklenavenue.com/img/posts/bugs-eating-software.png
 type: article
 keywords: custom software development, agile, TDD, Pair Programming, Clean Code,
   QA Testers, Bugs, development
-tags: tips_,_tricks_&_secrets
+tags: Tips,_Tricks_&_Secrets
 hidden: false
 ImageCredit: Thumbnail Photo by [Parvana
   Praveen](https://unsplash.com/@parvana_praveen) on
