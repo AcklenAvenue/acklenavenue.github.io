@@ -24,9 +24,9 @@ Once considered a function that could only be served by full-time employees with
 
 To understand how to succeed with outsourcing software development in a budget crunch, it is critical to understand the benefits and drawbacks of software engineering outsourcing as well as which questions to ask to set your engineering plan for success. 
 
+## The Benefits and Drawbacks of Outsourcing Software Development
 
 
-# The Benefits and Drawbacks of Outsourcing Software Development
 
 ## Benefits
 
@@ -52,8 +52,6 @@ When a company has in-house engineers, it is often difficult to say no to new pr
 
 By outsourcing software development, companies can avoid this issue and focus on the projects that are most important to them. This focus can help companies achieve their goals more quickly and efficiently. Additionally, outsourcing forces companies to be more selective about the projects they take on, which can lead to higher-quality products.
 
-
-
 ## Drawbacks
 
 There are also some drawbacks to consider. While each of these drawbacks can be managed, they often cause hesitation in outsourcing for organizations that could benefit the most from leveraging a software development partner. These drawbacks include:
@@ -76,8 +74,6 @@ Timezone and language can drastically hamper communication, but working with ven
 
 Vendors often lack the same level of domain knowledge as in-house engineers, which can lead to problems with quality and timelines. Additionally, specific skill sets may be required, leading to a longer search for a suitable vendor. This can lead to wasted time and frustration on the part of the organization needing engineering work completed. Seek a vendor with years of experience building software in your particular field, or a process that accounts for it, and you will find the knowledge and skills needed to get the job done right.
 
-
-
 # Key Considerations when Budgets Drive Outsourcing
 
 When budget constraints force you to outsource software development, it is important to ask the right questions. This ensures that you recognize as many of the benefits of outsourcing with as few of the drawbacks as possible. Here are five questions we recommend you consider as you embark on outsourcing development during a budget crunch:
@@ -89,8 +85,6 @@ When budget constraints force you to outsource software development, it is impor
 5. How will we ensure quality before pushing a release to production?
 
 Each of these questions will have a different answer depending on the needs and goals of your company. However, each should inform the next, creating a framework at the start that keeps your team aligned. For example, measuring your investment against milestones or releases can ensure that you are not overspending in a budget crunch. 
-
-
 
 # Finding the right partner
 
