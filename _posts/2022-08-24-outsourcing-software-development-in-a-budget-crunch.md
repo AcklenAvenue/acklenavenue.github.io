@@ -15,7 +15,7 @@ image: /img/posts/blog.jpg
 thumbnail: /img/posts/blog.jpg
 type: article
 keywords: "Economy, Budget, Software Development, Outsourcing Software Development, "
-tags: Tips,_Tricks_&_Secrets software_development news
+tags: "software_development "
 hidden: false
 ---
 The current economy is putting the strain on businesses far and wide, pushing leaders to find ways to save money without sacrificing customer service or business growth. In many cases, outsourcing is the answer. Under normal market conditions, outsourcing is often used for routine tasks like accounting or fulfillment. However, with budgets getting tighter and tighter, more complicated and mission-critical tasks are also being outsourced. This includes software development.
