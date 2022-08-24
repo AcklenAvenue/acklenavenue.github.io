@@ -12,7 +12,7 @@ image: /img/posts/linkedin-1-.jpg
 thumbnail: /img/posts/linkedin-1-.jpg
 type: article
 keywords: Leadership, Executive Team, Acklen Avenue, Experience
-tags: News
+tags: news
 hidden: false
 ---
 Nashville, TN: Acklen Avenue Software announced today that Stephanie Johnson, former COO of Zycron and most recently EVP of Customer Experience at Stratasan, and Manuel Calderon, former SVP of the U.S. Business Unit at Overactive, have joined Acklen Avenue as executive team members. These two key hires represent the ambition that Acklen Avenue has to support and multiply the expansive growth it has experienced in the last two years. 
