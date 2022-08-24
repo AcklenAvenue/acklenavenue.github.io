@@ -10,7 +10,7 @@ description: This role is responsible for working closely with our Development,
   Utilizes technical expertise to manage the organization’s Customer facing
   environments. Provides Tier II support for Customer issues and escalations
 salaryRange: Negotiable
-staffAugmentation: Staff Augmentation
+staffAugmentation: Agile Teams
 responsibilities:
   - Work closely with the Development, QA and Security teams across all phases
     of application development and deployment
