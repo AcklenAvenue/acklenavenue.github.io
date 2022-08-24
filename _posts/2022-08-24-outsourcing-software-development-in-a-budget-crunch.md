@@ -26,9 +26,6 @@ To understand how to succeed with outsourcing software development in a budget c
 
 ## The Benefits and Drawbacks of Outsourcing Software Development
 
-
-
-
 ⁣
 
 ### **Benefits**
@@ -95,11 +92,11 @@ Finding the right outsourcing partner starts with understanding your business ne
 
 Once you have a clear idea of where you are starting, where you are trying to go, and what you need to get there, you can start looking for a partner that has the right engineering skills and experience. Here are a few questions we recommend discussing with a potential partner as you search for the right one:
 
-* What is your experience with this type of project?
-* Can you provide examples of your work?
-* Do you have the right skill set for this project?
-* How do you manage projects?
-* What is your timeline, and how do we ensure that it meets our needs?
+1. What is your experience with this type of project?
+2. Can you provide examples of your work?
+3. Do you have the right skill set for this project?
+4. How do you manage projects?
+5. What is your timeline, and how do we ensure that it meets our needs?
 
 You need to find a partner that you can trust and that has the right skill set for your project. You need to make sure that the vendor is able to scale with your company as it grows. You also need to be clear about your expectations in terms of quality and timeline. Lastly, you need to be prepared to manage the communication and coordination between the vendor and your company. By keeping these things in mind, you can ensure that you find the right partner for your project and avoid some of the common pitfalls associated with outsourcing software development. 
 
