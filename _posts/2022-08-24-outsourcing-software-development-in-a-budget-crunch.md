@@ -32,21 +32,21 @@ To understand how to succeed with outsourcing software development in a budget c
 
 There are several benefits of outsourcing software development. In fact, one of the most cost-effective ways to accelerate your development pipeline is to outsource engineering to a partner that can scale resources as needed to ship more code to production. Consider the following benefits.
 
-#### Flexibility
+#### **Flexibility**
 
 When you outsource software development, you gain flexibility. Because you are not limited to a specific pool of in-house engineers, you can work with a development team that is best suited for your specific needs. This flexibility allows you to quickly adapt to changing market conditions and requirements. Companies like Acklen Avenue that live and breathe the agile framework are able to adapt and respond to changes without losing velocity. Additionally, if your company experiences changes in its own staffing needs, you can easily scale back or ramp up your outsourcing project as needed. This flexibility can be very helpful during times of growth or contraction.
 
-#### Scalability
+#### **Scalability**
 
 Outsourcing software development can help your company scale up or down as needed. If your backlog requires a quick expansion of resources, you can easily add more developers to your project. Conversely, if your company is downsizing, you can reduce the number of developers on your project without having to lay anyone off. This scalability gives companies a lot of options when budgets are constrained or when the economic environment is uncertain.
 
 Another scaling consideration is the stage in the product lifecycle. In order to get an MVP out the door as quickly as possible, you may need more resources than you will later in the lifecycle, or post-launch. Conversely, once a market has been proven, you may need to scale up quickly to meet the demands of the expanding customer base. Many of our clients start with one team and scale up to two or three teams based on priorities and budget to capture time-sensitive opportunities. 
 
-#### Lower Total Cost of Ownership (TCO)
+#### **Lower Total Cost of Ownership (TCO)**
 
 Outsourced software development is less expensive than hiring in-house engineers. Cost savings are due to a variety of factors, including elimination of training and benefits costs, lower salary levels, as well as the fact that outsourced developers can be vastly more efficient. Specifically, a well implemented agile process can lift the productivity of a software development group. In addition, outsourcing allows companies to take advantage of economies of scale, which leads to even greater cost savings. 
 
-#### Focus on Key Projects
+#### **Focus on Key Projects**
 
 When a company has in-house engineers, it is often difficult to say no to new projects and initiatives as priorities pile up across the organization. This can lead to engineering departments becoming bogged down with too many projects, which can impact their ability to deliver high-quality products.
 
@@ -56,25 +56,27 @@ By outsourcing software development, companies can avoid this issue and focus on
 
 There are also some drawbacks to consider. While each of these drawbacks can be managed, they often cause hesitation in outsourcing for organizations that could benefit the most from leveraging a software development partner. These drawbacks include:
 
-#### Loss of Control
+#### **Loss of Control**
 
 By outsourcing software development, companies lose a lot of control over the process and the final product. This lack of control can lead to missed deadlines, lower-quality products, and a general loss of transparency in the development process. With proper project management and guidance, plus open communication from your provider, this can be mitigated. 
 
-#### Timeline
+#### **Timeline**
 
 Outsourcing can be difficult to manage and requires a lot of coordination between the vendor and the client. Inexperienced partners may require excessive handholding and coordination, causing delays in the start of the project. It can also take time for the vendor to get up to speed on your company's specific needs and preferences. A thorough onboarding process with a qualified partner can eliminate these issues quickly. 
 
-#### Communication 
+#### **Communication** 
 
 Communication can be especially challenging when working with a vendor. Without effective means for collaborating, delays and disruptions can impede progress. Open communication also helps educate the vendor on your project requirements to prevent misunderstandings in translating needs to delivery. 
 
 Timezone and language can drastically hamper communication, but working with vendors like Acklen Avenue that have teams that speak fluent English and work in US time zones will erase this logistical communication issue altogether. 
 
-#### Capability
+#### **Capability**
 
 Vendors often lack the same level of domain knowledge as in-house engineers, which can lead to problems with quality and timelines. Additionally, specific skill sets may be required, leading to a longer search for a suitable vendor. This can lead to wasted time and frustration on the part of the organization needing engineering work completed. Seek a vendor with years of experience building software in your particular field, or a process that accounts for it, and you will find the knowledge and skills needed to get the job done right.
 
-# Key Considerations when Budgets Drive Outsourcing
+
+
+## Key Considerations when Budgets Drive Outsourcing
 
 When budget constraints force you to outsource software development, it is important to ask the right questions. This ensures that you recognize as many of the benefits of outsourcing with as few of the drawbacks as possible. Here are five questions we recommend you consider as you embark on outsourcing development during a budget crunch:
 
@@ -86,7 +88,7 @@ When budget constraints force you to outsource software development, it is impor
 
 Each of these questions will have a different answer depending on the needs and goals of your company. However, each should inform the next, creating a framework at the start that keeps your team aligned. For example, measuring your investment against milestones or releases can ensure that you are not overspending in a budget crunch. 
 
-# Finding the right partner
+## Finding the right partner
 
 Finding the right outsourcing partner starts with understanding your business needs. What are your top priorities? What projects need to be completed in order to achieve your goals? Which areas of your business would benefit from improved software? Do you have a specified budget or desired business outcome to factor in?
 
