@@ -14,7 +14,7 @@ excerpt: "To understand how to succeed with outsourcing software development in
 image: /img/posts/blog.jpg
 thumbnail: /img/posts/blog.jpg
 type: article
-keywords: "Economy, Budget, Software Development, Outsourcing Software Development, "
+keywords: Economy, Budget, Software Development, Outsourcing Software Development
 tags: "software_development "
 hidden: false
 ---
