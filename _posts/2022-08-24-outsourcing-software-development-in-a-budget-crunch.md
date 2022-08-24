@@ -26,7 +26,10 @@ To understand how to succeed with outsourcing software development in a budget c
 
 ## The Benefits and Drawbacks of Outsourcing Software Development
 
-#
+
+
+
+⁣
 
 ### **Benefits**
 
