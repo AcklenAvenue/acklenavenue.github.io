@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Senior Software Developer
+title: Senior .NET Developer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: You’re a Senior Software Developer proficient in technologies such
