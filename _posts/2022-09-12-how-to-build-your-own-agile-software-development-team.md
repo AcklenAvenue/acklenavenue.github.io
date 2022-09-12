@@ -19,7 +19,7 @@ hidden: false
 ---
 We know how frustrating it can be when your company has a big project they want to build but don’t have the resources they need available. What exactly is it that you need? A developer, a designer, a QA, or a scrum master? If you’re looking to build your own Agile Software Development Team, you’ll need to:
 
-### Define your need
+### **Define your need**
 
 Before building your team, you need to know what type of problem you need them to solve and how long you’ll need your team to work on solving the problem.
 
@@ -29,7 +29,7 @@ However, a prototype is different from an application that manages future comple
 
 On the other end of the spectrum, you have complex, maintainable, robust applications with intuitive user experiences. To build and maintain this application, you’ll need a comprehensive team of experts. Developers, Testers, Designers, Scrum Masters/Process Guardians, Engagement Managers, Architects, DevOps experts, and Product Owners.
 
-### Define your initial approach to an Agile process (or hire an Agile coach to help)
+### **Define your initial approach to an Agile process (or hire an Agile coach to help)**
 
 Agile is not “one size fits all,” and your team needs to find the approach that works best for them but produces the results you need as an organization. The trick is implementing just enough processes to allow them to do their best work.
 
@@ -39,7 +39,7 @@ Depending on the type of work you are doing, integrating practices from Kanban m
 
 These two approaches are also not mutually exclusive and you can combine elements of both to find the right mix that maximizes the delivery of value and learning. Bringing in an experienced Agile coach can often help your organization find the right balance of practices and principles that align with your company values, support your team members, and help you reach your desired business goals.
 
-### Define the roles (and understand them)
+### **Define the roles (and understand them)**
 
 Ideally, an Agile team should comprise all the necessary skills to deliver an idea from concept to cash, meaning it is in production and producing value. In smaller organizations, people may wear multiple hats and fill multiple roles, while larger organizations tend to be more siloed with entire departments dedicated to each skill set.
 
@@ -60,7 +60,7 @@ When building your Agile team, you need to find the right balance that works for
 * Agile Delivery Managers
   Acts as the voice of the client. They’re leading facilitators of the relationship between development teams and the product owner on the client-side. They provide technical expertise in project management with robust communication and a complete understanding of the business goals and vision.
 
-### Hire the right people
+### **Hire the right people**
 
 Be thorough. It is best when a hiring process is in place. This will allow you to maintain a standard all applicants can be reviewed upon.
 
@@ -73,7 +73,7 @@ Take, for example, our hiring process for developers:
 * Suppose the applicant was scored high enough by the hiring team. In that case, the manager of the area the job opening belongs to will review the Pair Session and team interview recordings to determine if the applicant is a good fit.
 * General Acceptance is an essential part of our hiring process. Before the Manager makes an offer to the applicant, they must ask the entire company if there are any objections to hiring the applicant. If there are existing objections, it's the Managers job to evaluate these objections.
 
-### Get everyone on the same page.
+### **Get everyone on the same page**
 
 From values to ideals to practices. After hiring all these developers, you need to find a way to keep them doing things correctly. Whether it's their work ethic, cultural values, the company policies, and the best practices, everyone has to be on the same page.
 
@@ -90,15 +90,15 @@ Meeting with immediate supervisors and some task evaluators allows the new emplo
 
 Once the new employee has completed this training, they’re awarded the Boarding Pass Badges. These badges certify that the individual has completed the Onboarding training and has the green light to start their new journey in Acklen Avenue. In addition, they can begin their Career Path, a series of professional levels where they have the opportunity to show their abilities and skills and challenge themselves to level up.
 
-### Fire the wrong people
+### **Fire the wrong people**
 
 If you are looking to assemble a team, don't keep the guy without a team mentality who can't work with others or has a fixed mindset. Even if he has insane skills, those can be taught and learned; personality cannot.
 
-### Hire again to fill that spot
+### **Hire again to fill that spot**
 
 Go through your hiring process again and review applicants thoroughly. One piece of advice: check your previous hiring process and look for any flaws or areas of improvement. Doing this ensures that you’re not making the same mistakes and hiring the right people for the roles.
 
-### Get the new person on the same page as the team
+### **Get the new person on the same page as the team**
 
 Remember that it is and will always be necessary for your new hires and even your current team members to know, understand, and practice your company’s values, ideals, and practices.
 
