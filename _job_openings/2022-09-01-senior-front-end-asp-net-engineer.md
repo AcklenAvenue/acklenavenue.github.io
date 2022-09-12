@@ -30,6 +30,7 @@ requirements:
   - 1-year contract (possible contract extension)
   - C1 Advanced English Level
   - Availability from 8am-5pm in the CST time zone
+  - Remote Work
   - LATAM Only
 hidden: false
 ---
