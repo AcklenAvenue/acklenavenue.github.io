@@ -30,6 +30,6 @@ requirements:
   - C1 Advanced English Level
   - Availability from 8-5pm in the CST time zone
   - Remote Work
-  - "Salary Rate: Negotiable"
+  - LATAM only
 hidden: false
 ---
