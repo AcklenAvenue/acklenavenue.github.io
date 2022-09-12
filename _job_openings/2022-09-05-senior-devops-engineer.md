@@ -37,6 +37,7 @@ responsibilities:
     escalate to the Cloud Solution Architects
   - Document time spent on customer activities; record activities daily in Jira
     with weekly timecard submissions in Mavenlink
+  - LATAM only
 requirements:
   - "IaC: Terraform with Typescript or Python"
   - "Cloud Provider: AWS"
