@@ -6,7 +6,7 @@ time: Full Time
 description: You’re a QA Automation Engineer proficient in technologies such as
   Automation Testing, Selenium, API Testing, SQL, and C#. Alongside these
   skills, you'll build and execute test cases for all variations of
-  functionality, troubleshoot test-related issues to determine failure points
+  functionality, troubleshoot test-related issues to determine failure points,
   and fully participate in SDL.
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
