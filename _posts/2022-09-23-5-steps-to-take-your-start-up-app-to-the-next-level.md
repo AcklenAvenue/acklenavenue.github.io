@@ -26,7 +26,7 @@ But how do you transition from your startup prototype to this more robust soluti
 
 Here are 5 steps to take your initial solution to the next level:
 
-###  **  1. Listen to Your Customers**
+### **1. Listen to Your Customers**
 
 Remember that your company is at this stage because your idea has attracted customers and started to generate revenue. These customers have found some level of value in your product and are the best ones to inform you on how to make it better.
 
@@ -40,7 +40,7 @@ This type of data can also be compared to certain demographics about your users 
 
 If you have user and buyer personas defined, that knowledge can be used to refine those profiles to help the entire organization think more like your target market. [Personas](https://www.romanpichler.com/blog/10-tips-agile-personas/) are a great addition to use with activities such as [Story Mapping](https://www.jpattonassociates.com/story-mapping/) and [Product Backlog Refinement](https://www.digite.com/agile/backlog-refinement/) to help the simplest and more valuable solution to your user's problem.[](https://www.romanpichler.com/blog/10-tips-agile-personas/)
 
-###  **  2. Ruthlessly Prioritize and Iterate on Your Product Roadmap**
+### **2. Ruthlessly Prioritize and Iterate on Your Product Roadmap**
 
 One downside to all the great feedback from your market is that now you need to sort through it to find out what will have the biggest return on investment. You will most likely still be constrained by expenses, so making smart decisions around which features to spend your time and money on is crucial. 
 
@@ -52,13 +52,11 @@ For more information on the Qualitative Cost of Delay, check out [Blackswam Far
 
 In the end, the ultimate proof is in delivering to your customers and getting their reaction. Everything else beforehand is just theory until a user actually starts using the product as intended. This makes small, quick product iterations a key part to minimizing your risk and maximizing value and learning. Don’t let perfect be the enemy of good enough. Use your personas to zero in on your users’ goals, and then use techniques such as Visual Story Slicing to refine your features to the simplest thing that will work to get them there.
 
-###     **  3. Assess and Invest in the Weakest Parts of Your Technical Solution**
+### **3. Assess and Invest in the Weakest Parts of Your Technical Solution**
 
 Startup companies will typically utilize quick and dirty prototypes to validate their ideas in the market. It allows you to get some essential learning and possible income early without a more significant investment. This is a very feasible approach when you are relying on personal or early angel investment which makes burn rate a very real and immediate constraint.
 
 The downside is that once you get to your next growth stage, your solution may not be robust enough to easily handle your next set of product features. As you grow your market, your current solution may not be able to scale to meet your increased user base or performance demands. Early product decisions that were made for short term business gains will start to jeopardize long term product health and become technical debt.
-
- 
 
 ![](/img/posts/3.png)
 
@@ -66,7 +64,7 @@ Depending on your business goals and financial situation, you may be faced with 
 
 This may be a good time to take stock of the strengths and weaknesses of the current product solution to determine how best to invest your time and money back into it. Using data from static code analysis, performance/load testing, defect heat maps, and longer than usual development times can help identify the areas of your software that are the biggest potential risks. Depending on what this data shows you, you may not need to start from scratch. You might be able to address a few key weaknesses and keep moving forward with product releases without performing a complete re-write.
 
-###     **  4. Invest in Your Teams**
+### **4. Invest in Your Teams**
 
 Since you will be making some investments in your solution to make it more scalable, you want to ensure your team has experience in this level of software development. The developers that helped get your prototype to market quickly may not be the same ones to help you build a more robust software platform. It may be time to start investing in employees that have specialized knowledge and experience in the technologies and approaches you need to adopt for your future product releases.
 
@@ -76,7 +74,7 @@ Along with possibly needing a more robust technical solution, your product would
 
 Another way to help your delivery teams prepare for the next onslaught of feature requests is to provide them an environment that streamlines delivery and promotes quality. Implementing continuous integration and continuous delivery tools and processes can make releasing software a non-event for your teams and allow you to quickly iterate on your Product Roadmap. You can also add test automation to ensure new changes don’t break existing functionality.
 
-###    **5. Prepare for Your Next Growth Stage: Proving the Market** 
+### **5. Prepare for Your Next Growth Stage: Proving the Market** 
 
 After proving your idea and your product, the next typical growth stage of your company is to prove your market. At this point an organization may start investing more in sales and marketing to better pursue and expand in your target market. The customer base will become more diverse and you may even decide to change the direction of your targeting.
 
@@ -89,8 +87,6 @@ For more information on the common growth stages of a product company, check out
 Since an expanded sales and marketing team likely means a torrent of new product ideas, your product management team will need to be skilled at quickly sorting through these requests. Their ability to ruthlessly prioritize will allow the organization to identify the most valuable items and quickly iterate on them to maximize value and learning.
 
 Lastly, with an expanding market and product roadmap, you may need to also expand your delivery capacity. This may mean adding employees to your engineering department or outsourcing to an external development partner. Investing internally usually sounds like the most appealing option to keep the knowledge in house, but later when you reach more of a plateau with your product roadmap you may now be a little top heavy in your engineering department which would be taking up funds that might be better spent elsewhere in upcoming growth stages.
-
-
 
 ### **Conclusion**
 
