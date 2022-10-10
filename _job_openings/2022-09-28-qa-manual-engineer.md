@@ -29,7 +29,7 @@ responsibilities:
   - Build strong relationships across cross functional teams
   - Help define, implement and maintain quality assurance methodologies,
     processes, and metrics that all stakeholders can rally behind
-requirements:
+skillsAndReqs:
   - "Required Technologies: QA Manual Testing, Performance Testing and
     Evaluation activities which include writing test plans, developing test
     cases, executing test plans, and writing defects and test reports. Knowledge

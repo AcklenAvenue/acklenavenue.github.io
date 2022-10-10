@@ -23,7 +23,7 @@ responsibilities:
   - "Process work orders/service requests: research customer questions, verify
     reported problems"
   - Work through customer service personnel to resolve software issues
-requirements:
+skillsAndReqs:
   - Senior Level
   - Full-time job (40 hours weekly)
   - Permanent Contract

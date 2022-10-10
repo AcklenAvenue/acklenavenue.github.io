@@ -4,8 +4,7 @@ layout: acklen-subfolder
 
 {% assign salaryRange = page.salaryRange | strip %} {% assign staffAugmentation
 = page.staffAugmentation | strip %} {% assign description = page.description |
-strip %} {% assign overview = page.overview | strip %} {% assign description =
-page.description | strip %}
+strip %} {% assign description = page.description | strip %}
 
 <header class="page-header">
   {% include menu.html %}
@@ -30,12 +29,19 @@ page.description | strip %}
       </div>
     </div>
   </section>
-  {% if overview != '' %}
   <section class="text-block">
     <h2>Overview</h2>
-    <p class="text-block">{{ overview }}</p>
+    <p class="text-block">
+      Acklen Avenue is a trusted partner in outsourced development and staff
+      augmentation.. We offer fully assembled agile teams at a weekly rate and
+      can help you fill any skills gaps on your existing technology teams.. Our
+      team of software engineers are passionate about clean code and simple user
+      experiences. Acklen Avenue offers more than talent. We offer a mature
+      product development process, staffed with experienced, full-time experts.
+      We are People + Process + Partnership.
+    </p>
   </section>
-  {% endif %} {% if description != '' %}
+  {% if description != '' %}
   <section class="text-block">
     <h2>Description</h2>
     <p class="text-block">{{ description }}</p>
@@ -53,7 +59,7 @@ page.description | strip %}
   </section>
   {% endif %} {% if page.levelsOfMastery.size > 0 %}
   <section class="text-block">
-    <h3>Levels of mastery:</h3>
+    <h3>Levels Of Mastery:</h3>
 
     <ul class="check">
       {% for levelOfMaster in page.levelsOfMastery %}
@@ -71,13 +77,13 @@ page.description | strip %}
       >).
     </p>
   </section>
-  {% endif %} {% if page.requirements.size > 0 %}
+  {% endif %} {% if page.niceToHaves.size > 0 %}
   <section class="text-block">
-    <h3>Requirements:</h3>
+    <h3>Nice To Haves:</h3>
     <ul class="check">
-      {% for requirement in page.requirements %}
+      {% for niceToHave in page.niceToHaves %}
       <li>
-        <span>{{ requirement }}</span>
+        <span>{{ niceToHave }}</span>
       </li>
       {% endfor %}
     </ul>
@@ -93,18 +99,24 @@ page.description | strip %}
       {% endfor %}
     </ul>
   </section>
-  {% endif %} {% if page.coreValues.size > 0 %}
+  {% endif %}
   <section class="text-block">
     <h3>Core Values:</h3>
     <ul class="check">
-      {% for coreValue in page.coreValues %}
       <li>
-        <span>{{ coreValue }}</span>
+        <span>Committed to Personal Growth</span>
       </li>
-      {% endfor %}
+      <li>
+        <span>Seek First to Understand</span>
+      </li>
+      <li>
+        <span>Bring Out the Best in Others</span>
+      </li>
+      <li>
+        <span>Solutions-Oriented</span>
+      </li>
     </ul>
   </section>
-  {% endif %}
   <section class="text-block">
     <h3>Location:</h3>
     <ul class="check">
