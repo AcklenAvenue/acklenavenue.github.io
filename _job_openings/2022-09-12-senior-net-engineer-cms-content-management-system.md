@@ -27,7 +27,7 @@ responsibilities:
   - "Process work orders/service requests: research customer questions, and
     verify reported problems"
   - Work through customer service personnel to resolve software issues
-requirements:
+skillsAndReqs:
   - "Required Technologies (3 or more years of experience): C#, ASP.NET, .NET
     Core, SQL Back-End, Strong Front-End (JQuery, Bootstrap)"
   - "Preferred Technologies: Azure Knowledge, UI Experience"

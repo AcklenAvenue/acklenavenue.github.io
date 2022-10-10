@@ -38,7 +38,7 @@ responsibilities:
   - Document time spent on customer activities; record activities daily in Jira
     with weekly timecard submissions in Mavenlink
   - LATAM only
-requirements:
+skillsAndReqs:
   - "IaC: Terraform with Typescript or Python"
   - "Cloud Provider: AWS"
   - "Docker container: Kubernetes"

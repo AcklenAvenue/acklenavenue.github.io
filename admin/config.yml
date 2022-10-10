@@ -64,13 +64,24 @@ collections:
       - label: 'Responsibilities'
         name: 'responsibilities'
         widget: 'list'
+        required: false
         field: {label: 'Responsibility', name: 'responsibility', widget: 'string', required: false}
-      - label: 'Requirements'
-        name: 'requirements'
+      - label: 'Position skills & Requirements'
+        name: 'skillsAndReqs'
         widget: 'list'
-        field: {label: 'Requirement', name: 'requirement', widget: 'string'}
-      - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false }
-  
+        required: false
+        field: {label: 'Skill/Requirement', name: 'skillOrReq', widget: 'string'}
+      - label: 'Nice To Haves'
+        name: 'niceToHaves'
+        widget: 'list'
+        required: false
+        field: {label: 'Nice To Have', name: 'niceToHave', widget: 'string'}
+      - label: 'Levels of mastery'
+        name: 'levelsOfMastery'
+        widget: 'list'
+        required: false
+        field: {label: 'Level of mastery', name: 'masteryLevel', widget: 'string'}
+      - { label: 'Hidden', name: 'hidden', widget: 'boolean', default: false, required: false }
 
   - name: 'data'
     label: 'Data'
@@ -78,7 +89,7 @@ collections:
       preview: false
     files:
       - name: 'departments'
-        label: 'Departments'
+        label: 'Departments' 
         file: '_data/departments.json'
         fields:
           - name: 'data'

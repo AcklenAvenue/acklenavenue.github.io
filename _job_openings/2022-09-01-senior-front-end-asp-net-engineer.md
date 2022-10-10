@@ -17,7 +17,7 @@ responsibilities:
     directly with Uber Freight and Convoy
   - They are open to receiving suggestions, and ideas from people with the
     experience and expertise we are looking for
-requirements:
+skillsAndReqs:
   - "3 or more years working with: C# with NET 6, Blazor (all UI apps will be
     done in it) or Razor Pages with ASP.NET Core, Strong UI design in both code
     and aesthetic terms, CSS, Signal-R experience, Comfortable in Git   "
