@@ -77,17 +77,6 @@ strip %} {% assign description = page.description | strip %}
       >).
     </p>
   </section>
-  {% endif %} {% if page.niceToHaves.size > 0 %}
-  <section class="text-block">
-    <h3>Nice To Haves:</h3>
-    <ul class="check">
-      {% for niceToHave in page.niceToHaves %}
-      <li>
-        <span>{{ niceToHave }}</span>
-      </li>
-      {% endfor %}
-    </ul>
-  </section>
   {% endif %} {% if page.skillsAndReqs.size > 0 %}
   <section class="text-block">
     <h3>Position Skills & Requirements:</h3>
@@ -99,9 +88,20 @@ strip %} {% assign description = page.description | strip %}
       {% endfor %}
     </ul>
   </section>
+  {% endif %} {% if page.niceToHaves.size > 0 %}
+  <section class="text-block">
+    <h3>Nice To Haves:</h3>
+    <ul class="check">
+      {% for niceToHave in page.niceToHaves %}
+      <li>
+        <span>{{ niceToHave }}</span>
+      </li>
+      {% endfor %}
+    </ul>
+  </section>
   {% endif %}
   <section class="text-block">
-    <h3>Core Values:</h3>
+    <h3>Our Core Values:</h3>
     <ul class="check">
       <li>
         <span>Committed to Personal Growth</span>
