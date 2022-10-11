@@ -10,5 +10,5 @@ skillsAndReqs:
   - This is a Test
 niceToHaves:
   - This is a Test
-hidden: false
+hidden: true
 ---
