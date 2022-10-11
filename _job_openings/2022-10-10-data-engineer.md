@@ -15,6 +15,28 @@ staffAugmentation: Staff Augmentation
 responsibilities:
   - Moving data from on-prem to cloud
   - Designing a data warehouse solution using Synapse or Azure SQL DB
+skillsAndReqs:
+  - "3+ years hands-on experience with one or more of these data integration/ETL
+    tools: Azure Data Factory, Databricks/Spark"
+  - Experience building on-prem data warehousing solutions
+  - Experience with designing and developing ETL's, Data Marts, Star Schema's
+  - Experience with building data warehousing solutions in Azure
+  - Experience building pipelines using Synapse or Azure Data Factory to ingest
+    data from various sources
+  - Understanding of integration run times available in Azure
+  - Advanced working SQL knowledge and experience working with relational
+    databases, query authoring (SQL) as well as working familiarity with a
+    variety of databases
+  - Knowledge of scripting languages like Python, Scala
+  - Senior Level
+  - Full-time job (40 hours weekly)
+  - B2 to C1 Advanced English Level
+  - Availability from 8-5 pm in the CST/PST/EST time zone
+  - Remote Work
+  - LATAM Only
+niceToHaves:
+  - "Microsoft Azure Cloud platform certifications "
+hidden: false
 requirements:
   - "3+ years hands-on experience with one or more of these data integration/ETL
     tools: Azure Data Factory, Databricks/Spark"
@@ -35,5 +57,4 @@ requirements:
   - Availability from 8-5 pm in the CST/PST/EST time zone
   - Remote Work
   - LATAM only
-hidden: false
 ---
