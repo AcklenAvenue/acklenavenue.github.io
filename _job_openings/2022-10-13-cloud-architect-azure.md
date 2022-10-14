@@ -4,7 +4,7 @@ title: Cloud Architect (Azure)
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: We are seeking a Cloud Data & Analytics Architect primarily focused
-  on Microsoft Azure.
+  on Microsoft Azure
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 skillsAndReqs:
