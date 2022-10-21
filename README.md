@@ -7,4 +7,4 @@ The AcklenAvenue official website.
 https://jekyllrb.com/
 bundle install
 
-jekyll serve
+bundle exec jekyll serve

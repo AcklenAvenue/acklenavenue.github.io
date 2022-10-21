@@ -13,6 +13,8 @@ header.page-header
     display: flex
     justify-content: center
     align-items: center
+  &--minno
+    background: $slate-purple url(../img/bg-minno.svg) no-repeat center bottom
 
 .title-center--fortune500partnership
     display: flex
@@ -77,7 +79,9 @@ header.page-header
     padding: 20px
     max-width: 500px
     margin: 0 auto
-
+  &__minno
+    &--logo
+      max-width: 300px
   &__hurdl
     &--pixl
       max-width: 400px
@@ -111,6 +115,46 @@ header.page-header
     border-top: 1px solid $black-12
     border-bottom: 1px solid $black-12
   &--hurdl__twoScreens
+    position: relative
+    &__one
+      position: relative
+      top: 0
+      right: 200px
+      padding: 20px
+    &__two
+      position: absolute
+      top: 180px
+      left: 200px
+      padding: 20px
+
+  &--minno
+    max-width: 900px
+    margin: 0 auto
+    padding: 30px
+    &__caption
+      padding: 50px 0
+    &__image
+      width: 50%
+      margin: auto
+    &__image_pc
+      width: 75%
+      margin: auto
+    & h2
+      padding: 30px 0
+  &--minno:before
+    content: ""
+    position: absolute
+    z-index: -1
+    width: 100%
+    min-height: 500px
+    top: 460px
+    left: 0
+    transform: skewY(6deg)
+    transform-origin: 0
+    background: $pale-grey
+    border-top: 1px solid $black-12
+    border-bottom: 1px solid $black-12
+  &--minno__twoScreens
     position: relative
     &__one
       position: relative
@@ -264,6 +308,15 @@ header.page-header
       padding: 25px
       width: 300px
       height: 365px
+    &__card-minno
+      margin: 15px
+      box-shadow: $shadow-one
+      display: inline-block
+      background: white
+      border-radius: $radius
+      padding: 25px
+      width: 300px
+      height: 415px
   &--fc
     padding: 0 20px
     margin-bottom: 60px  
@@ -404,6 +457,39 @@ header.page-header
       padding: 20px 0
       text-align: left 
 
+.theSolution--minno
+  text-align: center
+  padding: 600px 20px 80px
+  position: relative
+  &:before
+    content: ""
+    position: absolute
+    z-index: -1
+    width: 100%
+    min-height: 700px
+    top: 0
+    left: 0
+    transform: skewY(6deg)
+    transform-origin: 0
+    background: url(../img/roku-tv-minno-MU.svg)
+    background-size: cover
+    background-repeat: no-repeat
+    background-position: center 
+    background-attachment: fixed
+  &__box
+    box-shadow: $shadow-one
+    background: white
+    border-radius: $radius
+    max-width: 900px
+    margin: 0 auto
+    padding: 30px
+    & h2
+      padding: 30px
+    &__item
+      display: flex
+      padding: 20px 0
+      text-align: center
+
 .tecnologiesUsed
   max-width: 1100px
   margin: 0 auto
@@ -431,6 +517,14 @@ header.page-header
     max-width: 900px
     margin: 0 auto
     padding: 60px
+  &__box-minno
+    box-shadow: $shadow-one
+    background: white
+    border-radius: $radius
+    max-width: 900px
+    margin: 0 auto
+    padding: 60px
+    line-height: 2
     & h2
       padding: 0px 20px 30px
   &--hurdl
@@ -446,6 +540,22 @@ header.page-header
       transform: skewY(6deg)
       transform-origin: 0
       background: $slate-purple url(../img/bg-hurdl.jpg)
+      background-size: cover
+      background-repeat: no-repeat
+      background-position: center
+  &--minno-blue
+    padding: 120px 20px 250px
+    &:before
+      content: ""
+      position: absolute
+      z-index: -1
+      width: 100%
+      min-height: 600px
+      top: 450px
+      left: 0
+      transform: skewY(6deg)
+      transform-origin: 0
+      background: $slate-purple url(../img/minno-blue.svg)
       background-size: cover
       background-repeat: no-repeat
       background-position: center
@@ -623,7 +733,6 @@ header.page-header
       padding: 20px
       max-width: 500px
       margin: 0 auto
-
     &__hurdl
       &--pixl
         max-width: 400px
