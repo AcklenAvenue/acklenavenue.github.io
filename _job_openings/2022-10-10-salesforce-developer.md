@@ -24,7 +24,7 @@ responsibilities:
     the organization
   - Work with the Platform Manager to define and document development
     requirements and procedural documents
-requirements:
+skillsAndReqs:
   - 1-3 years of experience as a Salesforce.com Developer
   - Proven ability to design and implement new processes and facilitate user
     adoption
@@ -45,4 +45,24 @@ requirements:
   - Remote Work
   - LATAM Only
 hidden: false
+requirements:
+  - 1-3 years of experience as a Salesforce.com Developer
+  - Proven ability to design and implement new processes and facilitate user
+    adoption
+  - Strong understanding of the platform, with the ability to build custom apps
+    and objects, formula fields, workflows, custom views, and other content of
+    intermediate complexity
+  - Ability to assess the impact of new requirements on Salesforce.com and all
+    upstream and downstream applications, systems, and processes
+  - Strong understanding of Salesforce best practices and functionality
+  - "Competencies: Proactive, Innovative, Entrepreneurial Mindset,
+    Communication, Emphasis on Quality, Interest in Personal Development,
+    Collaborative, Positive, Team Player"
+  - Mid Level
+  - Full-time job (40 hours weekly)
+  - 1-year contract (possible contract extension)
+  - C1 Advanced English Level
+  - Availability from 8-5 pm in the CST-EST-PST time zone
+  - Remote Work
+  - LATAM Only
 ---
