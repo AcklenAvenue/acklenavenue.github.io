@@ -15,6 +15,8 @@ header.page-header
     align-items: center
   &--minno
     background: $slate-purple url(../img/bg-minno.svg) no-repeat center bottom
+  &--expediter
+    background: $slate-purple url(../img/bg-expediter.svg) no-repeat center bottom
 
 .title-center--fortune500partnership
     display: flex
@@ -167,6 +169,40 @@ header.page-header
       left: 200px
       padding: 20px
 
+  &--expediter
+    max-width: 900px
+    margin: 0 auto
+    padding: 30px
+    &__caption
+      padding: 50px 0
+    & h2
+      padding: 30px 0
+  &--expediter:before
+    content: ""
+    position: absolute
+    z-index: -1
+    width: 100%
+    min-height: 1000px
+    top: 460px
+    left: 0
+    transform: skewY(6deg)
+    transform-origin: 0
+    background: $pale-grey
+    border-top: 1px solid $black-12
+    border-bottom: 1px solid $black-12
+  &--expediter__twoScreens
+    position: relative
+    &__one
+      position: relative
+      top: 0
+      right: 200px
+      padding: 20px
+    &__two
+      position: absolute
+      top: 180px
+      left: 200px
+      padding: 20px
+
   &--tafs
     max-width: 1100px
     margin: 0 auto
@@ -285,6 +321,10 @@ header.page-header
   height: 94px
   margin: 30px
 
+.iconExpediter
+  margin: 30px;
+  max-width: 33.3%;
+
 .approach
   max-width: 1100px
   margin: 0 auto
@@ -317,6 +357,20 @@ header.page-header
       padding: 25px
       width: 300px
       height: 415px
+    &__card-expediter
+      margin: 15px
+      box-shadow: $shadow-one
+      display: flex
+      align-items: center
+      background: white
+      border-radius: $radius
+      padding: 25px
+      width: 1075px
+      height: 415px
+      p
+        max-width: 66.6%;
+        text-align: left;
+        margin: 22px
   &--fc
     padding: 0 20px
     margin-bottom: 60px  
@@ -471,7 +525,7 @@ header.page-header
     left: 0
     transform: skewY(6deg)
     transform-origin: 0
-    background: url(../img/roku-tv-minno-MU.svg)
+    background: url(../img/roku-tv-minno-MU.png)
     background-size: cover
     background-repeat: no-repeat
     background-position: center 
@@ -555,7 +609,23 @@ header.page-header
       left: 0
       transform: skewY(6deg)
       transform-origin: 0
-      background: $slate-purple url(../img/minno-blue.svg)
+      background: $slate-purple url(../img/minno-blue.png)
+      background-size: cover
+      background-repeat: no-repeat
+      background-position: center
+  &--expediter
+    padding: 330px 20px 550px
+    &:before
+      content: ""
+      position: absolute
+      z-index: -1
+      width: 100%
+      min-height: 600px
+      top: 450px
+      left: 0
+      transform: skewY(6deg)
+      transform-origin: 0
+      background: $slate-purple url(../img/hero-expediter.svg)
       background-size: cover
       background-repeat: no-repeat
       background-position: center
