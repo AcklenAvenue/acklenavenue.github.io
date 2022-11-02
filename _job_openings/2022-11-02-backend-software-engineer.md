@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: Backend Software Engineer
+title: Back-End Software Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: The Backend Software Engineer will help us implement new features
