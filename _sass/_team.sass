@@ -14,7 +14,7 @@ header.page-header--team
 	flex-direction: column
 	margin: 25px 10px
 
-	&:hover .member-card__quote 
+	&:hover .member-card__quote
 		display: flex
 		align-items: center
 		justify-content: center
@@ -28,9 +28,8 @@ header.page-header--team
 		z-index: 1
 		margin: auto
 	&:hover .member-card__img
-		opacity: .5	
+		opacity: .5
 		filter: grayscale(100%)
-
 
 .member-card__img-container
 	background-color: $apple-green
@@ -74,8 +73,8 @@ header.page-header--team
 
 .member-card__img-container:after
 	width: 0
-	height: 0 
-	border-left: 20px solid transparent  /* left arrow slant */
+	height: 0
+	border-left: 20px solid transparent /* left arrow slant */
 	border-right: 20px solid transparent /* right arrow slant */
 	border-bottom: 20px solid $pale-grey /* bottom, add background color here */
 	font-size: 0
@@ -119,7 +118,7 @@ header.page-header--team
 	align-items: center
 	justify-content: space-evenly
 	flex-wrap: wrap
-	
+
 .teamlist__title
 	text-align: center
 	margin-top: 50px
@@ -138,9 +137,9 @@ header.page-header--team
 		width: 120px
 		min-height: 150px
 		background: $white
-		border-radius: $radius 
+		border-radius: $radius
 		border: 0
-		padding: 15px 14px 
+		padding: 15px 14px
 		text-transform: uppercase
 		font-size: 11px
 		margin: 6px 10px
@@ -152,13 +151,13 @@ header.page-header--team
 			transform: translate(0, -5px)
 	& .team-active
 		border-bottom: 6px solid $apple-green
-		box-shadow: $shadow-two	
+		box-shadow: $shadow-two
 
 .team-filter-container
 	text-align: center
 
 .hide-apply-job
-	display: none	
+	display: none
 
 .infinite-spinner
 	display: block
@@ -167,16 +166,16 @@ header.page-header--team
 	border-radius: 40px
 	background-color: #333
 	margin: 60px auto
-  
+
 	-webkit-animation: scaleout 1.0s infinite ease-in-out
 	animation: scaleout 1.0s infinite ease-in-out
 
 @-webkit-keyframes scaleout
 	0%
-		-webkit-transform: scale(0.0)
+	-webkit-transform: scale(0.0)
 	100%
-		-webkit-transform: scale(1.0)
-		opacity: 0
+	-webkit-transform: scale(1.0)
+	opacity: 0
 
 @keyframes scaleout
 	0%
@@ -190,6 +189,48 @@ header.page-header--team
 .team-filter-mobile
 	display: none
 
+.teamwrap-leadership
+	background-color: $pale-grey
+	& .teamlist
+		margin: 0 auto
+		justify-content: center
+		padding: 45px 0
+
+.member-card-leadership
+	width: 250px
+	max-height: 500px
+	overflow: hidden
+	display: inline-flex
+	background-color: rgba(255, 255, 255, 1)
+	flex-direction: column
+	margin: 15px
+	border-radius: 15.81px
+
+	& .member-card__info
+		color: rgba(0, 0, 0, 0.5)
+		margin: 10% 0
+		font-size: 18px
+		& .member-card__lastname
+			font-weight: 300
+			color: #4F4F4F
+			line-height: 22px
+		& .member-card__firstname
+			font-weight: 700
+			color: #4F4F4F
+			line-height: 22px
+		& .member-card__position
+			font-weight: 300
+			margin: 17.07px auto 55.65px
+			color: #808080
+		& .member-card__icons
+			margin: 0 auto 38.53px
+	& .member-card-leadership__img-container
+		height: 30%
+		margin: 38.89px 70px 19.95px
+		align-items: center
+		justify-content: center
+		display: flex
+
 @media (min-width: $screen-xm-min) and (max-width: $screen-sm-min)
 	.team-filter
 		display: none
@@ -199,7 +240,7 @@ header.page-header--team
 	.dropbtn
 		cursor: pointer
 		background-color: $apple-green
-		border-radius: $radius 
+		border-radius: $radius
 		color: white
 		padding: 16px
 		font-size: 16px
@@ -209,7 +250,7 @@ header.page-header--team
 			width: 16px
 			right: 20px
 			position: absolute
-			margin: 5px	
+			margin: 5px
 			pointer-events: none
 		& span
 			pointer-events: none

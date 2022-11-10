@@ -1,0 +1,23 @@
+
+<div class="member-card-leadership lazy">
+	<div class="member-card-leadership__img-container">
+		<img class="member-card-leadership__img" src="{{ member.image }}" alt="{{ member.linkedin }}">
+	</div>
+
+	<div class="member-card__info">
+		<p class="member-card__firstname">
+			{{ member.name }}
+		</p>
+		<p class="member-card__lastname">
+			{{ member.lastName }}
+		</p>
+		<p class="member-card__position">
+			{{ member.position }}
+		</p>
+		<div class="member-card__icons">
+			{% unless member.linkedin == undefined %}
+				<a target="_blank" href="{{member.linkedin}}" title="linkedin"><svg class="icon icon-linkedingreen" title="linkedin"><use xlink:href="img/external-links.svg#icon-linkedingreen" style="pointer-events: none"></use></svg></a>
+			{% endunless %}
+		</div>		
+	</div>
+</div>
