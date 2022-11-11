@@ -1,0 +1,54 @@
+{
+  "data": [
+    {
+      "lastName": "Callahan",
+      "github": "https://github.com/colinxjcallahan",
+      "position": "Chief Executive Officer",
+      "name": "Colin",
+      "linkedin": "https://www.linkedin.com/in/colin-callahan-63b0512/",
+      "image": "assets/team-leadership/Colin.png"
+    },
+    {
+      "lastName": "Johnson",
+      "position": "Chief Operations Officer",
+      "name": "Stephanie",
+      "linkedin": "https://www.linkedin.com/in/stephanie-johnson-ab1988/",
+      "image": "assets/team-leadership/Stephanie.png"
+    },
+    {
+      "lastName": "Calderon",
+      "position": "Chief Sales Officer",
+      "name": "Manuel",
+      "linkedin": "https://www.linkedin.com/in/manuelcalderon1/",
+      "image": "assets/team-leadership/Manny.png"
+    },
+    {
+      "lastName": "Snarsky",
+      "position": "Chief Revenue Officer",
+      "name": "Tom",
+      "linkedin": "https://www.linkedin.com/in/tom-snarsky-47476ba/",
+      "image": "assets/team-leadership/Tom.png"
+    },
+    {
+      "lastName": "McCarthy",
+      "position": "Chief Finance Officer",
+      "name": "Dan",
+      "linkedin": "https://www.linkedin.com/in/mccarthydaniel/",
+      "image": "assets/team-leadership/Dan.png"
+    },
+    {
+      "lastName": "Fields",
+      "position": "Chief Delivery Officer",
+      "name": "Jennifer",
+      "linkedin": "https://www.linkedin.com/in/jennifer-fields-0b40aa4/",
+      "image": "assets/team-leadership/Jennifer.png"
+    },
+    {
+      "lastName": "Mezquita",
+      "position": "Chief of Staff ",
+      "name": "Fernanda",
+      "linkedin": "https://www.linkedin.com/in/fernanda-mezquita/",
+      "image": "assets/team-leadership/Fernanda.png"
+    }
+  ]
+}
