@@ -7,18 +7,85 @@ Meet the people that make those projects a success. Meet the Ackleners."
 ---
 <header class="page-header page-header--ourwork page-header--team">
 	{% include menu.html %}
-	<h1>Meet the Team</h1>
-	<h2>Each project we undertake makes the world a better place.  Our expert software engineers <br/>use agile development practices that make those projects a success, Meet the Ackleners.</h2>
+	<h1>About Us</h1>
+	<h2>Elegantly crafted, stress-free software at the speed of now</h2>
 </header>
 
-<!-- <div class="team-filter-container">
+<section class="text-block team-text-block">
+	<h2>Our Story</h2>
+	<div class="about">
+		<div>
+			<p class="text-block team-text-block" >
+				Acklen Avenue was founded in Nashville, TN in 2010 by two .NET developers focused on building an agile software development company committed to delivering clean, maintainable code to customers, following the highest ethical and technical standards.
+<br/>
+<br/>
+				Colin Callahan, Co-Founder and CEO, was fascinated by technology and fell naturally into programming after taking C++ and database classes. Byron Sommerdahl, Co-Founder, had been developing software since he was 9 years old, coding RPG's on his Commodore 64 and his best friend's Apple IIe. The two set out to form a company that would focus on delivering value for customers while developing talent and giving their employees a place to thrive.
+			</p>
+		</div>
+		<div class="about--img-right">
+			<img src="{{ "/img/team-1.png" | prepend: base_url }}" alt="dashboard">
+		</div>
+	</div>
+	<div class="about padding-top">
+		<div class="about--img-left">
+			<img src="{{ "/img/team-2.png" | prepend: base_url }}" alt="dashboard">
+		</div>
+		<div>
+			<p class="text-block team-text-block right-align" >
+				Through a serendipitous mission trip to Honduras and a resulting love story, Acklen was introduced to a new pool of skilled talent that also created opportunities for people in a struggling economy. Hiring developers in Honduras proved financially beneficial and allowed Acklen Avenue to keep valuable team members on the bench between contracts.
 
-{% include team-members-filter.html %}
+	
+			</p>
+			<p class="text-block team-text-block right-align" >
+				Establishing a high-performing team structure of developers that stayed together over time proved to be a competitive advantage and has been the flagship offering of Acklen Avenue over the past 12 years. Additional opportunities and referrals led Acklen to broaden its offering to include Staff Augmentation.
+	
+			</p>
+		</div>
+		
+	</div>
+	<div class="about">
+	
+		<div>
+			
+			<p class="text-block team-text-block center-align" >
+				By utilizing its best-in-class talent recruitment and vetting process, Acklen can place individual engineers with organizations that don’t require a complete development team. The combination of offerings allows Acklen Avenue to be flexible while remaining true to its core values. Acklen employs nearly 200 team members in over 21 countries all while maintaining a people first approach.	
+			</p>
+		</div>
+		
+	</div>
+</section>
 
-</div> -->
 
-{% include teamlist-leadership.html %}	
 
-<!-- {% include callToAction.html %}
+{% include ourStoryHightlight.html %}
 
-{% include ContactUs.html %} -->
+
+
+{% include teamlist-leadership.html %}
+
+
+<section class="approach">
+    <h2>Our Values</h2>
+	<p>We are an agile company. We fully believe and live out the Agile Manifiesto on a daily basis. Agile <br/>also has a huge influence on our company values:</p>
+    <div class="approach__card-container values-container">
+        <div class="approach__card-container__card value-card">
+            <img class="iconHurdl" src="{{ "/img/check.svg" | prepend: base_url }}" alt="check">
+            <p>Committed to Personal Growth</p>
+        </div>
+        <div class="approach__card-container__card value-card">
+            <img class="iconHurdl" src="{{ "/img/check.svg" | prepend: base_url }}" alt="check">
+            <p>Bring Out the Best in Others</p>
+        </div>
+        <div class="approach__card-container__card value-card">
+            <img class="iconHurdl" src="{{ "/img/check.svg" | prepend: base_url }}" alt="check">
+            <p>Seek First to Understand</p>
+        </div>
+		<div class="approach__card-container__card value-card">
+            <img class="iconHurdl" src="{{ "/img/check.svg" | prepend: base_url }}" alt="check">
+            <p>Solutions-Oriented</p>
+        </div>
+    </div>
+</section>
+
+{% include startConversation.html %}
+{% include ContactUs.html %}
