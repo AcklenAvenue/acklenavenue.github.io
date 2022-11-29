@@ -13,7 +13,7 @@ image: /img/posts/ux_that_works_-_wendy_blog.jpg
 thumbnail: /img/posts/ux_that_works_-_wendy_blog.jpg
 type: article
 keywords: UX, UX Design, User Experience, User Interface
-tags: UX/UI_Desigb
+tags: UX/UI_Design
 hidden: false
 ---
 Imagine that you’re looking for buried treasure. All you have is a map, which shows the direct way to find it. Maybe you ask yourself, is it the only way to find it? Are there quicker ways to reach it? Maybe. Whoever drew the map felt that it was the best way to find this treasure, which is your main objective. Maybe they did so through trial and error? Through their own experience?  How do we know it’s the best?
