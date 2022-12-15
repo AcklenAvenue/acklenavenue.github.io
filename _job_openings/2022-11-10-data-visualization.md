@@ -2,7 +2,7 @@
 layout: job-opening
 title: Data Visualization
 location: Remote - Based in AMER/LATAM
-time: Full Time
+time: Half-Time / Hourly
 description: You’re a Data Visualization proficient in Redshift, AWS, and
   PowerBI. Alongside your strong leadership, communication, and mentorship
   skills, you will assist us with the design, development, and implementation of
