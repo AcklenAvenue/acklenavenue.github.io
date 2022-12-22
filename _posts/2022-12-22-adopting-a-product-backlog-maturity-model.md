@@ -16,7 +16,7 @@ thumbnail: /img/posts/ux-that-works-tommy-blog.jpg
 type: article
 keywords: Product Backlog, Product Owner, Velocity, Story Points, Backlog, User
   Stories, Maturity Levels
-tags: Software_Development
+tags: software_development
 hidden: false
 ---
 <!--StartFragment-->
