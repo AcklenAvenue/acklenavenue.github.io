@@ -60,15 +60,21 @@ When it is determined that an item will be worked on by the team in the next two
 These three basic maturity levels can help determine when and what backlog items to address during refinement sessions. Here is one approach:
 
 1. Before each refinement session, the Product Owner will review any new backlog items and determine if they have enough information to prioritize them.
-2. 1. If there is enough information, they move it to the appropriate spot on the Product Backlog and mark it as Maturity 1.
-   2. If there is not, they should note their outstanding questions and determine who they need to follow up with to get the necessary information.
-3. At the beginning of the refinement session, the team will ensure all backlog items in the “Ready to Play” section of the Product Backlog are at Maturity 3.
-4. 1. Any items not at Maturity 3 need to be refined until the team determines they have enough information to make that designation. If they need additional information to achieve this, the Product Owner will note all of their questions and ensure they get answered as soon as possible.
-   2. The team may also want to quickly review items for the next Sprint that may already be Maturity 3, but they have not discussed them in a few weeks and need to refresh their memory with a short conversation to confirm that item is still at that maturity level.
-5. The team moves on to the backlog items “Targeted for Release” and ensures that they are all at least to Maturity 2.
-6. 1. Since this level is typically about estimating the item, this is an excellent time for an activity like [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker).
-   2. If the team starts to dive into more detail than required to reach Maturity 2, the Scrum Master (or any other member of the team) can ask if the current discussion would have a significant impact on the size or priority of the backlog item. If it does not, note the topic as an outstanding question that can be addressed in a future refinement session when this item needs to be Maturity 3.
-7. If time allows, the Product Owner and the team may elect to review any backlog items in the “Future Release” and see if any of those warrant a discussion.
+
+* If there is enough information, they move it to the appropriate spot on the Product Backlog and mark it as Maturity 1.
+* If there is not, they should note their outstanding questions and determine who they need to follow up with to get the necessary information.
+
+2. At the beginning of the refinement session, the team will ensure all backlog items in the “Ready to Play” section of the Product Backlog are at Maturity 3. 
+
+* Any items not at Maturity 3 need to be refined until the team determines they have enough information to make that designation. If they need additional information to achieve this, the Product Owner will note all of their questions and ensure they get answered as soon as possible.
+* The team may also want to quickly review items for the next Sprint that may already be Maturity 3, but they have not discussed them in a few weeks and need to refresh their memory with a short conversation to confirm that item is still at that maturity level.
+
+3. The team moves on to the backlog items “Targeted for Release” and ensures that they are all at least to Maturity 2.
+
+* Since this level is typically about estimating the item, this is an excellent time for an activity like [Planning Poker](https://www.mountaingoatsoftware.com/agile/planning-poker).
+* If the team starts to dive into more detail than required to reach Maturity 2, the Scrum Master (or any other member of the team) can ask if the current discussion would have a significant impact on the size or priority of the backlog item. If it does not, note the topic as an outstanding question that can be addressed in a future refinement session when this item needs to be Maturity 3.
+
+4. If time allows, the Product Owner and the team may elect to review any backlog items in the “Future Release” and see if any of those warrant a discussion.
 
 ## Things to Consider
 
