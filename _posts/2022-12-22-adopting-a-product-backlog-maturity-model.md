@@ -27,21 +27,21 @@ A maturity model is a method for classifying each backlog item based on how refi
 
 ![](/img/posts/tommy-01-1-.png)
 
-# Ready to Play
+## Ready to Play
 
 The predominant guidance is that a team should have two Sprints worth of backlog items refined enough so that the team can immediately start working on them. An often-used term for this is “Ready to Play.” This would be the highest maturity level and where any backlog item needs to reach before work can begin. 
 
-# Targeted for Release
+## Targeted for Release
 
 Typically, a Product Owner uses a team’s past velocity to determine how much work they can handle each Sprint. [Velocity](https://www.scruminc.com/velocity/) is most commonly the sum of the estimated sizes of all the completed items in each Sprint, often done using [Story Points](https://www.mountaingoatsoftware.com/blog/what-are-story-points). This metric can be used to forecast how much of the Product Backlog can be feasibly slated for the next release. These backlog items can be loosely categorized as “Targeted for Release.” At the end of every Sprint, any changes to the backlog or updates to the team’s velocity metric are used to update that release plan, so the specific items in this category can change over time.
 
 Some teams may use other methods for sizing backlog items and determining how much work a team can consistently deliver, but in most cases, there is some method for a Product Owner to project which items the team can conceivably complete for the next release. Whichever method the team uses, items in the release plan need to have undergone some level of estimation effort.
 
-# Future Backlog
+### Future Backlog
 
 The rest of your backlog items not in the next release can simply be classified as your “Future Backlog.” New backlog items can come from various sources. Still, ultimately the Product Owner needs to assess each one and determine if it needs to be done immediately, slated for the next product release, or if it can wait for a future release. This means those items need just enough detail for the Product Owner to prioritize them.
 
-# Maturity Levels
+### Maturity Levels
 
 Each category described above can have a maturity level defined. When a new item is added to the Product Backlog, we need just enough information to determine its priority. Typically this would mean the item is provided enough detail for the Product Owner to make that decision. [User Stories](https://www.mountaingoatsoftware.com/agile/user-stories) are one frequently used format to capture the user, their need, and the specific value of the functionality proposed in the backlog item. That information can be enough for prioritization.
 
@@ -55,7 +55,7 @@ When it is determined that an item will be worked on by the team in the next two
 
 *Any backlog item that has yet to be reviewed by the Product Owner, or did not have enough information to prioritize it, can be considered Maturity 0.*
 
-# Utilizing Maturity Levels
+### Utilizing Maturity Levels
 
 These three basic maturity levels can help determine when and what backlog items to address during refinement sessions. Here is one approach:
 
@@ -70,7 +70,7 @@ These three basic maturity levels can help determine when and what backlog items
    2. If the team starts to dive into more detail than required to reach Maturity 2, the Scrum Master (or any other member of the team) can ask if the current discussion would have a significant impact on the size or priority of the backlog item. If it does not, note the topic as an outstanding question that can be addressed in a future refinement session when this item needs to be Maturity 3.
 7. If time allows, the Product Owner and the team may elect to review any backlog items in the “Future Release” and see if any of those warrant a discussion.
 
-# Things to Consider
+### Things to Consider
 
 Maturity levels are a tool to help the team and the Product Owner have the right level of conversation about the right backlog items at the right time. This supports the Agile concept of [“Just In Time”](https://agileforall.com/new-to-agile-remember-one-thing-just-enough-just-in-time/) requirements. Having productive and valuable conversations is the point, not assigning the maturity level.
 
@@ -78,7 +78,7 @@ There is always a temptation to refine items to Maturity 3 before it is required
 
 The definitions of the maturity levels above are ambiguous on purpose. Every team will need to determine the specifics of what “enough information to do XYZ” means to them. Many factors, such as the app domain's complexity, the team's skill level, the Product Owner's domain knowledge, etc., will be significant in determining the particulars of your definitions for each maturity level.
 
-# Wrap Up
+### Wrap Up
 
 This simple and practical method for determining the maturity level of backlog items can help teams focus their time on having valuable conversations at the right time while ensuring that the Product Owner has a healthy Product Backlog.
 
