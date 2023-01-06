@@ -10,10 +10,6 @@ description: As a Partner Cloud Operations Engineer, you will report to the
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 responsibilities:
-  - Daily Customer Environment Monitoring & Troubleshooting
-  - Customer Communication
-  - Maintenance and Change Request Execution
-  - Technical Escalation
   - Perform daily system monitoring and troubleshooting for a small number of
     the client's customers; verify the integrity and availability of cloud
     infrastructure, server resources, systems, and key processes, review system
