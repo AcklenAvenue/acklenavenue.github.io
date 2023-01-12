@@ -7,7 +7,7 @@ description: You’re a Data Engineer proficient in SQL, SSIS, and SSRS. Alongsi
   your strong leadership, communication, and mentorship skills, you will assist
   us with the design, development, and implementation of data solutions.  You
   will professionally represent Acklen Avenue while taking ownership of
-  delivering value to your customer.
+  delivering value to your customer
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 responsibilities:
