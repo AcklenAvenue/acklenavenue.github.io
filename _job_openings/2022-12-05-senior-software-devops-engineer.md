@@ -5,7 +5,7 @@ location: Remote - Based in AMER/LATAM
 time: Full Time
 description: As a Senior Software & DevOps Engineer, you will help us implement
   new technologies based on the best practices and also help your team members
-  to improve their code quality and performance.
+  to improve their code quality and performance
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 responsibilities:
