@@ -8,7 +8,7 @@ description: A Power BI Developer is an expert that understands the Power BI
   responsibility for the development and administration of BI tools. Power BI
   Developers' roles and responsibility includes transforming raw data into
   valuable and meaningful insights in the form of appealing dashboards and
-  reports.
+  reports
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 responsibilities:
