@@ -4,7 +4,7 @@ title: Mid Senior .NET Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: The Mid Senior Software Engineer will help us implement new
-  features and testing frameworks on our systems.
+  features and testing frameworks on our systems
 salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 responsibilities:
