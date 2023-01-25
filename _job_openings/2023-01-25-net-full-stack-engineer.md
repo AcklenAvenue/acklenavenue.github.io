@@ -1,6 +1,6 @@
 ---
 layout: job-opening
-title: .NET Full Stack Engineer
+title: .NET Full-Stack Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
 description: >-
