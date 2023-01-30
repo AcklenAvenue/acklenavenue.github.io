@@ -13,6 +13,7 @@ git clone https://github.com/AcklenAvenue/acklenavenue.github.io.git
 ```
 4. Open terminal in the project directory.
 5. Install required gems
+
  ```console
 bundle install
 ``` 

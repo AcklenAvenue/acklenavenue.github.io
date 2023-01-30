@@ -3,8 +3,7 @@ layout: job-opening
 title: .NET Full-Stack Engineer
 location: Remote - Based in AMER/LATAM
 time: Full Time
-description: >-
-  The Senior Software Developer is responsible for analyzing, designing,
+description: The Senior Software Developer is responsible for analyzing, designing,
   documenting, developing, and testing custom application service solutions that
   enhance our core
 
