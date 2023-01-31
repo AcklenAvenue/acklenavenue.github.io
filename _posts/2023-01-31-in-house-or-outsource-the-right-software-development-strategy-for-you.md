@@ -38,7 +38,7 @@ With an in-house software development solution, your organization retains full c
 
 The downside is that managing an in-house team can require significant financial and personnel resources. You will need to recruit and retain qualified engineers, purchase the necessary hardware and software, allocate space for them to work, and manage their progress throughout the development process. This can be a long and expensive process that may not meet your timeline or budget requirements.
 
-### **Advantages**
+### **Advantages:**
 
 * #### Control
 
@@ -52,7 +52,7 @@ In-house developers are familiar with the company’s needs and existing technol
 
 In-house developers mean that many security concerns are solved from the start. Your security requirements can be baked into the code from the first line. Similarly, the chance of any important intellectual property or code being stolen or reused is almost zero.
 
-### **Disadvantages**
+### **Disadvantages:**
 
 * #### Resource allocation
 
@@ -72,7 +72,7 @@ Outsourcing is a great option for companies that don't have the internal resourc
 
 The downside is the lack of control over the project and the potential for communication breakdowns. You may find yourself feeling disconnected from the development process and unable to provide any meaningful input or guidance. This can lead to delays and a product that does not meet your exact specifications.
 
-### **Advantages**
+### **Advantages:**
 
 * #### Agility
 
@@ -94,7 +94,7 @@ Outsourcing takes the pressure off of the company’s internal resources, allowi
 
 Outsourced providers often have established development processes that can help ensure a high-quality product. If your internal team is new and/or small, these processes are unlikely to be as regimented and reliable.
 
-### **Typical Disadvantages**
+### **Typical Disadvantages:**
 
 * #### Lack of control
 
