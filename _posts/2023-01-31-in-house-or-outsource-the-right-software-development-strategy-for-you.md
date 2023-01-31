@@ -24,8 +24,6 @@ hidden: false
 
 In this article, we'll explore both options--in-house vs. outsourced--and help you determine what solution makes the most sense for your organization.
 
-
-
 ## Two Most Common Ways to Develop Software
 
 The two most common ways that organizations develop their software are by building an in-house team dedicated to the product or by outsourcing the development to a third party. This is one of the earliest decisions that a business will have to make, but also the most important because it will have downstream effects on the future of your product. Each approach has its pros and cons, which should be considered when making a decision about how to develop software for your organization. 
@@ -34,15 +32,13 @@ Generally speaking, building an in-house software development team can be a grea
 
 Outsourcing to a third-party provider can be a great way to get started with agile software development without making a significant investment. According to a [2022 study by Accelerance](https://www.accelerance.com/hubfs/2022%20Global%20Software%20Outsourcing%20Trends%20and%20Rates%20Guide.pdf?utm_campaign=2021%20Software%20Outsourcing%20Rates%20and%20Trends%20Campaign&utm_medium=email&_hsmi=175367915&_hsenc=p2ANqtz-8nr4GcXhTyvtQ45F2RBhOq-w2gcVg4WtUCibnEMuTn4AIv98yTLmreK3eHr-KRo5t24P6JLwOxDOn5Zm0OcnBkmQ3kxTyVIwpAD6SB_ECvnKcWXlY&utm_content=175367915&utm_source=hs_automation), 60% of companies outsource at least a part of their application development - supporting its popularity. However, it is important to choose a reputable and experienced provider that you can trust to deliver quality results. You will also need to be clear about your requirements and objectives to ensure that the project stays on track. So what are some of the benefits and drawbacks of each?
 
-
-
 ## In-house Software Development
 
 With an in-house software development solution, your organization retains full control of the process and has access to specialized talent. You get to make all the decisions about quality, design, and coding standards which can help ensure that the product meets your exact specifications.
 
 The downside is that managing an in-house team can require significant financial and personnel resources. You will need to recruit and retain qualified engineers, purchase the necessary hardware and software, allocate space for them to work, and manage their progress throughout the development process. This can be a long and expensive process that may not meet your timeline or budget requirements.
 
-### Advantages
+### **Advantages**
 
 * #### Control
 
@@ -56,7 +52,7 @@ In-house developers are familiar with the company’s needs and existing technol
 
 In-house developers mean that many security concerns are solved from the start. Your security requirements can be baked into the code from the first line. Similarly, the chance of any important intellectual property or code being stolen or reused is almost zero.
 
-### Disadvantages
+### **Disadvantages**
 
 * #### Resource allocation
 
@@ -70,15 +66,13 @@ There is always the risk that the software may not meet all of the company's nee
 
 Companies may lack the skills and expertise required to develop software in-house.
 
-
-
 ## Outsourced Software Development
 
 Outsourcing is a great option for companies that don't have the internal resources or expertise to handle software development in-house. By hiring an experienced third-party vendor, you can get access to specialized talent without having to hire and manage them directly. This can save you time and money while allowing your business to remain agile and competitive.
 
 The downside is the lack of control over the project and the potential for communication breakdowns. You may find yourself feeling disconnected from the development process and unable to provide any meaningful input or guidance. This can lead to delays and a product that does not meet your exact specifications.
 
-### Advantages
+### **Advantages**
 
 * #### Agility
 
@@ -100,7 +94,7 @@ Outsourcing takes the pressure off of the company’s internal resources, allowi
 
 Outsourced providers often have established development processes that can help ensure a high-quality product. If your internal team is new and/or small, these processes are unlikely to be as regimented and reliable.
 
-### Typical Disadvantages
+### **Typical Disadvantages**
 
 * #### Lack of control
 
@@ -122,11 +116,7 @@ Third-party developers may not fully understand the company’s needs or technol
 
 Selecting a third party that can deliver quality code within budget can take significant time and energy.
 
-
-
 The right software development outsourcing partner will have the necessary skills and experience to deliver on your project requirements, transparent communication channels, and clear expectations to ensure a successful collaboration. At Acklen, we have a little something called the ***Acklen Way.*** Acklen Avenue has developed an effective engagement and delivery model with a proven track record of success over the past 13 years. This model eliminates the typical disadvantages of outsourcing software development projects. If you're interested in learning more about how Acklen Avenue can help, please reach out to us at *sales@acklenavenue.com*.
-
-
 
 ## The Right Decision for Your Engineering Needs
 
