@@ -118,7 +118,7 @@ Selecting a third party that can deliver quality code within budget can take sig
 
 The right software development outsourcing partner will have the necessary skills and experience to deliver on your project requirements, transparent communication channels, and clear expectations to ensure a successful collaboration. At Acklen, we have a little something called the ***Acklen Way.*** 
 
-Acklen Avenue has developed an effective engagement and delivery model with a proven track record of success over the past 13 years. This model eliminates the typical disadvantages of outsourcing software development projects. If you're interested in learning more about how Acklen Avenue can help, please reach out to us at *[sales@acklenavenue.com](sales@acklenavenue.com)*.
+Acklen Avenue has developed an effective engagement and delivery model with a proven track record of success over the past 13 years. This model eliminates the typical disadvantages of outsourcing software development projects. If you're interested in learning more about how Acklen Avenue can help, please reach out to us at ***sales@acklenavenue.com***.
 
 ## The Right Decision for Your Engineering Needs
 
