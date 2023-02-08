@@ -21,7 +21,7 @@ What drives motivation? One of the core Agile principles is to build teams aroun
 
 As Agile Delivery Managers, ADMs, part of our job is to promote a culture of innovation and motivation by encouraging and leading our teams to be self-managing. Throughout our journey at Acklen Avenue, we’ve discovered some powerful ways to keep teams motivated.
 
-1. ### **Encourage Open Communication**
+### **Encourage Open Communication**
 
 We say, “People over Process.” As an Agile company, it's important to create an environment where leaders know the company values and put them into practice. This creates an environment in which team members feel comfortable speaking up. There are many ways you can encourage open communication, including:
 
@@ -33,21 +33,15 @@ Not everyone feels comfortable speaking in group settings, but one-on-one meetin
 
 There are many automated processes that we can use in software development to programmatically trigger notifications, but human interaction can make a difference in team dynamics. Once someone’s done with a task or card, ask them to follow up with their peers. A simple: “Hey, I finished this. I’ll leave it in your hands now” shows more human interest than an automated message.
 
-
-
 > “Of course, some of these automated things help, but it's the interaction that is best to help maintain effective communication between teams. We don't walk down the hall and see each other like you would in a regular office. We have to emulate those scenarios so that when getting a huddle via Slack, we are intentional with talking to each other.”
 >
 > Susan Breedlove, Agile Delivery Manager
-
-
 
 * Take responsibility for your actions
 
 Encourage team members to call you out. As leaders, we try our best to be role models but sometimes fail. It’s important to have that transparency and trust between each other. Own up to your mistakes and make sure your team feels safe enough to let you know when you make them. 
 
-
-
-2. ### **Lead Teams To Be Self-Managing**
+### **Lead Teams To Be Self-Managing**
 
 Self-managing teams are self-driven and self-aware, operating without a leader micromanaging every decision they make. Create situations where team members take charge and then facilitate a space for the team to discuss what went well, what didn’t, and how you can solve any issues. By tracking progress, asking meaningful questions, and instilling a mindset of intentional growth, teams learn to trust each other and develop strong internal communication.
 
@@ -59,9 +53,7 @@ Be willing and open to critique your own ideas and sometimes go with the team’
 >
 > Evan Hensley, Agile Delivery Manager
 
-
-
-3. ### **Be a Servant Leader**
+### **Be a Servant Leader**
 
 A servant leader hinges on building influence and authority rather than using control and toxic leadership tactics. You can certainly get results by task-mastering, nagging, and adopting a strong command-and-control approach. People will do what they’re told, work will be completed, and clients will go away happy. But this approach tends to be shortsighted and often leaves team members feeling unfulfilled. We find a servant-leadership model much more effective at delivering results and keeping team members satisfied with their jobs. 
 
@@ -71,9 +63,7 @@ As ADMs, we see ourselves as servant-leaders and coaches. This puts us in a posi
 >
 > Andre Brousseau, Agile Delivery Manager
 
-
-
-4. ### **Create an Environment of Trust**
+### **Create an Environment of Trust**
 
 A work environment should be positive, comfortable and a safe place for everyone. High level of trust is key to a good and positive environment. There are many strategies you can include in your day-to-day process to create an environment of trust.
 
@@ -101,9 +91,7 @@ Conflict is generally associated with being a negative thing, but it can be heal
 >
 > Heathman Nichols, Agile Delivery Manager
 
-
-
-5. ### **Care About Their Well-Being**
+### **Care About Their Well-Being**
 
 We all have those days (or even weeks) where we just don’t seem to be engaging like we know we can, something in our personal life is dragging us down, or just can’t find the energy or motivation. As someone leading a team, you must support their well-being, especially during uncertain times. The last thing you want is for your team to lose mindfulness, clarity and motivation.
 
@@ -122,8 +110,6 @@ Support your team’s work/life balance, especially if you’re a fully remote c
 * Radical Empathy
 
 At the end of the day, the team is human. Everyone gets sick, has family emergencies, has kids or pets at home, needs to run errands or simply has a personal matter that needs attention. On a team, everyone should have each other’s backs. Put yourself in their shoes and value their personal lives. Don’t be afraid to experience emotions alongside your team. 
-
-
 
 Motivation is a spectrum. If you set yourself up as the authority on what motivates someone, you will fall on the wrong side of the spectrum. Motivated people are typically more adaptable, especially when it comes to change, and they bring a positive attitude to work. They reinforce an organization's good reputation, miss less work, and improve performance and overall profit. With these benefits in mind, the positive impacts that proper motivation can have on both team member wellness and the goals you have for your business. Done right, you create an environment where everyone wins.
 
