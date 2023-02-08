@@ -35,7 +35,8 @@ There are many automated processes that we can use in software development to pr
 
 > “Of course, some of these automated things help, but it's the interaction that is best to help maintain effective communication between teams. We don't walk down the hall and see each other like you would in a regular office. We have to emulate those scenarios so that when getting a huddle via Slack, we are intentional with talking to each other.”
 >
-> **Susan Breedlove**, *Agile Delivery Manager*
+> **Susan Breedlove**\
+> *Agile Delivery Manager*
 
 * #### Take responsibility for your actions
 
@@ -51,7 +52,8 @@ Be willing and open to critique your own ideas and sometimes go with the team’
 
 > “People like being able to chart their own destiny. Some wise leadership advice was once given to me: “hire the right people, give them the tools to do their job, and get out of the way.” As an ADM, you’re helping to build a solid foundation; a launch pad for the team members, who are the rockets. Build the best launch pad you can for them, help them fuel up, and watch as they blast off.”
 >
-> **Evan Hensley**, *Agile Delivery Manager*
+> **Evan Hensley**\
+> *Agile Delivery Manager*
 
 ### **Be a Servant Leader**
 
@@ -61,7 +63,8 @@ As ADMs, we see ourselves as servant-leaders and coaches. This puts us in a posi
 
 > “Being a servant leader means that you’re there for them if they need something. If a Scrum Master or BA, has a doctor's appointment, I'll fill in wherever I need to to help out. I'll run the daily meeting, I’ll facilitate a grooming session and/or write cards, so that way the team doesn't miss a beat.” 
 >
-> **Andre Brousseau**, *Agile Delivery Manager*
+> **Andre Brousseau**\
+> *Agile Delivery Manager*
 
 ### **Create an Environment of Trust**
 
@@ -89,7 +92,8 @@ Conflict is generally associated with being a negative thing, but it can be heal
 
 > “When exercising any of the above strategies, it’s important to consider the audience. Some cases call for small group settings, some for 1 on 1, still others might warrant company-wide kudos. Knowing the individuals who comprise the team can also help you make decisions around how to communicate different kinds of feedback.”
 >
-> **Heathman Nichols**, *Agile Delivery Manager*
+> **Heathman Nichols**\
+> *Agile Delivery Manager*
 
 ### **Care About Their Well-Being**
 
