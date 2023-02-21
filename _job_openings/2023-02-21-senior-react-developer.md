@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: Senior React Developer
-location: Remote
+location: Remote - Based in AMER/LATAM
 time: Full Time
 description: >
   Acklen Avenue is a trusted partner in outsourced development and staff
@@ -9,6 +9,7 @@ description: >
   help you fill any skills gaps on your existing technology teams.
 
   Our team of software engineers are passionate about clean code and simple user experiences. Acklen Avenue offers more than talent. We offer a mature product development process, staffed with experienced, full-time experts. We are People + Process + Partnership.
+salaryRange: Negotiable
 staffAugmentation: Staff Augmentation
 skillsAndReqs:
   - 4 -5 years of experience with React.
