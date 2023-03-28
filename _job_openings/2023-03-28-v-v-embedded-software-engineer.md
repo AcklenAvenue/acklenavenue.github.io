@@ -1,7 +1,7 @@
 ---
 layout: job-opening
 title: "V&V Embedded Software Engineer "
-location: Onsite, Austin, TX, US
+location: "Onsite, Carrollton, TX, US "
 time: Full Time
 description: "An individual who can take on the role of our V&V embedded
   software  engineer. This individual will work in a development team as well as
@@ -72,8 +72,9 @@ skillsAndReqs:
   - Maintain an excellent work ethic and is proficient in both written and
     verbal communications
   - "Onsite job, Location: US "
-  - Permanent contract.  Full-time job (40 hours weekly). C1 Advanced English
-    Level.  Needs to be a local to Austin, TX (US).
+  - "Full-time job (40 hours weekly). Direct hire Salaried position (Standard 8
+    am-5 pm shift Monday-Friday) C1 Advanced English Level. Needs to be local to
+    Carrollton, TX "
 niceToHaves:
   - "Experience with the full life cycle development of embedded software and
     the Advanced RISC Machine is a plus. "
