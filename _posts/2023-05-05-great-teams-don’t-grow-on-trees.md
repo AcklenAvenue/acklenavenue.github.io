@@ -14,7 +14,7 @@ thumbnail: /img/posts/great_teams_dont_grow_on_trees-jennifer_fields.png
 type: article
 keywords: "highly functioning teams, Agile Teams, Nashville, building great
   teams, software development "
-tags: software_development, agile
+tags: software_development
 hidden: false
 ---
 ### Why am I writing this?
