@@ -5,12 +5,12 @@ date: 2023-05-05
 description: "Can you deliver that in half the time? How do we reduce the ramp
   up time for that new employee to 2 weeks? Shouldn’t we hire a junior so we can
   save money? "
-author: Jennifer Fields
+author: Heath Nichols
 excerpt: "Can you deliver that in half the time? How do we reduce the ramp up
   time for that new employee to 2 weeks? Shouldn’t we hire a junior so we can
   save money? "
-image: /img/posts/great_teams_dont_grow_on_trees-jennifer_fields.png
-thumbnail: /img/posts/great_teams_dont_grow_on_trees-jennifer_fields.png
+image: /img/posts/great_teams_dont_grow_on_trees-heath_nichols.png
+thumbnail: /img/posts/great_teams_dont_grow_on_trees-heath_nichols.png
 type: article
 keywords: "highly functioning teams, Agile Teams, Nashville, building great
   teams, software development "
