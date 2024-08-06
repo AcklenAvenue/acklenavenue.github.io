@@ -821,6 +821,17 @@
       "location": "Tegucigalpa, Honduras",
       "quote": "All our dreams can come true, if we have the courage to pursue them. - Walt Disney",
       "linkedin": "https://www.linkedin.com/in/jose-edgardo-flores-815916137"
-    }
-  ]
-}
+  },
+{
+   "name": "Rocio",
+      "lastName": "Acosta",
+      "gravatarEmail": "rocio.acosta@acklenavenue.com",
+      "position": "Talent Acquisition Associate",
+      "department": [
+        "All Ackleners",
+        "People Operations"
+      ],
+      "location": "Tegucigalpa, Honduras",
+      "quote": "Do what makes your soul shine!"
+  }
+]
